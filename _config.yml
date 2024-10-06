@@ -1,0 +1,12 @@
+title: Club Ajedrez Gambito de Guada
+email: gambitodeguada@gmail.com
+description: >-
+  Club Ajedrez Gambito de Guada es un club deportivo con el objetivo de fomentar la práctica, desarrollo y difusión del Ajedrez en la provincia de Guadalajara.
+baseurl: ""
+url: "https://gambitodeguada.com"
+twitter_username: gambitodeguada
+instagram_username: gambitodeguada
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

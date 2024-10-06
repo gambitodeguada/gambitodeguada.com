@@ -1,0 +1,17 @@
+- name: Inicio
+  link: /
+- name: Liga
+  link: /i-liga-gambito-de-guada.html
+- name: Inscripción
+  link: /inscripcion.html
+- name: Cuotas
+  link: /cuotas.html  
+- name: Contacto
+  link: /contacto.html  
+- name: Código de Conducta
+  link: /codigo-de-conducta.html  
+- name: Estatutos
+  link: /estatutos.html
+- name: Junta
+  link: /junta.html  
+  
