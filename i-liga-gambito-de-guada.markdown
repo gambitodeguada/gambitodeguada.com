@@ -5,7 +5,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 <h2><a href="https://info64.org/i-torneo-club-gambito-de-guada">Emparejamientos, Resultados e información sobre el torneo</a></h2>
 
-![](assets/iligagambitodeguada.com)
+![](./assets/iligagambitodeguada.png)
 
 Torneo cerrado dirigido a los socios del club Gambito de Guada.
 
