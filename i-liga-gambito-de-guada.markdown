@@ -5,24 +5,41 @@ title: I Liga Round robin Club Gambito de Guada
 
 <h2><a href="https://info64.org/i-torneo-club-gambito-de-guada">Emparejamientos, Resultados e información sobre el torneo</a></h2>
 
-### Pairing Round 1
+# Clasificación
+
+| **Jugador**                           | **Partidas** | **Puntuación**                          |
+|---------------------------------------|---------------|----------------------------------------|
+| Diaz Martín, Javier                   | 4             | 3                                      |
+| García Pardo, Efrén                   | 3             | 2                                      |
+| Pérez Lorenzo, Manuel Jesús           | 3             | 2                                      |
+| del Amo Caballero, Sergio             | 3             | 1.5                                    |
+| Gómez Vázquez, Javier                 | 1             | 1                                      |
+| Aragonés Congostrina, J. Carlos       | 2             | 1                                      |
+| Esteban López, Vicente                | 1             | 0.5                                    |
+| García Martín, Juan Manuel            | 3             | 0                                      |
+| Sierra Grasa, Ismael                  | 2             | 0                                      |
+| Corral Ruano, Roberto                 |               |                                        |
+| Caballero Justo, Mario                |               |                                        |
+
+
+### Pairing Round 1     
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Aragonés Congostrina, J. Carlos       |               | Pérez Lorenzo, Manuel Jesús             |
-| Sierra Grasa, Ismael                  |               | Gómez Vázquez, Javier                   |
+| Aragonés Congostrina, J. Carlos       |  1 - 0        | Pérez Lorenzo, Manuel Jesús             |
+| Sierra Grasa, Ismael                  |  0 - 1        | Gómez Vázquez, Javier                   |
 | Corral Ruano, Roberto                 |               | García Pardo, Efrén                     |
 | Caballero Justo, Mario                |               | Esteban López, Vicente                  |
-| del Amo Caballero, Sergio             |               | Diaz Martín, Javier                     |
+| del Amo Caballero, Sergio             | 0 - 1         | Diaz Martín, Javier                     |
 
 ### Pairing Round 2
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Esteban López, Vicente                |               | del Amo Caballero, Sergio               |
+| Esteban López, Vicente                | 1/2 - 1/2     | del Amo Caballero, Sergio               |
 | García Pardo, Efrén                   |               | Caballero Justo, Mario                  |
 | Gómez Vázquez, Javier                 |               | Corral Ruano, Roberto                   |
-| Pérez Lorenzo, Manuel Jesús           |               | Sierra Grasa, Ismael                    |
+| Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Sierra Grasa, Ismael                    |
 | García Martín, Juan Manuel            |               | Aragonés Congostrina, J. Carlos         |
 
 ### Pairing Round 3
@@ -39,7 +56,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| García Pardo, Efrén                   |               | Diaz Martín, Javier                     |
+| García Pardo, Efrén                   |   1 - 0       | Diaz Martín, Javier                     |
 | Gómez Vázquez, Javier                 |               | del Amo Caballero, Sergio               |
 | Pérez Lorenzo, Manuel Jesús           |               | Caballero Justo, Mario                  |
 | García Martín, Juan Manuel            |               | Corral Ruano, Roberto                   |
@@ -61,7 +78,7 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | Gómez Vázquez, Javier                 |               | Esteban López, Vicente                  |
 | Pérez Lorenzo, Manuel Jesús           |               | Díaz Martín, Javier                     |
-| García Martín, Juan Manuel            |               | del Amo Caballero, Sergio               |
+| García Martín, Juan Manuel            |      0-1      | del Amo Caballero, Sergio               |
 | Aragonés Congostrina, J. Carlos       |               | Caballero Justo, Mario                  |
 | Sierra Grasa, Ismael                  |               | Corral Ruano, Roberto                   |
 
@@ -72,19 +89,19 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | Caballero Justo, Mario                |               | Sierra Grasa, Ismael                    |
 | del Amo Caballero, Sergio             |               | Aragonés Congostrina, J. Carlos         |
-| Diaz Martín, Javier                   |               | García Martín, Juan Manuel              |
+| Diaz Martín, Javier                   |  1 - 0        | García Martín, Juan Manuel              |
 | Esteban López, Vicente                |               | Pérez Lorenzo, Manuel Jesús             |
 | García Pardo, Efrén                   |               | Gómez Vázquez, Javier                   |
 
 ### Pairing Round 8
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
-|---------------------------------------|---------------|----------------------------------------|
-| Pérez Lorenzo, Manuel Jesús           |               | García Pardo, Efrén                     |
+|---------------------------------------|---------------|---------------------------------------- |
+| Pérez Lorenzo, Manuel Jesús           |   1 - 0       | García Pardo, Efrén                     |
 | García Martín, Juan Manuel            |               | Esteban López, Vicente                  |
-| Aragonés Congostrina, J. Carlos       |               | Diaz Martín, Javier                     |
-| Sierra Grasa, Ismael                  |               | Corral Ruano, Roberto                   |
-| Gómez Vázquez, Javier                 |               | del Amo Caballero, Sergio               |
+| Aragonés Congostrina, J. Carlos       |  0 - 1        | Diaz Martín, Javier                     |
+| Sierra Grasa, Ismael                  |               | del Amo Caballero, Sergio               |
+| Corral Ruano, Roberto                 |               | Caballero Justo, Mario                  |
 
 ### Pairing Round 9
 
@@ -93,7 +110,7 @@ title: I Liga Round robin Club Gambito de Guada
 | del Amo Caballero, Sergio             |               | Corral Ruano, Roberto                   |
 | Diaz Martín, Javier                   |               | Sierra Grasa, Ismael                    |
 | Esteban López, Vicente                |               | Aragonés Congostrina, J. Carlos         |
-| García Pardo, Efrén                   |               | García Martín, Juan Manuel              |
+| García Pardo, Efrén                   |  1 - 0        | García Martín, Juan Manuel              |
 | Gómez Vázquez, Javier                 |               | Pérez Lorenzo, Manuel Jesús             |
 
 ### Pairing Round 10
@@ -121,10 +138,10 @@ title: I Liga Round robin Club Gambito de Guada
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
 | Pérez Lorenzo, Manuel Jesús           |               | Aragonés Congostrina, J. Carlos         |
-| Gómez Vázquez, Javier                 |               | García Pardo, Efrén                     |
-| García Martín, Juan Manuel            |               | Esteban López, Vicente                  |
-| Diaz Martín, Javier                   |               | Corral Ruano, Roberto                   |
-| Sierra Grasa, Ismael                  |               | Caballero Justo, Mario                  |
+| Gómez Vázquez, Javier                 |               | Sierra Grasa, Ismael                    |
+| García Pardo, Efrén                   |               | Corral Ruano, Roberto                   | 
+| Esteban López, Vicente                |               | Caballero Justo, Mario                  |
+| Diaz Martín, Javier                   |               | del Amo Caballero Sergio                |                   
 
 ### Pairing Round 13
 
