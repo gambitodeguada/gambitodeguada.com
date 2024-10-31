@@ -10,11 +10,11 @@ title: I Liga Round robin Club Gambito de Guada
 | **Jugador**                           | **Partidas** | **Puntuación**                          |
 |---------------------------------------|---------------|----------------------------------------|
 | Diaz Martín, Javier                   | 5            | 3                                      |
-| García Pardo, Efrén                   | 3             | 2                                      |
+| García Pardo, Efrén                   | 4             | 2                                      |
 | Pérez Lorenzo, Manuel Jesús           | 4             | 3                                     |
 | del Amo Caballero, Sergio             | 3             | 1.5                                    |
 | Gómez Vázquez, Javier                 | 1             | 1                                      |
-| Aragonés Congostrina, J. Carlos       | 2             | 1                                      |
+| Aragonés Congostrina, J. Carlos       | 3             | 2                                      |
 | Esteban López, Vicente                | 1             | 0.5                                    |
 | García Martín, Juan Manuel            | 3             | 0                                      |
 | Sierra Grasa, Ismael                  | 2             | 0                                      |
