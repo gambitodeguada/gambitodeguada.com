@@ -9,9 +9,9 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Jugador**                           | **Partidas** | **Puntuación**                          |
 |---------------------------------------|---------------|----------------------------------------|
-| Diaz Martín, Javier                   | 4             | 3                                      |
+| Diaz Martín, Javier                   | 5            | 3                                      |
 | García Pardo, Efrén                   | 3             | 2                                      |
-| Pérez Lorenzo, Manuel Jesús           | 3             | 2                                      |
+| Pérez Lorenzo, Manuel Jesús           | 4             | 3                                     |
 | del Amo Caballero, Sergio             | 3             | 1.5                                    |
 | Gómez Vázquez, Javier                 | 1             | 1                                      |
 | Aragonés Congostrina, J. Carlos       | 2             | 1                                      |
@@ -77,7 +77,7 @@ title: I Liga Round robin Club Gambito de Guada
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
 | Gómez Vázquez, Javier                 |               | Esteban López, Vicente                  |
-| Pérez Lorenzo, Manuel Jesús           |               | Díaz Martín, Javier                     |
+| Pérez Lorenzo, Manuel Jesús           |     1 - 0          | Díaz Martín, Javier                     |
 | García Martín, Juan Manuel            |      0-1      | del Amo Caballero, Sergio               |
 | Aragonés Congostrina, J. Carlos       |               | Caballero Justo, Mario                  |
 | Sierra Grasa, Ismael                  |               | Corral Ruano, Roberto                   |
