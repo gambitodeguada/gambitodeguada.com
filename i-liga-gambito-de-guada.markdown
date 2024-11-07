@@ -15,7 +15,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Aragonés Congostrina, J. Carlos       | 4             | 2                                      | 0     |
 | García Pardo, Efrén                   | 4             | 2                                      | 0     |       
 | Gómez Vázquez, Javier                 | 1             | 1                                      | +0.5  |
-| García Martín, Juan Manuel            | 3             | 1                                      | -1    |
+| García Martín, Juan Manuel            | 4             | 1                                      | -1    |
 | Esteban López, Vicente                | 1             | 0.5                                    | 0     |
 | Sierra Grasa, Ismael                  | 3             | 0                                      | -1.5  |
 | Corral Ruano, Roberto                 |               |                                        |       |
