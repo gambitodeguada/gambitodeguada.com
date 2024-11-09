@@ -12,14 +12,14 @@ title: I Liga Round robin Club Gambito de Guada
 | Pérez Lorenzo, Manuel Jesús           | 4             | 3                                      | +1    |
 | Diaz Martín, Javier                   | 5             | 3                                      | +0.5  |
 | del Amo Caballero, Sergio             | 4             | 2.5                                    | +0.5  |
+| Gómez Vázquez, Javier                 | 2             | 2                                      | +1    |
 | Aragonés Congostrina, J. Carlos       | 4             | 2                                      | 0     |
 | García Pardo, Efrén                   | 4             | 2                                      | 0     |       
-| Gómez Vázquez, Javier                 | 1             | 1                                      | +0.5  |
 | García Martín, Juan Manuel            | 4             | 1                                      | -1    |
 | Esteban López, Vicente                | 1             | 0.5                                    | 0     |
 | Sierra Grasa, Ismael                  | 3             | 0                                      | -1.5  |
 | Corral Ruano, Roberto                 |               |                                        |       |
-| Caballero Justo, Mario                |               |                                        |       |
+| Caballero Justo, Mario                | 1             | 0                                      | -0.5  |
 
 
 ### Pairing Round 1     
@@ -48,7 +48,7 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | Sierra Grasa, Ismael                  |   0 - 1       | García Martín, Juan Manuel              |
 | Corral Ruano, Roberto                 |               | Pérez Lorenzo, Manuel Jesús             |
-| Caballero Justo, Mario                |               | Gómez Vázquez, Javier                   |
+| Caballero Justo, Mario                |   0 - 1       | Gómez Vázquez, Javier                   |
 | del Amo Caballero, Sergio             |               | García Pardo, Efrén                     |
 | Diaz Martín, Javier                   |               | Esteban López, Vicente                  |
 
