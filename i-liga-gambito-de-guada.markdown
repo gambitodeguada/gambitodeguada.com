@@ -9,15 +9,15 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Jugador**                           | **Partidas** | **Puntuación**                          | Media |
 |---------------------------------------|---------------|----------------------------------------| ----- |
-| Pérez Lorenzo, Manuel Jesús           | 4             | 3                                      | +1    |
-| Diaz Martín, Javier                   | 5             | 3                                      | +0.5  |
+| Diaz Martín, Javier                   | 7             | 5                                      | +1.5  |
+| Pérez Lorenzo, Manuel Jesús           | 5             | 3                                      | +0.5  |
+| Aragonés Congostrina, J. Carlos       | 5             | 3                                      | +0.5  |
 | del Amo Caballero, Sergio             | 4             | 2.5                                    | +0.5  |
 | Gómez Vázquez, Javier                 | 2             | 2                                      | +1    |
-| Aragonés Congostrina, J. Carlos       | 4             | 2                                      | 0     |
-| García Pardo, Efrén                   | 4             | 2                                      | 0     |       
+| García Pardo, Efrén                   | 5             | 2                                      | -0.5  |       
 | García Martín, Juan Manuel            | 4             | 1                                      | -1    |
 | Esteban López, Vicente                | 1             | 0.5                                    | 0     |
-| Sierra Grasa, Ismael                  | 3             | 0                                      | -1.5  |
+| Sierra Grasa, Ismael                  | 4             | 0                                      | -2    |
 | Corral Ruano, Roberto                 |               |                                        |       |
 | Caballero Justo, Mario                | 1             | 0                                      | -0.5  |
 
@@ -108,7 +108,7 @@ title: I Liga Round robin Club Gambito de Guada
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
 | del Amo Caballero, Sergio             |               | Corral Ruano, Roberto                   |
-| Diaz Martín, Javier                   |               | Sierra Grasa, Ismael                    |
+| Diaz Martín, Javier                   |  1 - 0        | Sierra Grasa, Ismael                    |
 | Esteban López, Vicente                |               | Aragonés Congostrina, J. Carlos         |
 | García Pardo, Efrén                   |  1 - 0        | García Martín, Juan Manuel              |
 | Gómez Vázquez, Javier                 |               | Pérez Lorenzo, Manuel Jesús             |
@@ -137,7 +137,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Pérez Lorenzo, Manuel Jesús           |               | Aragonés Congostrina, J. Carlos         |
+| Pérez Lorenzo, Manuel Jesús           |     0 - 1     | Aragonés Congostrina, J. Carlos         |
 | Gómez Vázquez, Javier                 |               | Sierra Grasa, Ismael                    |
 | García Pardo, Efrén                   |               | Corral Ruano, Roberto                   | 
 | Esteban López, Vicente                |               | Caballero Justo, Mario                  |
@@ -167,7 +167,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Diaz Martín, Javier                   |               | García Pardo, Efrén                     |
+| Diaz Martín, Javier                   |    1 - 0      | García Pardo, Efrén                     |
 | del Amo Caballero, Sergio             |               | Gómez Vázquez, Javier                   |
 | Caballero Justo, Mario                |               | Pérez Lorenzo, Manuel Jesús             |
 | Corral Ruano, Roberto                 |               | García Martín, Juan Manuel              |
