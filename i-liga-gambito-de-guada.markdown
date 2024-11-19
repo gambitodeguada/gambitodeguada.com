@@ -9,7 +9,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Jugador**                           | **Partidas** | **Puntuación**                          | Media |
 |---------------------------------------|---------------|----------------------------------------| ----- |
-| Diaz Martín, Javier                   | 7             | 5                                      | +1.5  |
+| Diaz Martín, Javier                   | 8             | 5.5                                    | +1.5  |
 | Pérez Lorenzo, Manuel Jesús           | 5             | 3                                      | +0.5  |
 | Aragonés Congostrina, J. Carlos       | 5             | 3                                      | +0.5  |
 | del Amo Caballero, Sergio             | 4             | 2.5                                    | +0.5  |
@@ -17,8 +17,8 @@ title: I Liga Round robin Club Gambito de Guada
 | García Pardo, Efrén                   | 5             | 2                                      | -0.5  |       
 | García Martín, Juan Manuel            | 4             | 1                                      | -1    |
 | Esteban López, Vicente                | 1             | 0.5                                    | 0     |
+| Corral Ruano, Roberto                 | 1             | 0.5                                    |  0    |
 | Sierra Grasa, Ismael                  | 4             | 0                                      | -2    |
-| Corral Ruano, Roberto                 |               |                                        |       |
 | Caballero Justo, Mario                | 1             | 0                                      | -0.5  |
 
 
@@ -120,7 +120,7 @@ title: I Liga Round robin Club Gambito de Guada
 | García Martín, Juan Manuel            |               | Gómez Vázquez, Javier                   |
 | Aragonés Congostrina, J. Carlos       |   1 - 0       | García Pardo, Efrén                     |
 | Sierra Grasa, Ismael                  |               | Esteban López, Vicente                  |
-| Corral Ruano, Roberto                 |               | Diaz Martín, Javier                     |
+| Corral Ruano, Roberto                 |   0.5 - 0.5   | Diaz Martín, Javier                     |
 | Caballero Justo, Mario                |               | del Amo Caballero, Sergio               |
 
 ### Pairing Round 11
