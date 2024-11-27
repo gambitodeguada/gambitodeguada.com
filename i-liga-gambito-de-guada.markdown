@@ -7,20 +7,20 @@ title: I Liga Round robin Club Gambito de Guada
 
 # Clasificación
 
-| **Jugador**                           | **Partidas** | **Puntuación**                          | Media |
-|---------------------------------------|---------------|----------------------------------------| ----- |
-| Diaz Martín, Javier                   | 8             | 5.5                                    | +1.5  |
-| Pérez Lorenzo, Manuel Jesús           | 5             | 3                                      | +0.5  |
-| Aragonés Congostrina, J. Carlos       | 5             | 3                                      | +0.5  |
-| del Amo Caballero, Sergio             | 4             | 2.5                                    | +0.5  |
-| Gómez Vázquez, Javier                 | 2             | 2                                      | +1    |
-| García Pardo, Efrén                   | 6             | 2                                      | -1  |       
-| García Martín, Juan Manuel            | 4             | 1                                      | -1    |
-| Esteban López, Vicente                | 1             | 0.5                                    | 0     |
-| Corral Ruano, Roberto                 | 2             | 1.5                                    |  0.5  |
-| Sierra Grasa, Ismael                  | 4             | 0                                      | -2    |
-| Caballero Justo, Mario                | 1             | 0                                      | -0.5  |
-
+| **Jugador**                     | **Partidas** | **Puntuación** | Media |
+|---------------------------------|--------------|----------------|-------|
+| Diaz Martín, Javier             | 8            | 5.5            | +1.5  |
+| Pérez Lorenzo, Manuel Jesús     | 5            | 3              | +0.5  |
+| Aragonés Congostrina, J. Carlos | 5            | 3              | +0.5  |
+| del Amo Caballero, Sergio       | 4            | 2.5            | +0.5  |
+| Gómez Vázquez, Javier           | 2            | 2              | +1    |
+| García Pardo, Efrén             | 6            | 2              | -1    |       
+| García Martín, Juan Manuel      | 4            | 1              | -1    |
+| Esteban López, Vicente          | 1            | 0.5            | 0     |
+| Corral Ruano, Roberto           | 2            | 1.5            | 0.5   |
+| Sierra Grasa, Ismael            | 4            | 0              | -2    |
+| Caballero Justo, Mario          | 1            | 0              | -0.5  |
+| Pablo Abánades García           | 0            | 0              | 0     |
 
 ### Pairing Round 1     
 
