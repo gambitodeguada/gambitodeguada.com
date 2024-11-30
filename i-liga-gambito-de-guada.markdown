@@ -43,6 +43,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Sierra Grasa, Ismael                    |
 | García Martín, Juan Manuel            |               | Aragonés Congostrina, J. Carlos         |
 | | | Pablo Abánades García |
+
 ### Pairing Round 3
 
 | **Blancas**               | **Resultado** | **Negras**                              |
@@ -53,6 +54,7 @@ title: I Liga Round robin Club Gambito de Guada
 | del Amo Caballero, Sergio |               | García Pardo, Efrén                     |
 | Diaz Martín, Javier       |               | Esteban López, Vicente                  |
 | Pablo Abánades García     | |  |
+
 ### Pairing Round 4
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
