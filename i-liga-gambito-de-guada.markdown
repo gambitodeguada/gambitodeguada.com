@@ -17,10 +17,10 @@ title: I Liga Round robin Club Gambito de Guada
 | García Pardo, Efrén             | 6            | 2              | -1    | 
 | Corral Ruano, Roberto           | 2            | 1.5            | 0.5   |
 | García Martín, Juan Manuel      | 4            | 1              | -1    |
+| Caballero Justo, Mario          | 2            | 1              | 0     |
 | Esteban López, Vicente          | 1            | 0.5            | 0     |
+| Pablo Abánades García           | 1            | 0              | -0.5  |
 | Sierra Grasa, Ismael            | 4            | 0              | -2    |
-| Caballero Justo, Mario          | 1            | 0              | -0.5  |
-| Pablo Abánades García           | 0            | 0              | 0     |
 
 ### Pairing Round 1     
 
@@ -101,12 +101,12 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|---------------------------------------- |
-| Pérez Lorenzo, Manuel Jesús           |   1 - 0       | García Pardo, Efrén                     |
+| Pérez Lorenzo, Manuel Jesús           |  1 - 0        | García Pardo, Efrén                      |
 | García Martín, Juan Manuel            |               | Esteban López, Vicente                  |
 | Aragonés Congostrina, J. Carlos       |  0 - 1        | Diaz Martín, Javier                     |
 | Sierra Grasa, Ismael                  |               | del Amo Caballero, Sergio               |
 | Corral Ruano, Roberto                 |               | Caballero Justo, Mario                  |
-| | | Pablo Abánades García |
+|                                       |               | Pablo Abánades García                   |
 
 ### Pairing Round 9
 
@@ -117,8 +117,8 @@ title: I Liga Round robin Club Gambito de Guada
 | Esteban López, Vicente                |               | Aragonés Congostrina, J. Carlos         |
 | García Pardo, Efrén                   |  1 - 0        | García Martín, Juan Manuel              |
 | Gómez Vázquez, Javier                 |               | Pérez Lorenzo, Manuel Jesús             |
-| Pablo Abánades García     | |  |
-
+| Caballero Justo, Mario                |  1 - 0        | Pablo Abánades García                   |
+        
 ### Pairing Round 10
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
