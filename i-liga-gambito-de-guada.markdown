@@ -11,14 +11,14 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------|--------------|----------------|-------|
 | Diaz Martín, Javier             | 8            | 5.5            | +1.5  |
 | Pérez Lorenzo, Manuel Jesús     | 5            | 3              | +0.5  |
-| Aragonés Congostrina, J. Carlos | 5            | 3              | +0.5  |
+| Aragonés Congostrina, J. Carlos | 6            | 3.5            | +0.5  |
 | del Amo Caballero, Sergio       | 4            | 2.5            | +0.5  |
 | Gómez Vázquez, Javier           | 2            | 2              | +1    |
 | García Pardo, Efrén             | 6            | 2              | -1    | 
 | Corral Ruano, Roberto           | 2            | 1.5            | 0.5   |
 | García Martín, Juan Manuel      | 4            | 1              | -1    |
 | Caballero Justo, Mario          | 2            | 1              | 0     |
-| Esteban López, Vicente          | 1            | 0.5            | 0     |
+| Esteban López, Vicente          | 2            | 1              | 0     |
 | Pablo Abánades García           | 1            | 0              | -0.5  |
 | Sierra Grasa, Ismael            | 4            | 0              | -2    |
 
@@ -237,7 +237,7 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | Corral Ruano, Roberto                 |               | del Amo Caballero, Sergio               |
 | Sierra Grasa, Ismael                  |               | Diaz Martín, Javier                     |
-| Aragonés Congostrina, J. Carlos       |               | Esteban López, Vicente                  |
+| Aragonés Congostrina, J. Carlos       |   1/2 - 1/2   | Esteban López, Vicente                  |
 | García Martín, Juan Manuel            |               | García Pardo, Efrén                     |
 | Pérez Lorenzo, Manuel Jesús           |               | Gómez Vázquez, Javier                   |
 | Pablo Abánades García                 |               | Caballero Justo, Mario                  |
