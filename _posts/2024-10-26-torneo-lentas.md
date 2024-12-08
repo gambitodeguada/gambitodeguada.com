@@ -3,6 +3,8 @@ title: Torneo de Ajedrez de Lentas Guadalajara 2024
 layout: post
 ---
 
+[Clasificación](https://info64.org/torneo-de-ajedrez-de-lentas-guadalajara-2024/standings)
+
 **FECHAS**: 9 de Noviembre al 14 de Diciembre de 2024 LUGAR DE JUEGO: Espacio Tyce, calle Grecia s/n 19005 Guadalajara.
 
 **SISTEMA DE JUEGO**: Suizo a 7 Rondas RITMO DE JUEGO: 30 minutos + 30 segundos añadidos desde la primera jugada.
