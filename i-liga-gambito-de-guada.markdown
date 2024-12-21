@@ -7,7 +7,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Jugador**                     | **Partidas** | **Puntuación** | Media |
 |---------------------------------|--------------|----------------|-------|
-| Diaz Martín, Javier             | 9            | 6.5            | +2    |
+| Diaz Martín, Javier             | 10           | 7.5            | +2.5  |
 | Aragonés Congostrina, J. Carlos | 8            | 4.5            | +0.5  |
 | Gómez Vázquez, Javier           | 4            | 3              | +1    |
 | Pérez Lorenzo, Manuel Jesús     | 6            | 3              | +0    |
@@ -15,7 +15,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Corral Ruano, Roberto           | 4            | 2.5            | +0.5  |
 | del Amo Caballero, Sergio       | 4            | 2.5            | +0.5  |
 | García Pardo, Efrén             | 6            | 2              | -1    | 
-| Caballero Justo, Mario          | 2            | 1              | 0     |
+| Caballero Justo, Mario          | 3            | 1              | -0.5  |
 | Esteban López, Vicente          | 2            | 1              | 0     |
 | Pablo Abánades García           | 4            | 1              | -1    |
 | Sierra Grasa, Ismael            | 5            | 0              | -2.5  |
@@ -134,7 +134,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                             |
 |---------------------------------------|---------------|---------------------------------------|
-| Diaz Martín, Javier                   |               | Caballero Justo, Mario                 |
+| Diaz Martín, Javier                   | 1 - 0         | Caballero Justo, Mario                 |
 | Esteban López, Vicente                |               | Corral Ruano, Roberto                  |
 | García Pardo, Efrén                   |               | Sierra Grasa, Ismael                   |
 | Gómez Vázquez, Javier                 |               | Aragonés Congostrina, J. Carlos        |
