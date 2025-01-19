@@ -9,15 +9,15 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------|--------------|----------------|-------|
 | Diaz Martín, Javier             | 11           | 8.5            | +3    |
 | Corral Ruano, Roberto           | 7            | 5.5            | +2    |
-| Aragonés Congostrina, J. Carlos | 9            | 4.5            | 0     |
+| Aragonés Congostrina, J. Carlos | 10           | 5.5            | +0.5  |
 | Pérez Lorenzo, Manuel Jesús     | 7            | 4              | +0.5  |
 | García Martín, Juan Manuel      | 9            | 4              | -0.5  |
 | del Amo Caballero, Sergio       | 7            | 3.5            | 0     |
 | Gómez Vázquez, Javier           | 4            | 3              | +1    |
 | Esteban López, Vicente          | 4            | 3              | +1    |
-| García Pardo, Efrén             | 7            | 2              | -1.5  | 
-| Caballero Justo, Mario          | 5            | 1              | -1.5  |
+| García Pardo, Efrén             | 7            | 2              | -1.5  |
 | Pablo Abánades García           | 5            | 1              | -1.5  |
+| Caballero Justo, Mario          | 6            | 1              | -2    |
 | Sierra Grasa, Ismael            | 5            | 0              | -2.5  |
 
 ### Pairing Round 1     
@@ -202,8 +202,8 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | Esteban López, Vicente                |               | Gómez Vázquez, Javier                   |
 | Diaz Martín, Javier                   |               | Pérez Lorenzo, Manuel Jesús             |
-| del Amo Caballero, Sergio             |   0 - 1        | García Martín, Juan Manuel              |
-| Caballero Justo, Mario                |               | Aragonés Congostrina, J. Carlos         |
+| del Amo Caballero, Sergio             | 0 - 1         | García Martín, Juan Manuel              |
+| Caballero Justo, Mario                | 1 - 0         | Aragonés Congostrina, J. Carlos         |
 | Corral Ruano, Roberto                 |               | Sierra Grasa, Ismael                    |
 | Pablo Abánades García                 |               | García Pardo, Efrén                     |
 
