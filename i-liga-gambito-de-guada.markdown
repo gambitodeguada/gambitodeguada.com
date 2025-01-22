@@ -10,8 +10,8 @@ title: I Liga Round robin Club Gambito de Guada
 | Diaz Martín, Javier             | 12           | 9.5            | +3.5  |
 | Corral Ruano, Roberto           | 8            | 6.5            | +2.5  |
 | Aragonés Congostrina, J. Carlos | 10           | 5.5            | +0.5  |
-| Pérez Lorenzo, Manuel Jesús     | 7            | 4              | +0.5  |
 | García Martín, Juan Manuel      | 10           | 5              | 0     |
+| Pérez Lorenzo, Manuel Jesús     | 7            | 4              | +0.5  |
 | del Amo Caballero, Sergio       | 7            | 3.5            | 0     |
 | Gómez Vázquez, Javier           | 5            | 3              | 0.5   |
 | Esteban López, Vicente          | 4            | 3              | +1    |
