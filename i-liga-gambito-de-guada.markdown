@@ -8,12 +8,12 @@ title: I Liga Round robin Club Gambito de Guada
 | **Jugador**                     | **Partidas** | **Puntuación** | Media |
 |---------------------------------|--------------|----------------|-------|
 | Diaz Martín, Javier             | 12           | 9.5            | +3.5  |
-| Corral Ruano, Roberto           | 8            | 6.5            | +2.5  |
+| Corral Ruano, Roberto           | 9            | 6.5            | +2    |
 | Aragonés Congostrina, J. Carlos | 10           | 5.5            | +0.5  |
 | García Martín, Juan Manuel      | 10           | 5              | 0     |
 | Pérez Lorenzo, Manuel Jesús     | 7            | 4              | +0.5  |
 | del Amo Caballero, Sergio       | 7            | 3.5            | 0     |
-| Gómez Vázquez, Javier           | 5            | 3              | 0.5   |
+| Gómez Vázquez, Javier           | 6            | 4              | 1     |
 | Esteban López, Vicente          | 4            | 3              | +1    |
 | García Pardo, Efrén             | 8            | 2              | -2    |
 | Pablo Abánades García           | 6            | 1              | -2    |
@@ -158,10 +158,10 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | del Amo Caballero, Sergio             |               | Esteban López, Vicente                  |
 | Caballero Justo, Mario                |               | García Pardo, Efrén                     |
-| Corral Ruano, Roberto                 |               | Gómez Vázquez, Javier                   |
+| Corral Ruano, Roberto                 | 0 - 1         | Gómez Vázquez, Javier                   |
 | Sierra Grasa, Ismael                  |               | Pérez Lorenzo, Manuel Jesús             |
 | Aragonés Congostrina, J. Carlos       |               | García Martín, Juan Manuel              |
-| Pablo Abánades García                 |    0 - 1      | Diaz Martín, Javier                     |
+| Pablo Abánades García                 | 0 - 1         | Diaz Martín, Javier                     |
 
 ### Pairing Round 14
 
