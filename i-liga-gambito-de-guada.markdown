@@ -8,7 +8,7 @@ title: I Liga Round robin Club Gambito de Guada
 | **Jugador**                     | **Partidas** | **Puntuación** | Media |
 |---------------------------------|--------------|----------------|-------|
 | Diaz Martín, Javier             | 12           | 9.5            | +3.5  |
-| Corral Ruano, Roberto           | 9            | 6.5            | +2    |
+| Corral Ruano, Roberto           | 10           | 7.5            | +2.5  |
 | García Martín, Juan Manuel      | 11           | 6              | +0.5  |
 | Aragonés Congostrina, J. Carlos | 11           | 5.5            | 0     |
 | Pérez Lorenzo, Manuel Jesús     | 8            | 4.5            | +0.5  |
@@ -18,7 +18,7 @@ title: I Liga Round robin Club Gambito de Guada
 | García Pardo, Efrén             | 9            | 3              | -1.5  |
 | Pablo Abánades García           | 7            | 1.5            | -2    |
 | Caballero Justo, Mario          | 7            | 1              | -2.5  |
-| Sierra Grasa, Ismael            | 5            | 0              | -2.5  |
+| Sierra Grasa, Ismael            | 6            | 0              | -3    |
 
 ### Pairing Round 1     
 
@@ -80,10 +80,10 @@ title: I Liga Round robin Club Gambito de Guada
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
 | Gómez Vázquez, Javier                 |               | Esteban López, Vicente                  |
-| Pérez Lorenzo, Manuel Jesús           |     1 - 0          | Díaz Martín, Javier                     |
-| García Martín, Juan Manuel            |      0-1      | del Amo Caballero, Sergio               |
+| Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Díaz Martín, Javier                     |
+| García Martín, Juan Manuel            | 0-1           | del Amo Caballero, Sergio               |
 | Aragonés Congostrina, J. Carlos       |               | Caballero Justo, Mario                  |
-| Sierra Grasa, Ismael                  |               | Corral Ruano, Roberto                   |
+| Sierra Grasa, Ismael                  | 0 - 1         | Corral Ruano, Roberto                   |
 | García Pardo, Efrén                   |               | Pablo Abánades García                   |
 
 ### Pairing Round 7
