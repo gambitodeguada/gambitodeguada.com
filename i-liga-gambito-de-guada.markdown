@@ -203,7 +203,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Esteban López, Vicente                |               | Gómez Vázquez, Javier                   |
 | Diaz Martín, Javier                   |               | Pérez Lorenzo, Manuel Jesús             |
 | del Amo Caballero, Sergio             | 0 - 1         | García Martín, Juan Manuel              |
-| Caballero Justo, Mario                | 1 - 0         | Aragonés Congostrina, J. Carlos         |
+| Caballero Justo, Mario                | 0 - 1         | Aragonés Congostrina, J. Carlos         |
 | Corral Ruano, Roberto                 |               | Sierra Grasa, Ismael                    |
 | Pablo Abánades García                 |               | García Pardo, Efrén                     |
 
