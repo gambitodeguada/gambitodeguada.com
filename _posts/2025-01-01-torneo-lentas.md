@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  IER. Torneo de Ajedrez de Lentas Guadalajara 2025
+title:  1er. Torneo de Ajedrez de Lentas Guadalajara 2025
 date:   2025-02-01 09:58:51 +0200
 categories: tournament
 ---
+
+## [Resultados y Clasificación](https://info64.org/torneo-de-lentas-guadalajara-febrero-2025)
 
 **FECHAS**: 8 de Febrero al 22 de Febrero de 2025 
 
