@@ -9,16 +9,16 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------|--------------|----------------|-------|
 | Diaz Martín, Javier             | 13           | 9.5            | +3    |
 | Corral Ruano, Roberto           | 10           | 7.5            | +2.5  |
-| García Martín, Juan Manuel      | 12           | 6              | 0     |
+| García Martín, Juan Manuel      | 13           | 7              | +0.5  |
 | Aragonés Congostrina, J. Carlos | 12           | 6.5            | +0.5  |
 | del Amo Caballero, Sergio       | 9            | 5              | +0.5  |
 | Esteban López, Vicente          | 6            | 4.5            | +1.5  |
 | Pérez Lorenzo, Manuel Jesús     | 8            | 4.5            | +0.5  |
 | Gómez Vázquez, Javier           | 6            | 4              | 1     |
 | García Pardo, Efrén             | 11           | 4              | -1.5  |
-| Caballero Justo, Mario          | 8            | 2              | -2  |
+| Caballero Justo, Mario          | 8            | 2              | -2    | 
 | Pablo Abánades García           | 7            | 1.5            | -2    |
-| Sierra Grasa, Ismael            | 8            | 0              | -4    |
+| Sierra Grasa, Ismael            | 9            | 0              | -4.5  |
 
 ### Pairing Round 1     
 
@@ -167,7 +167,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| García Martín, Juan Manuel            |               | Sierra Grasa, Ismael                    |
+| García Martín, Juan Manuel            |   1 - 0       | Sierra Grasa, Ismael                    |
 | Pérez Lorenzo, Manuel Jesús           |               | Corral Ruano, Roberto                   |
 | Gómez Vázquez, Javier                 |               | Caballero Justo, Mario                  |
 | García Pardo, Efrén                   |               | del Amo Caballero, Sergio               |
