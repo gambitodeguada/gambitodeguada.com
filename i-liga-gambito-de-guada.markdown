@@ -5,20 +5,20 @@ title: I Liga Round robin Club Gambito de Guada
 
 # Clasificación
 
-| **Jugador**                     | **Partidas** | **Puntuación** | Media |
-|---------------------------------|--------------|----------------|-------|
-| Diaz Martín, Javier             | 14           | 10             | +3    |
-| Corral Ruano, Roberto           | 11           | 8              | +2.5  |
-| García Martín, Juan Manuel      | 13           | 7              | +0.5  |
-| Aragonés Congostrina, J. Carlos | 12           | 6.5            | +0.5  |
-| Pérez Lorenzo, Manuel Jesús     | 9            | 5.5            | +1     |
-| Esteban López, Vicente          | 7            | 5              | +1.5  |
-| del Amo Caballero, Sergio       | 9            | 5              | +0.5  |
-| Gómez Vázquez, Javier           | 8            | 4.5            | +0.5  |
-| García Pardo, Efrén             | 11           | 4              | -1.5  |
-| Caballero Justo, Mario          | 8            | 2              | -2    | 
-| Pablo Abánades García           | 8            | 1.5            | -2.5  |
-| Sierra Grasa, Ismael            | 10           | 1              | -4    |
+| #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
+|--------------------------------------|--------------|----------------|-------|
+| 1  | Diaz Martín, Javier             | 14           | 10             | +3    |
+| 2  | Corral Ruano, Roberto           | 11           | 8              | +2.5  |
+| 3  | García Martín, Juan Manuel      | 13           | 7              | +0.5  |
+| 4  | Aragonés Congostrina, J. Carlos | 12           | 6.5            | +0.5  |
+| 5  | Pérez Lorenzo, Manuel Jesús     | 9            | 5.5            | +1     |
+| 6  | Esteban López, Vicente          | 7            | 5              | +1.5  |
+| 7  | del Amo Caballero, Sergio       | 9            | 5              | +0.5  |
+| 8  | Gómez Vázquez, Javier           | 8            | 4.5            | +0.5  |
+| 9  | García Pardo, Efrén             | 11           | 4              | -1.5  |
+| 10 | Caballero Justo, Mario          | 8            | 2              | -2    | 
+| 11 | Pablo Abánades García           | 8            | 1.5            | -2.5  |
+| 12 | Sierra Grasa, Ismael            | 10           | 1              | -4    |
 
 ### Pairing Round 1     
 
