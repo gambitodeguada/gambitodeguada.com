@@ -1,28 +1,38 @@
 ---
 layout: post
-title:  1er. Torneo de Ajedrez de Lentas Guadalajara 2025
+title:  Torneo de Ajedrez de Humanes
 date:   2025-02-07 09:58:51 +0200
 categories: tournament
 ---
 
+**[Clasificación y resultados](https://info64.org/torneo-de-ajedrez-de-humanes)**
+
+## BASES DEL TORNEO DE AJEDREZ DE HUMANES
+
 **FECHA**: 9 de Marzo de 2025  
 **SEDE**: La Carpintería. [Calle Dr. Bena, 4, 19220 Humanes, Guadalajara](https://g.co/kgs/JtKk9f2)  
 **MODALIDAD**: Ajedrez rápido.   
-**[Clasificación y resultados](https://info64.org/torneo-de-ajedrez-de-humanes)**
-
-![Torneo Ajedrez Humanes](./assets/2025-03-09-torneo-ajedrez-humanes.1.jpeg)
 
 ## HORARIO
 - Confirmación de asistencia: 10:00 a.m.
 - Comienzo del torneo: 10:30 a.m.
 - Clausura y entrega de premios: De 13:30 a 14:00
 
+![Torneo Ajedrez Humanes](/assets/2025-03-09-torneo-ajedrez-humanes.1.jpeg)
 
-## BASES DEL TORNEO DE AJEDREZ DE HUMANES
+### INSCRIPCIONES
 
-**FECHA**: 9 de Marzo de 2025  
-**SEDE**: La Carpintería. [Calle Dr. Bena, 4, 19220 Humanes, Guadalajara](https://g.co/kgs/JtKk9f2)  
-**MODALIDAD**: Ajedrez rápido  
+Plazas limitadas a 64 jugadores, se admitirán solicitudes hasta el 7/03/2025 por estricto orden de inscripción.
+
+La organización se reserva el derecho de anular una inscripción, así como de tomar las medidas oportunas para garantizar el buen desarrollo del torneo.
+
+Enviar un correo electrónico a vestebanlopez@gmail.com indicando los siguientes datos:
+
+- Nombre y apellidos
+- Fecha de nacimiento completa ( día/mes/año)
+- Elo fide, si tuviera
+- Localidad de residencia
+
 
 ### SISTEMA Y RITMO DE JUEGO
  Suizo a 6 rondas. Partidas de 10 minutos + 3 segundos de incremento por jugada.
@@ -57,19 +67,6 @@ categories: tournament
 - Trofeo al mejor jugador de la categoría local
 - Medalla a los campeones de las categorías sub14 y sub10
 - Obsequio para todos los participantes.
-
-### INSCRIPCIONES
-
-Plazas limitadas a 64 jugadores, se admitirán solicitudes hasta el 7/03/2025 por estricto orden de inscripción.
-
-La organización se reserva el derecho de anular una inscripción, así como de tomar las medidas oportunas para garantizar el buen desarrollo del torneo.
-
-Enviar un correo electrónico a vestebanlopez@gmail.com indicando los siguientes datos:
-
-- Nombre y apellidos
-- Fecha de nacimiento completa ( día/mes/año)
-- Elo fide, si tuviera
-- Localidad de residencia
 
 
 ### REGLAMENTO 
