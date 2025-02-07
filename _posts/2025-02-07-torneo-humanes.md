@@ -20,6 +20,15 @@ categories: tournament
 
 ![Torneo Ajedrez Humanes](/assets/2025-03-09-torneo-ajedrez-humanes.1.jpeg)
 
+### ORGANIZA 
+- Club Ajedrez Gambito de Guada.
+- Ayuntamiento de Humanes de Mohernando.
+
+### COLABORA
+
+- Delegación de Ajedrez de Guadalajara
+- Club Ajedrez Uned Guadalajara
+
 ### INSCRIPCIONES
 
 Plazas limitadas a 64 jugadores, se admitirán solicitudes hasta el 7/03/2025 por estricto orden de inscripción.
@@ -45,11 +54,6 @@ Enviar un correo electrónico a vestebanlopez@gmail.com indicando los siguientes
 - Resultado particular o confrontación directa. Puede aplicarse cuando todos los jugadores empatados se hayan enfrentado entre ellos.
 - Número de victorias.
 - Sorteo
-
-### HORARIO
-- Confirmación de asistencia: 10:00 a.m.
-- Comienzo del torneo: 10:30 a.m.
-- Clausura y entrega de premios: De 13:30 a 14:00
 
 ### CATEGORÍAS
 
@@ -82,11 +86,3 @@ Este torneo se regirá por la reglamentación de la FIDE en vigor.
 ### CESIÓN DE DATOS 
 Los participantes en el torneo autorizan la publicación de los datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento. Las fotos del torneo se publicarán en la página web de la Uned Guadalajara. La inscripción en el torneo implica la aceptación de las presentes bases
 
-### ORGANIZA 
-- Club Ajedrez Gambito de Guada.
-- Ayuntamiento de Humanes de Mohernando.
-
-### COLABORA
-
-- Delegación de Ajedrez de Guadalajara
-- Club Ajedrez Uned Guadalajara
