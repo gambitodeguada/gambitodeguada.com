@@ -8,9 +8,9 @@ title: I Liga Round robin Club Gambito de Guada
 | #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 15           | 11             | +3.5  |
-| 2  | Corral Ruano, Roberto           | 12           | 8              | +2    |
+| 2  | Corral Ruano, Roberto           | 13           | 8.5            | +2    |
 | 3  | García Martín, Juan Manuel      | 14           | 7              | +0    |
-| 4  | Aragonés Congostrina, J. Carlos | 12           | 6.5            | +0.5  |
+| 4  | Aragonés Congostrina, J. Carlos | 13           | 7              | +0.5  |
 | 5  | del Amo Caballero, Sergio       | 10           | 6              | +1    |
 | 6  | Esteban López, Vicente          | 8            | 5.5            | +1.5  |
 | 7  | Pérez Lorenzo, Manuel Jesús     | 9            | 5.5            | +1    |
@@ -189,7 +189,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Aragonés Congostrina, J. Carlos       |               | Corral Ruano, Roberto                   |
+| Aragonés Congostrina, J. Carlos       |  1/2 - 1/2    | Corral Ruano, Roberto                   |
 | García Martín, Juan Manuel            |               | Caballero Justo, Mario                  |
 | Pérez Lorenzo, Manuel Jesús           |               | del Amo Caballero, Sergio               |
 | Gómez Vázquez, Javier                 |  1/2 - 1/2    | Diaz Martín, Javier                     |
