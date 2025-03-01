@@ -7,7 +7,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
 |--------------------------------------|--------------|----------------|-------|
-| 1  | Diaz Martín, Javier             | 16           | 12             | +4  |
+| 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
 | 2  | Corral Ruano, Roberto           | 13           | 8.5            | +2    |
 | 3  | García Martín, Juan Manuel      | 14           | 7              | +0    |
 | 4  | Aragonés Congostrina, J. Carlos | 13           | 7              | +0.5  |
@@ -18,7 +18,7 @@ title: I Liga Round robin Club Gambito de Guada
 | 8  | Gómez Vázquez, Javier           | 8            | 4.5            | +0.5  |
 | 10 | Caballero Justo, Mario          | 9            | 2.5            | -2    | 
 | 11 | Pablo Abánades García           | 9            | 1.5            | -3    |
-| 12 | Sierra Grasa, Ismael            | 12           | 1.5            | -4.5  |
+| 12 | Sierra Grasa, Ismael            | 13           | 1.5            | -5  |
 
 ### Pairing Round 1     
 
@@ -233,8 +233,8 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Corral Ruano, Roberto                 | 0 - 1              | del Amo Caballero, Sergio               |
-| Sierra Grasa, Ismael                  |               | Diaz Martín, Javier                     |
+| Corral Ruano, Roberto                 | 0 - 1         | del Amo Caballero, Sergio               |
+| Sierra Grasa, Ismael                  | 0 - 1         | Diaz Martín, Javier                     |
 | Aragonés Congostrina, J. Carlos       | 1/2 - 1/2     | Esteban López, Vicente                  |
 | García Martín, Juan Manuel            | 0 - 1         | García Pardo, Efrén                     |
 | Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Gómez Vázquez, Javier                   |
