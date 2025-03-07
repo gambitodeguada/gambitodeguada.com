@@ -10,7 +10,7 @@ title: I Liga Round robin Club Gambito de Guada
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
 | 2  | Corral Ruano, Roberto           | 14           | 9.5            | +2.5  |
 | 3  | García Martín, Juan Manuel      | 14           | 7              | +0    |
-| 4  | Aragonés Congostrina, J. Carlos | 13           | 7              | +0.5  |
+| 4  | Aragonés Congostrina, J. Carlos | 14           | 8              | +1    |
 | 5  | del Amo Caballero, Sergio       | 12           | 7              | +1    |
 | 6  | Esteban López, Vicente          | 9            | 6.5            | +2    |
 | 7  | Pérez Lorenzo, Manuel Jesús     | 12           | 6.5            | +0.5  |
@@ -18,7 +18,7 @@ title: I Liga Round robin Club Gambito de Guada
 | 8  | Gómez Vázquez, Javier           | 9            | 4.5            | +0    |
 | 10 | Caballero Justo, Mario          | 9            | 2.5            | -2    | 
 | 11 | Pablo Abánades García           | 9            | 1.5            | -3    |
-| 12 | Sierra Grasa, Ismael            | 13           | 1.5            | -5  |
+| 12 | Sierra Grasa, Ismael            | 14           | 1.5            | -5.5  |
 
 ### Pairing Round 1     
 
@@ -178,11 +178,11 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|---------------------------------------- |
-| Diaz Martín, Javier                   |    1 - 0      | García Pardo, Efrén                     |
+| Diaz Martín, Javier                   | 1 - 0         | García Pardo, Efrén                     |
 | del Amo Caballero, Sergio             |               | Gómez Vázquez, Javier                   |
 | Caballero Justo, Mario                |               | Pérez Lorenzo, Manuel Jesús             |
 | Corral Ruano, Roberto                 |               | García Martín, Juan Manuel              |
-| Sierra Grasa, Ismael                  |               | Aragonés Congostrina, J. Carlos         |
+| Sierra Grasa, Ismael                  | 0 - 1         | Aragonés Congostrina, J. Carlos         |
 | Pablo Abánades García                 |               | Esteban López, Vicente                  |
 
 ### Pairing Round 16
