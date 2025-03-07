@@ -11,11 +11,11 @@ title: I Liga Round robin Club Gambito de Guada
 | 2  | Corral Ruano, Roberto           | 14           | 9.5            | +2.5  |
 | 3  | García Martín, Juan Manuel      | 14           | 7              | +0    |
 | 4  | Aragonés Congostrina, J. Carlos | 13           | 7              | +0.5  |
-| 5  | Esteban López, Vicente          | 9            | 6.5            | +2    |
-| 6  | Pérez Lorenzo, Manuel Jesús     | 12           | 6.5            | +0.5    |
-| 7  | del Amo Caballero, Sergio       | 11           | 6              | +0.5  |
+| 5  | del Amo Caballero, Sergio       | 12           | 7              | +1    |
+| 6  | Esteban López, Vicente          | 9            | 6.5            | +2    |
+| 7  | Pérez Lorenzo, Manuel Jesús     | 12           | 6.5            | +0.5  |
 | 9  | García Pardo, Efrén             | 13           | 5.5            | -1    |
-| 8  | Gómez Vázquez, Javier           | 8            | 4.5            | +0.5  |
+| 8  | Gómez Vázquez, Javier           | 9            | 4.5            | +0    |
 | 10 | Caballero Justo, Mario          | 9            | 2.5            | -2    | 
 | 11 | Pablo Abánades García           | 9            | 1.5            | -3    |
 | 12 | Sierra Grasa, Ismael            | 13           | 1.5            | -5  |
@@ -57,11 +57,11 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| García Pardo, Efrén                   |   1 - 0       | Diaz Martín, Javier                     |
-| Gómez Vázquez, Javier                 |               | del Amo Caballero, Sergio               |
+| García Pardo, Efrén                   | 1 - 0         | Diaz Martín, Javier                     |
+| Gómez Vázquez, Javier                 | 0 - 1         | del Amo Caballero, Sergio               |
 | Pérez Lorenzo, Manuel Jesús           |               | Caballero Justo, Mario                  |
-| García Martín, Juan Manuel            |    1 - 0      | Corral Ruano, Roberto                   |
-| Aragonés Congostrina, J. Carlos       |    1 - 0      | Sierra Grasa, Ismael                    |
+| García Martín, Juan Manuel            | 1 - 0         | Corral Ruano, Roberto                   |
+| Aragonés Congostrina, J. Carlos       | 1 - 0         | Sierra Grasa, Ismael                    |
 | Esteban López, Vicente                |               | Pablo Abánades García                   |
 
 ### Pairing Round 5
