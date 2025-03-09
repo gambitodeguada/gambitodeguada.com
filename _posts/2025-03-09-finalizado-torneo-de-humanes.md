@@ -9,29 +9,29 @@ Con la colaboración del Ayuntamiento de Humanes y la [delegación provincial de
 ![torneo_ajedrez_humanes_2025](/assets/2025-03-09-torneo-ajedrez-humanes/torneo_ajedrez_humanes_2025_2.jpg)
 ![torneo_ajedrez_humanes_2025](/assets/2025-03-09-torneo-ajedrez-humanes/torneo_ajedrez_humanes_2025_3.jpg)
 
-# Clasificación
+## Clasificación
 
 [Clasificación Torneo Ajedrez Humanes 2025](https://info64.org/torneo-de-ajedrez-de-humanes/standings). Queremos dar la enhorabuena a los ganadores.
 
-# Categoria General
+### Categoria General
 
 - 1º Clasificado: David Crespo
 - 2º Rafel López del Moral
 - 3º  Rubén Murat
 
-## Categoría Veteranos
+### Categoría Veteranos
 - 1º Javier Díaz Martín
 
-## Categoría Femenina
+### Categoría Femenina
 - 1º Sandra Prieto
 
-## Categoría Local
+### Categoría Local
 - 1º Ignacio Lozano
 
-## Categoría Sub 14
+### Categoría Sub 14
 - 1º Jorge Mayoral
  
-## Categoría Sub 10
+### Categoría Sub 10
 - 1º Daniel Paez
 - 
 ![daniel paez y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/daniel_paez_y_la_alcaldesa_de_humanes.jpg)
