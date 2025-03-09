@@ -16,8 +16,8 @@ Con la colaboración del Ayuntamiento de Humanes y la [delegación provincial de
 ### Categoría General
 
 - 1º Clasificado: David Crespo
-- 2º Rafel López del Moral
-- 3º  Rubén Musat
+- 2º Rafael López del Moral
+- 3º Rubén Musat
 
 ### Categoría Veteranos
 - 1º Javier Díaz Martín
