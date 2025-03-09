@@ -14,16 +14,25 @@ Con la colaboración del Ayuntamiento de Humanes y la [delegación provincial de
 - 3º  Rubén Murat
 
 ## Categoría Veteranos
-- 1º Jaiver Díaz Martín
+- 1º Javier Díaz Martín
 
 ## Categoría Femenina
 - 1º Sandra Prieto
 
 ## Categoría Local
-- 1º Jorge Mayoral
+- 1º Ignacio Lozano
 
 ## Categoría Sub 14
-- 1º Daniel Paéz
+- 1º Jorge Mayoral
  
 ## Categoría Sub 10
-- 1º Jorge Mayoral
+- 1º Daniel Paez
+- 
+![daniel paez y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/daniel_paez_y_la_alcaldesa_de_humanes.jpg)
+![david crespo y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/david_crespo_y_la_alcaldesa_de_humanes.jpg)
+![ignacio lozano y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/ignacio_lozano_y_la_alcaldesa_de_humanes.jpg)
+![javier diaz martin y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/javier_diaz_martin_y_la_alcaldesa_de_humanes.jpg)
+![jorge mayoral y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/jorge_mayoral_y_la_alcaldesa_de_humanes.jpg)
+![rafael lopez del moral y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/rafael_lopez_del_moral_y_la_alcaldesa_de_humanes.jpg)
+![ruben murat y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/ruben_murat_y_la_alcaldesa_de_humanes.jpg)
+![sandra prieto y la alcaldesa de humanes](/assets/2025-03-09-torneo-ajedrez-humanes/sandra_prieto_y_la_alcaldesa_de_humanes.jpg)
