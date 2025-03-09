@@ -13,7 +13,7 @@ Con la colaboración del Ayuntamiento de Humanes y la [delegación provincial de
 
 [Clasificación Torneo Ajedrez Humanes 2025](https://info64.org/torneo-de-ajedrez-de-humanes/standings). Queremos dar la enhorabuena a los ganadores.
 
-### Categoria General
+### Categoría General
 
 - 1º Clasificado: David Crespo
 - 2º Rafel López del Moral
