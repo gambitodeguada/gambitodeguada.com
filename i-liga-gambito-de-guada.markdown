@@ -10,14 +10,14 @@ title: I Liga Round robin Club Gambito de Guada
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
 | 2  | Corral Ruano, Roberto           | 14           | 9.5            | +2.5  |
 | 3  | Aragonés Congostrina, J. Carlos | 14           | 8              | +1    |
-| 4  | del Amo Caballero, Sergio       | 12           | 7              | +1    |
-| 5  | García Martín, Juan Manuel      | 14           | 7              | +0    |
-| 6  | Esteban López, Vicente          | 9            | 6.5            | +2    |
-| 7  | Pérez Lorenzo, Manuel Jesús     | 12           | 6.5            | +0.5  |
-| 9  | García Pardo, Efrén             | 13           | 5.5            | -1    |
-| 8  | Gómez Vázquez, Javier           | 9            | 4.5            | +0    |
+| 4  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 13   | 7.5   | +1  |
+| 5  | del Amo Caballero, Sergio       | 12           | 7              | +1    |
+| 6  | García Martín, Juan Manuel      | 14           | 7              | +0    |
+| 7  | Esteban López, Vicente          | 9            | 6.5            | +2    |
+| 8  | García Pardo, Efrén             | 13           | 5.5            | -1    |
+| 9  | Gómez Vázquez, Javier           | 9            | 4.5            | +0    |
 | 10 | Caballero Justo, Mario          | 9            | 2.5            | -2    | 
-| 11 | Pablo Abánades García           | 9            | 1.5            | -3    |
+| 11 | Pablo Abánades García           | 10            | 1.5            | -3.5 |
 | 12 | Sierra Grasa, Ismael            | 14           | 1.5            | -5.5  |
 
 ### Pairing Round 1     
@@ -242,14 +242,14 @@ title: I Liga Round robin Club Gambito de Guada
 
 ### Pairing Round 21
 
-| **Blancas**                           | **Resultado** | **Negras**                              |
-|---------------------------------------|---------------|-----------------------------------------|
-| Gómez Vázquez, Javier                 |   0 - 1       | García Martín, Juan Manuel              |
-| García Pardo, Efrén                   |               | Aragonés Congostrina, J. Carlos         |
-| Esteban López, Vicente                |   1 - 0       | Sierra Grasa, Ismael                    |
-| Diaz Martín, Javier                   |               | Corral Ruano, Roberto                   |
-| del Amo Caballero, Sergio             |               | Caballero Justo, Mario                  |
-| Pablo Abánades García                 |               | Pérez Lorenzo, Manuel Jesús             |
+| **Blancas**                           | **Resultado** | **Negras**                    |
+|---------------------------------------|---------------|-------------------------------|
+| Gómez Vázquez, Javier                 | 0 - 1         | García Martín, Juan Manuel    |
+| García Pardo, Efrén                   |               | Aragonés Congostrina, J. Carlos |
+| Esteban López, Vicente                | 1 - 0         | Sierra Grasa, Ismael          |
+| Diaz Martín, Javier                   |               | Corral Ruano, Roberto         |
+| del Amo Caballero, Sergio             |               | Caballero Justo, Mario        |
+| Pablo Abánades García                 | 0 - 1         | Jesús Alonso Palazón          |
 
 ### Pairing Round 22
 
