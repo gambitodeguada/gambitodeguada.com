@@ -9,14 +9,14 @@ title: I Liga Round robin Club Gambito de Guada
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
 | 2  | Corral Ruano, Roberto           | 14           | 9.5            | +2.5  |
-| 3  | Aragonés Congostrina, J. Carlos | 14           | 8              | +1    |
+| 3  | Aragonés Congostrina, J. Carlos | 15           | 8              | +0.5  |
 | 4  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 13   | 7.5   | +1  |
 | 5  | del Amo Caballero, Sergio       | 13           | 7              | +0.5  |
 | 6  | García Martín, Juan Manuel      | 14           | 7              | +0    |
 | 7  | Esteban López, Vicente          | 9            | 6.5            | +2    |
 | 8  | García Pardo, Efrén             | 13           | 5.5            | -1    |
 | 9  | Gómez Vázquez, Javier           | 10            | 4.5           | -0.5 |
-| 10 | Caballero Justo, Mario          | 9            | 2.5            | -2    |
+| 10 | Caballero Justo, Mario          | 10            | 3.5           | -1.5    |
 | 12 | Sierra Grasa, Ismael            | 16           | 3.5            | -4.5  |
 | 11 | Pablo Abánades García           | 10           | 1.5            | -3.5 |
 
@@ -82,7 +82,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Gómez Vázquez, Javier                 |               | Esteban López, Vicente                  |
 | Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Díaz Martín, Javier                     |
 | García Martín, Juan Manuel            | 0-1           | del Amo Caballero, Sergio               |
-| Aragonés Congostrina, J. Carlos       |               | Caballero Justo, Mario                  |
+| Aragonés Congostrina, J. Carlos       | 0 - 1              | Caballero Justo, Mario                  |
 | Sierra Grasa, Ismael                  | 0 - 1         | Corral Ruano, Roberto                   |
 | García Pardo, Efrén                   |               | Pablo Abánades García                   |
 
