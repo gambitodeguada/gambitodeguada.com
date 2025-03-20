@@ -9,13 +9,13 @@ title: I Liga Round robin Club Gambito de Guada
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
 | 2  | Corral Ruano, Roberto           | 14           | 9.5            | +2.5  |
-| 3  | Aragonés Congostrina, J. Carlos | 15           | 8              | +0.5  |
-| 4  | García Martín, Juan Manuel      | 15           | 8              | +0.5  |
+| 3  | García Martín, Juan Manuel      | 15           | 8              | +0.5  |
+| 4  | Aragonés Congostrina, J. Carlos | 16           | 8              | +0  |
 | 5  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 14   | 7.5   | +0.5  |
 | 6  | del Amo Caballero, Sergio       | 13           | 7              | +0.5  |
 | 7  | Esteban López, Vicente          | 9            | 6.5            | +2    |
-| 8  | García Pardo, Efrén             | 13           | 5.5            | -1    |
-| 9  | Gómez Vázquez, Javier           | 10            | 4.5           | -0.5 |
+| 8  | Gómez Vázquez, Javier           | 11            | 5.5           | 0 |
+| 9  | García Pardo, Efrén             | 13           | 5.5            | -1    |
 | 10 | Caballero Justo, Mario          | 10            | 3.5           | -1.5    |
 | 12 | Sierra Grasa, Ismael            | 16           | 3.5            | -4.5  |
 | 11 | Pablo Abánades García           | 10           | 1.5            | -3.5 |
@@ -137,7 +137,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Diaz Martín, Javier                   | 1 - 0         | Caballero Justo, Mario                 |
 | Esteban López, Vicente                |               | Corral Ruano, Roberto                  |
 | García Pardo, Efrén                   |               | Sierra Grasa, Ismael                   |
-| Gómez Vázquez, Javier                 |               | Aragonés Congostrina, J. Carlos        |
+| Gómez Vázquez, Javier                 | 1 - 0         | Aragonés Congostrina, J. Carlos        |
 | Pérez Lorenzo, Manuel Jesús           | 1 - 0         | García Martín, Juan Manuel             |
 | Pablo Abánades García                 |               | del Amo Caballero, Sergio              |
 
