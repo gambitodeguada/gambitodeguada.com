@@ -8,7 +8,7 @@ title: I Liga Round robin Club Gambito de Guada
 | #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
-| 2  | Corral Ruano, Roberto           | 14           | 9.5            | +2.5  |
+| 2  | Corral Ruano, Roberto           | 15           | 10.5           | +3  |
 | 3  | García Martín, Juan Manuel      | 15           | 8              | +0.5  |
 | 4  | Aragonés Congostrina, J. Carlos | 16           | 8              | +0  |
 | 5  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 14   | 7.5   | +0.5  |
@@ -18,7 +18,7 @@ title: I Liga Round robin Club Gambito de Guada
 | 9  | García Pardo, Efrén             | 13           | 5.5            | -1    |
 | 10 | Caballero Justo, Mario          | 10            | 3.5           | -1.5    |
 | 12 | Sierra Grasa, Ismael            | 16           | 3.5            | -4.5  |
-| 11 | Pablo Abánades García           | 10           | 1.5            | -3.5 |
+| 11 | Pablo Abánades García           | 11           | 1.5            | -4.0 |
 
 ### Pairing Round 1     
 
@@ -91,11 +91,11 @@ title: I Liga Round robin Club Gambito de Guada
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
 | Caballero Justo, Mario                |               | Sierra Grasa, Ismael                    |
-| del Amo Caballero, Sergio             |  1 - 0        | Aragonés Congostrina, J. Carlos         |
-| Diaz Martín, Javier                   |  1 - 0        | García Martín, Juan Manuel              |
+| del Amo Caballero, Sergio             | 1 - 0         | Aragonés Congostrina, J. Carlos         |
+| Diaz Martín, Javier                   | 1 - 0         | García Martín, Juan Manuel              |
 | Esteban López, Vicente                |               | Pérez Lorenzo, Manuel Jesús             |
 | García Pardo, Efrén                   |               | Gómez Vázquez, Javier                   |
-| Pablo Abánades García                 |               | Corral Ruano, Roberto                   |
+| Pablo Abánades García                 | 0 -1          | Corral Ruano, Roberto                   |
 
 ### Pairing Round 8
 
