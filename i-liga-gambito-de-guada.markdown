@@ -8,7 +8,7 @@ title: I Liga Round robin Club Gambito de Guada
 | #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
-| 2  | Corral Ruano, Roberto           | 15           | 10.5           | +3  |
+| 2  | Corral Ruano, Roberto           | 16           | 11.5           | +3.5  |
 | 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 15   | 8.5   | +1  |
 | 4  | García Martín, Juan Manuel      | 15           | 8              | +0.5  |
 | 5  | Aragonés Congostrina, J. Carlos | 16           | 8              | +0  |
@@ -17,7 +17,7 @@ title: I Liga Round robin Club Gambito de Guada
 | 8  | Gómez Vázquez, Javier           | 11            | 5.5           | 0 |
 | 9  | García Pardo, Efrén             | 13           | 5.5            | -1    |
 | 10 | Caballero Justo, Mario          | 11           | 3.5           | -2    |
-| 12 | Sierra Grasa, Ismael            | 16           | 3.5            | -4.5  |
+| 12 | Sierra Grasa, Ismael            | 17           | 3.5            | -4.0  |
 | 11 | Pablo Abánades García           | 11           | 1.5            | -4.0 |
 
 ### Pairing Round 1     
@@ -204,7 +204,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Diaz Martín, Javier                   | 1 - 0         | Pérez Lorenzo, Manuel Jesús             |
 | del Amo Caballero, Sergio             | 0 - 1         | García Martín, Juan Manuel              |
 | Caballero Justo, Mario                | 0 - 1         | Aragonés Congostrina, J. Carlos         |
-| Corral Ruano, Roberto                 |               | Sierra Grasa, Ismael                    |
+| Corral Ruano, Roberto                 | 1 - 0         | Sierra Grasa, Ismael                    |
 | Pablo Abánades García                 | 0 - 1         | García Pardo, Efrén                     |
 
 ### Pairing Round 18
