@@ -9,13 +9,13 @@ title: I Liga Round robin Club Gambito de Guada
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 17           | 13             | +4.5  |
 | 2  | Corral Ruano, Roberto           | 16           | 11.5           | +3.5  |
-| 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 15   | 8.5   | +1    |
+| 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 16   | 9.5   | +1.5    |
 | 4  | García Martín, Juan Manuel      | 15           | 8              | +0.5  |
 | 5  | Aragonés Congostrina, J. Carlos | 17           | 8              | -0.5  |
 | 6  | Esteban López, Vicente          | 10           | 7.5            | +2.5  |
 | 7  | del Amo Caballero, Sergio       | 13           | 7              | +0.5  |
 | 8  | Gómez Vázquez, Javier           | 11           | 5.5            | 0.0   |
-| 9  | García Pardo, Efrén             | 13           | 5.5            | -1    |
+| 9  | García Pardo, Efrén             | 14           | 5.5            | -1.5    |
 | 10 | Caballero Justo, Mario          | 11           | 3.5            | -2    |
 | 12 | Sierra Grasa, Ismael            | 17           | 3.5            | -4.0  |
 | 11 | Pablo Abánades García           | 11           | 1.5            | -4.0 |
@@ -222,7 +222,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| García Pardo, Efrén                   |               | Pérez Lorenzo, Manuel Jesús             |
+| García Pardo, Efrén                   | 0 - 1              | Pérez Lorenzo, Manuel Jesús             |
 | Esteban López, Vicente                | 1 -0          | García Martín, Juan Manuel              |
 | Diaz Martín, Javier                   |               | Aragonés Congostrina, J. Carlos         |
 | del Amo Caballero, Sergio             |  0 - 1             | Sierra Grasa, Ismael                    |
