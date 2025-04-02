@@ -14,11 +14,11 @@ title: I Liga Round robin Club Gambito de Guada
 | 5  | Aragonés Congostrina, J. Carlos | 17           | 8              | -0.5  |
 | 6  | Esteban López, Vicente          | 10           | 7.5            | +2.5  |
 | 7  | del Amo Caballero, Sergio       | 13           | 7              | +0.5  |
-| 8  | Gómez Vázquez, Javier           | 11           | 5.5            | 0.0   |
+| 8  | Gómez Vázquez, Javier           | 12           | 6.5            | +0.5   |
 | 9  | García Pardo, Efrén             | 14           | 5.5            | -1.5    |
 | 10 | Caballero Justo, Mario          | 11           | 3.5            | -2    |
 | 12 | Sierra Grasa, Ismael            | 17           | 3.5            | -4.0  |
-| 11 | Pablo Abánades García           | 11           | 1.5            | -4.0 |
+| 11 | Pablo Abánades García           | 13           | 1.5            | -4.5 |
 
 ### Pairing Round 1     
 
@@ -101,12 +101,12 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|---------------------------------------- |
-| Pérez Lorenzo, Manuel Jesús           |  1 - 0        | García Pardo, Efrén                      |
+| Pérez Lorenzo, Manuel Jesús           | 1 - 0         | García Pardo, Efrén                      |
 | García Martín, Juan Manuel            |               | Esteban López, Vicente                  |
-| Aragonés Congostrina, J. Carlos       |  0 - 1        | Diaz Martín, Javier                     |
+| Aragonés Congostrina, J. Carlos       | 0 - 1         | Diaz Martín, Javier                     |
 | Sierra Grasa, Ismael                  |               | del Amo Caballero, Sergio               |
 | Corral Ruano, Roberto                 |               | Caballero Justo, Mario                  |
-| Gómez Vázquez, Javier                 |               | Pablo Abánades García                   |
+| Gómez Vázquez, Javier                 | 1 - 0         | Pablo Abánades García                   |
 
 ### Pairing Round 9
 
