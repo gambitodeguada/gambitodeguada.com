@@ -12,9 +12,9 @@ title: I Liga Round robin Club Gambito de Guada
 | 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 16   | 9.5   | +1.5  |
 | 4  | García Martín, Juan Manuel      | 16           | 8              | +0.0  |
 | 5  | Aragonés Congostrina, J. Carlos | 17           | 8              | -0.5  |
-| 6  | Esteban López, Vicente          | 11           | 8.5            | +3.0  |
+| 6  | Esteban López, Vicente          | 12           | 9.5            | +3.5  |
 | 7  | del Amo Caballero, Sergio       | 13           | 7              | +0.5  |
-| 8  | Gómez Vázquez, Javier           | 12           | 6.5            | +0.5  |
+| 8  | Gómez Vázquez, Javier           | 13           | 6.5            | +0    |
 | 9  | García Pardo, Efrén             | 15           | 6.5            | -1.0  |
 | 10 | Caballero Justo, Mario          | 11           | 3.5            | -2.0  |
 | 12 | Sierra Grasa, Ismael            | 18           | 3.5            | -4.5  |
@@ -79,10 +79,10 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| Gómez Vázquez, Javier                 |               | Esteban López, Vicente                  |
+| Gómez Vázquez, Javier                 | 0 - 1         | Esteban López, Vicente                  |
 | Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Díaz Martín, Javier                     |
-| García Martín, Juan Manuel            | 0-1           | del Amo Caballero, Sergio               |
-| Aragonés Congostrina, J. Carlos       | 0 - 1              | Caballero Justo, Mario                  |
+| García Martín, Juan Manuel            | 0 - 1         | del Amo Caballero, Sergio               |
+| Aragonés Congostrina, J. Carlos       | 0 - 1         | Caballero Justo, Mario                  |
 | Sierra Grasa, Ismael                  | 0 - 1         | Corral Ruano, Roberto                   |
 | García Pardo, Efrén                   |               | Pablo Abánades García                   |
 
