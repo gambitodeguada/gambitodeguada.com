@@ -11,10 +11,10 @@ title: I Liga Round robin Club Gambito de Guada
 | 2  | Corral Ruano, Roberto           | 18           | 12.5           | +3.5  |
 | 3  | Esteban López, Vicente          | 12           | 9.5            | +3.5  |
 | 4  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 16   | 9.5   | +1.5  |
-| 5  | del Amo Caballero, Sergio       | 14           | 8              | +1    |
-| 6  | García Martín, Juan Manuel      | 16           | 8              | +0.0  |
+| 5  | García Martín, Juan Manuel      | 17           | 9              | +0.5  |
+| 6  | del Amo Caballero, Sergio       | 14           | 8              | +1    |
 | 7  | Aragonés Congostrina, J. Carlos | 17           | 8              | -0.5  |
-| 8  | Gómez Vázquez, Javier           | 13           | 6.5            | +0    |
+| 8  | Gómez Vázquez, Javier           | 14           | 6.5            | -0.5    |
 | 9  | García Pardo, Efrén             | 16           | 6.5            | -1.5  |
 | 10 | Caballero Justo, Mario          | 11           | 3.5            | -2.0  |
 | 12 | Sierra Grasa, Ismael            | 18           | 3.5            | -5.5  |
@@ -123,7 +123,7 @@ title: I Liga Round robin Club Gambito de Guada
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
 |---------------------------------------|---------------|----------------------------------------|
-| García Martín, Juan Manuel            |               | Gómez Vázquez, Javier                   |
+| García Martín, Juan Manuel            |   1 - 0       | Gómez Vázquez, Javier                   |
 | Aragonés Congostrina, J. Carlos       |   1 - 0       | García Pardo, Efrén                     |
 | Sierra Grasa, Ismael                  |               | Esteban López, Vicente                  |
 | Corral Ruano, Roberto                 |   0.5 - 0.5   | Diaz Martín, Javier                     |
