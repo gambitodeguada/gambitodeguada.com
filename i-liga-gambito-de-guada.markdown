@@ -11,9 +11,9 @@ title: I Liga Round robin Club Gambito de Guada
 | 2  | Corral Ruano, Roberto           | 18           | 12.5           | +3.5  |
 | 3  | Esteban López, Vicente          | 12           | 9.5            | +3.5  |
 | 4  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 16   | 9.5   | +1.5  |
-| 5  | García Martín, Juan Manuel      | 17           | 9              | +0.5  |
-| 6  | del Amo Caballero, Sergio       | 14           | 8              | +1    |
-| 7  | Aragonés Congostrina, J. Carlos | 17           | 8              | -0.5  |
+| 5  | García Martín, Juan Manuel      | 18           | 9              | 0  |
+| 6  | Aragonés Congostrina, J. Carlos | 18           | 9              | 0  |
+| 7  | del Amo Caballero, Sergio       | 14           | 8              | +1    |
 | 8  | Gómez Vázquez, Javier           | 14           | 6.5            | -0.5    |
 | 9  | García Pardo, Efrén             | 16           | 6.5            | -1.5  |
 | 10 | Caballero Justo, Mario          | 11           | 3.5            | -2.0  |
@@ -160,7 +160,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Caballero Justo, Mario                |               | García Pardo, Efrén                     |
 | Corral Ruano, Roberto                 | 0 - 1         | Gómez Vázquez, Javier                   |
 | Sierra Grasa, Ismael                  |               | Pérez Lorenzo, Manuel Jesús             |
-| Aragonés Congostrina, J. Carlos       |               | García Martín, Juan Manuel              |
+| Aragonés Congostrina, J. Carlos       | 1 - 0         | García Martín, Juan Manuel              |
 | Pablo Abánades García                 | 0 - 1         | Diaz Martín, Javier                     |
 
 ### Pairing Round 14
