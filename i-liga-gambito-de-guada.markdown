@@ -8,13 +8,13 @@ title: I Liga Round robin Club Gambito de Guada
 | #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 19           | 15             | +5.5  |
-| 2  | Corral Ruano, Roberto           | 18           | 12.5           | +3.5  |
+| 2  | Corral Ruano, Roberto           | 19           | 12.5           | +3    |
 | 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 17   | 10.5  | +2   |
 | 4  | Esteban López, Vicente          | 13           | 9.5            | +3.0  |
-| 5  | del Amo Caballero, Sergio       | 15           | 9              | +1+5  |
+| 5  | del Amo Caballero, Sergio       | 15           | 9              | +1.5  |
 | 6  | García Martín, Juan Manuel      | 18           | 9              | 0     |
 | 7  | Aragonés Congostrina, J. Carlos | 19           | 9              | -0.5  |
-| 8  | Gómez Vázquez, Javier           | 16           | 7.5            | -0.5  |
+| 8  | Gómez Vázquez, Javier           | 17           | 8.5            | 0  |
 | 9  | García Pardo, Efrén             | 17           | 6.5            | -2.0  |
 | 10 | Caballero Justo, Mario          | 11           | 3.5            | -2.0  |
 | 11 | Sierra Grasa, Ismael            | 18           | 3.5            | -5.5  |
@@ -37,7 +37,7 @@ title: I Liga Round robin Club Gambito de Guada
 |---------------------------------------|---------------|----------------------------------------|
 | Esteban López, Vicente                | 1/2 - 1/2     | del Amo Caballero, Sergio               |
 | García Pardo, Efrén                   | 1 - 0         | Caballero Justo, Mario                  |
-| Gómez Vázquez, Javier                 |               | Corral Ruano, Roberto                   |
+| Gómez Vázquez, Javier                 | 1 - 0              | Corral Ruano, Roberto                   |
 | Pérez Lorenzo, Manuel Jesús           | 1 - 0         | Sierra Grasa, Ismael                    |
 | García Martín, Juan Manuel            | 1 - 0         | Aragonés Congostrina, J. Carlos         |
 | Diaz Martín, Javier                   |               | Pablo Abánades García                   |
