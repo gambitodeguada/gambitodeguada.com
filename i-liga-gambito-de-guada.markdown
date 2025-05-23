@@ -9,14 +9,14 @@ title: I Liga Round robin Club Gambito de Guada
 |--------------------------------------|--------------|----------------|-------|
 | 1  | Diaz Martín, Javier             | 19           | 15             | +5.5  |
 | 2  | Corral Ruano, Roberto           | 19           | 12.5           | +3    |
-| 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 17   | 10.5  | +2   |
+| 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 18   | 11  | +2   |
 | 4  | Esteban López, Vicente          | 13           | 9.5            | +3.0  |
 | 5  | del Amo Caballero, Sergio       | 16           | 9.5            | +1.5  |
 | 6  | García Martín, Juan Manuel      | 18           | 9              | 0     |
 | 7  | Aragonés Congostrina, J. Carlos | 20           | 9.5            | -0.5  |
 | 8  | Gómez Vázquez, Javier           | 17           | 8.5            | 0  |
 | 9  | García Pardo, Efrén             | 17           | 6.5            | -2.0  |
-| 10 | Caballero Justo, Mario          | 11           | 3.5            | -2.0  |
+| 10 | Caballero Justo, Mario          | 12           | 4            | -2.0  |
 | 11 | Sierra Grasa, Ismael            | 18           | 3.5            | -5.5  |
 | 12 | Pablo Abánades García           | 14           | 1.5            | -5.5  |
 
@@ -55,14 +55,14 @@ title: I Liga Round robin Club Gambito de Guada
 
 ### Pairing Round 4
 
-| **Blancas**                           | **Resultado** | **Negras**                              |
-|---------------------------------------|---------------|----------------------------------------|
-| García Pardo, Efrén                   | 1 - 0         | Diaz Martín, Javier                     |
-| Gómez Vázquez, Javier                 | 0 - 1         | del Amo Caballero, Sergio               |
-| Pérez Lorenzo, Manuel Jesús           |               | Caballero Justo, Mario                  |
-| García Martín, Juan Manuel            | 1 - 0         | Corral Ruano, Roberto                   |
-| Aragonés Congostrina, J. Carlos       | 1 - 0         | Sierra Grasa, Ismael                    |
-| Esteban López, Vicente                | 1 - 0         | Pablo Abánades García                   |
+| **Blancas**                     | **Resultado** | **Negras**                              |
+|---------------------------------|---------------|----------------------------------------|
+| García Pardo, Efrén             | 1 - 0         | Diaz Martín, Javier                     |
+| Gómez Vázquez, Javier           | 0 - 1         | del Amo Caballero, Sergio               |
+| Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón    | 1/2 - 1/2     | Caballero Justo, Mario                  |
+| García Martín, Juan Manuel      | 1 - 0         | Corral Ruano, Roberto                   |
+| Aragonés Congostrina, J. Carlos | 1 - 0         | Sierra Grasa, Ismael                    |
+| Esteban López, Vicente          | 1 - 0         | Pablo Abánades García                   |
 
 ### Pairing Round 5
 
