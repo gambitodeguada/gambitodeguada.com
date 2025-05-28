@@ -10,14 +10,14 @@ title: I Liga Round robin Club Gambito de Guada
 | 1  | Diaz Martín, Javier             | 19           | 15             | +5.5  |
 | 2  | Corral Ruano, Roberto           | 19           | 12.5           | +3    |
 | 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 18   | 11  | +2   |
+| 5  | del Amo Caballero, Sergio       | 17           | 10            | +1.5  |
 | 4  | Esteban López, Vicente          | 13           | 9.5            | +3.0  |
-| 5  | del Amo Caballero, Sergio       | 16           | 9.5            | +1.5  |
 | 6  | García Martín, Juan Manuel      | 18           | 9              | 0     |
 | 7  | Aragonés Congostrina, J. Carlos | 20           | 9.5            | -0.5  |
 | 8  | Gómez Vázquez, Javier           | 17           | 8.5            | 0  |
 | 9  | García Pardo, Efrén             | 17           | 6.5            | -2.0  |
 | 10 | Caballero Justo, Mario          | 12           | 4            | -2.0  |
-| 11 | Sierra Grasa, Ismael            | 18           | 3.5            | -5.5  |
+| 11 | Sierra Grasa, Ismael            | 19           | 4            | -5.5  |
 | 12 | Pablo Abánades García           | 14           | 1.5            | -5.5  |
 
 ### Pairing Round 1     
@@ -100,13 +100,13 @@ title: I Liga Round robin Club Gambito de Guada
 ### Pairing Round 8
 
 | **Blancas**                           | **Resultado** | **Negras**                              |
-|---------------------------------------|--------------|---------------------------------------- |
-| Pérez Lorenzo, Manuel Jesús           | 1 - 0        | García Pardo, Efrén                      |
-| García Martín, Juan Manuel            |              | Esteban López, Vicente                  |
-| Aragonés Congostrina, J. Carlos       | 0 - 1        | Diaz Martín, Javier                     |
-| Sierra Grasa, Ismael                  |              | del Amo Caballero, Sergio               |
-| Corral Ruano, Roberto                 |              | Caballero Justo, Mario                  |
-| Gómez Vázquez, Javier                 | 1 - 0        | Pablo Abánades García                   |
+|---------------------------------------|---------------|---------------------------------------- |
+| Pérez Lorenzo, Manuel Jesús           | 1 - 0         | García Pardo, Efrén                      |
+| García Martín, Juan Manuel            |               | Esteban López, Vicente                  |
+| Aragonés Congostrina, J. Carlos       | 0 - 1         | Diaz Martín, Javier                     |
+| Sierra Grasa, Ismael                  | 1/2 - 1/2     | del Amo Caballero, Sergio               |
+| Corral Ruano, Roberto                 |               | Caballero Justo, Mario                  |
+| Gómez Vázquez, Javier                 | 1 - 0         | Pablo Abánades García                   |
 
 ### Pairing Round 9
 
