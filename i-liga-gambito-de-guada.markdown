@@ -7,17 +7,17 @@ title: I Liga Round robin Club Gambito de Guada
 
 | #  |  **Jugador**                    | **Partidas** | **Puntuación** | Media |
 |--------------------------------------|--------------|----------------|-------|
-| 1  | Diaz Martín, Javier             | 19           | 15             | +5.5  |
+| 1  | Diaz Martín, Javier             | 20           | 16             | +6  |
 | 2  | Corral Ruano, Roberto           | 20           | 12.5           | +2.5    |
-| 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 18   | 11  | +2   |
-| 4  | del Amo Caballero, Sergio       | 18           | 11            | +2  |
-| 5  | Esteban López, Vicente          | 13           | 9.5            | +3.0  |
+| 3  | Pérez Lorenzo, Manuel Jesús/Jesús Alonso Palazón | 18   | 11    | +2   |
+| 4  | del Amo Caballero, Sergio       | 18           | 11             | +2  |
+| 5  | Esteban López, Vicente          | 14           | 9.5            | +2.5  |
 | 6  | Aragonés Congostrina, J. Carlos | 20           | 9.5            | -0.5  |
 | 7  | García Martín, Juan Manuel      | 18           | 9              | 0     |
 | 8  | Gómez Vázquez, Javier           | 17           | 8.5            | 0  |
 | 9  | García Pardo, Efrén             | 17           | 6.5            | -2.0  |
-| 10 | Caballero Justo, Mario          | 12           | 4            | -2.0  |
-| 11 | Sierra Grasa, Ismael            | 19           | 4            | -5.5  |
+| 10 | Caballero Justo, Mario          | 12           | 4              | -2.0  |
+| 11 | Sierra Grasa, Ismael            | 19           | 4              | -5.5  |
 | 12 | Pablo Abánades García           | 14           | 1.5            | -5.5  |
 
 ### Pairing Round 1     
@@ -171,7 +171,7 @@ title: I Liga Round robin Club Gambito de Guada
 | Pérez Lorenzo, Manuel Jesús           | 0 - 1         | Corral Ruano, Roberto                   |
 | Gómez Vázquez, Javier                 |               | Caballero Justo, Mario                  |
 | García Pardo, Efrén                   | 0 - 1         | del Amo Caballero, Sergio               |
-| Esteban López, Vicente                |               | Diaz Martín, Javier                     |
+| Esteban López, Vicente                | 0 - 1         | Diaz Martín, Javier                     |
 | Aragonés Congostrina, J. Carlos       | 1 - 0         | Pablo Abánades García                   |
 
 ### Pairing Round 15
