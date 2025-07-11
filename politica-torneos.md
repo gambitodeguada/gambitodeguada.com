@@ -11,7 +11,7 @@ Por esto, si quieres participar en un torneo:
 
 - Pide que las facturas relativas te las emitan a nombre del club: Club Deportivo Club Ajedrez Gambito de Guada, G19423037, Calle Bélgica 4 19005 Guadalajara
 - Solicita que las facturas se puedan pagar por transferencia bancaria.
-- Realiza una transferencia bancaria a la cuenta del club `ES49 6726 8300 1505 6481 2483` por el importe de las facturas. 
+- Realiza una transferencia bancaria a la [cuenta del club](/cuenta-bancaria.html) por el importe de las facturas. 
 - Envía las facturas por email al club gambitodeguada@gmail.com
 - El club paga las facturas (hotel, organizador torneo, ...).
 

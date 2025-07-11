@@ -11,9 +11,7 @@
 - name: Contacto
   link: /contacto.html  
 - name: C. Conducta
-  link: /codigo-de-conducta.html  
-- name: Estatutos
-  link: /estatutos.html
-- name: Junta
-  link: /junta.html  
+  link: /codigo-de-conducta.html
+- name: Recursos
+  link: /recursos.html
   

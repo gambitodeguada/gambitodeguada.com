@@ -10,7 +10,7 @@ title: Cuotas
 
 ### Forma de pago
 
-La cuota de socio se puede pagar mediante transferencia bancaria a la número cuenta `ES49 6726 8300 1505 6481 2483`. 
+La cuota de socio se puede pagar mediante [transferencia bancaria](/cuenta-bancaria.html). 
 
 Si deseas que el club te gestione la licencia federativa, añade a la cuota de socio la cantidad correspondiente a la licencia que desees tramitar.
 
