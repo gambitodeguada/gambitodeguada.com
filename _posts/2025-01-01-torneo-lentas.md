@@ -2,7 +2,7 @@
 layout: post
 title:  1er. Torneo de Ajedrez de Lentas Guadalajara 2025
 date:   2025-02-01 09:58:51 +0200
-categories: tournament
+categories: torneos
 ---
 
 ## [Resultados y Clasificación](https://info64.org/torneo-de-lentas-guadalajara-febrero-2025)

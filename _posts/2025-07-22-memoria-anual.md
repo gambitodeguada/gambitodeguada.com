@@ -13,6 +13,8 @@ title: Memoría Anual 2024 / 2025
 ## Participación en torneos regionales
 
 - [Torneo regional por equipos de Castilla-La Mancha 2025](/2025/07/07/participacion-torneo-equipos-clm.html).
+- [Torneo regional para menores de Castilla-La Mancha 2025](/torneos/2025/02/07/campeonato-regional-clm-menores.html).
+
 
 ## Logros deportivos miembros del club
 

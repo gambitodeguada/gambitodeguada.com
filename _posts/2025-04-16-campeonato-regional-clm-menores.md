@@ -2,7 +2,7 @@
 layout: post
 title:  Pablo Abanades y Noa del Amo participan en en campeonato regional de Castilla-La Mancha de Ajedrez para menores en Villarobledo
 date:   2025-02-07 09:58:51 +0200
-categories: tournament
+categories: torneos
 ---
 
 Del 11 al 14 de Abril de 2025, se disputó en Villarrobledo el campeonatos regionales de Castilla-La Mancha de Ajedrez para menores de 18 años.
