@@ -9,3 +9,4 @@ title: Recursos
 - Planilla [PDF](scoresheet.pdf)
 - [Estatutos](/estatutos.html)
 - [Junta](/junta.html)
+- [Open Collective](https://opencollective.com/gambitodeguada)
