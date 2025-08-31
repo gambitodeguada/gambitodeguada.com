@@ -1,17 +1,13 @@
-- name: Inicio
+- name: Noticias
   link: /
 - name: Local
   link: /local.html
-- name: Liga
-  link: /i-liga-gambito-de-guada.html
 - name: Inscripción
   link: /inscripcion.html
 - name: Cuotas
   link: /cuotas.html  
 - name: Contacto
   link: /contacto.html  
-- name: C. Conducta
-  link: /codigo-de-conducta.html
-- name: Recursos
-  link: /recursos.html
+- name: Mapa del Sitio
+  link: /sitemap.html
   

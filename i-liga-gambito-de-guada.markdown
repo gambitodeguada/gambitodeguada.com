@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I Liga Round robin Club Gambito de Guada
+title: I Liga Round robin Club Gambito de Guada 2024-2025
 ---
 
 # Clasificación
