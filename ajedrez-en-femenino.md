@@ -7,13 +7,13 @@ La situación del ajedrez femenino en Guadalajara es dramático. En el [último 
 
 Las niñas suelen iniciarse en ajedrez en tasas similares a los niños, pero el abandono en la adolescencia es mayor. 
 
-Uno de los factores señalados es la falta de referentes femeninos y de pares con quienes compartir la experiencia.
+Uno de los factores señalados, es la falta de referentes femeninos y de pares con quienes compartir la experiencia.
 
 ### Aprendizaje social
 
 La teoría sobre el sentido de pertenencia en psicología educativa indica que las niñas persisten más en actividades en las que sienten comunidad y apoyo entre iguales.
 
-### Deportes y otras disciplinas STEM
+### Deportes y otras disciplinas STEM (Science, Technology, Engineering, and Mathematics)
 
 En contextos como matemáticas, ciencias o deportes tradicionalmente masculinizados, se ha demostrado que la presencia de grupos de pares del mismo género mejora la participación y la permanencia de las chicas.
 
@@ -23,7 +23,7 @@ Cuando las niñas entrenan o juegan en grupos donde hay otras jugadoras, se redu
 
 # Ajedrez en Femenino
 
-Es por ello, que desde el club Gambito de Guada, lanzamos el programa _Ajedrez en femenino_ en colaboración con el ayuntamiento de Guadalajara para potenciar el ajedrez de niñas y mujeres en Guadalajara.
+Es por ello, que desde el club Gambito de Guada, lanzamos el programa _Ajedrez en femenino_ en colaboración con la [concejalía de igualdad del ayuntamiento de Guadalajara](https://www.guadalajara.es/es/ayuntamiento/servicios/igualdad/) para potenciar el ajedrez de niñas y mujeres en Guadalajara.
 
 ## Lineas de Actuación
 
