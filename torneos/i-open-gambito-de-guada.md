@@ -5,7 +5,7 @@ title: I Open Gambito de Guada
 
 # I Open Gambito de Guada 
 
-Torneo suizo de 5 rondas a 60' + 30" a celebrar el 18 y 19 Octubre. Inscripción 10 €. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/101LVfkwzpmWjUNO9iy1vCHlkY8cHZ6sN7AWg0U_SUbQ). Consultar bases más abajo.
+Torneo suizo de 5 rondas a 60' + 30" a celebrar el 18 y 19 Octubre. Inscripción 10 €. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/101LVfkwzpmWjUNO9iy1vCHlkY8cHZ6sN7AWg0U_SUbQ). Consultar [bases](/torneos/i-open-gambito-de-guada#bases) más abajo.
 
 ![](/assets/i-open-gambito-de-guada-800.png) 
 
