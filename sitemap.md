@@ -27,6 +27,8 @@ title: Mapa del sitio
 - [Código de Conducta](/codigo-de-conducta.html)
 - [Política de Torneos](/politica-torneos.html)
 
+## Torneos
+- [I Open Gambito de Guada](https://gambitodeguada.com/torneos/i-open-gambito-de-guada)
 
 ## Ligas
 
