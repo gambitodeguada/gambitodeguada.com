@@ -1,5 +1,5 @@
 ---
-title: Curso Ajedrez en Femenino
+title: Curso de Ajedrez Gratis para Mujeres
 layout: page
 ---
 
