@@ -9,8 +9,11 @@ Torneo suizo de 5 rondas a 60' + 30" a celebrar el 18 y 19 Octubre. Inscripción
 
 ![](/assets/i-open-gambito-de-guada-800.png) 
 
+
+
 ## Bases
 
+[Torneo en Info 64](https://info64.org/i-open-gambito-de-guada)
 
 ### Fechas
 
