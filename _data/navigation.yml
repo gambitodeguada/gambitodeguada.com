@@ -1,13 +1,9 @@
 - name: Noticias
   link: /
+- name: Ajedrez en Femenino
+  link: /ajedrez-en-femenino
 - name: I Open Gambito de Guada
   link: /torneos/i-open-gambito-de-guada
-- name: Local
-  link: /local.html
-- name: Inscripción
-  link: /inscripcion.html
-- name: Cuotas
-  link: /cuotas.html  
 - name: Contacto
   link: /contacto.html  
 - name: Mapa del Sitio

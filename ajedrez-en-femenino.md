@@ -29,7 +29,8 @@ Es por ello, que desde el club Gambito de Guada, lanzamos el programa _Ajedrez e
 
 El programa cuenta con dos líneas de actuación:
 
-- Curso gratuito de ajedrez para niñas y mujeres en los meses de Octubre a Diciembre de 2025. [Formulario de inscripción](https://docs.google.com/forms/d/1m1m331MDMvuu9yV5Zfpr41WixyZOEcJo4Zu5PUrBSxA/edit?pli=1).
+
+- [Curso gratuito de ajedrez para niñas y mujeres en los meses de Octubre a Diciembre de 2025](/cursos/2025-curso-ajedrez-en-femenino).
 - Torneo de ajedrez Femenino en el mes de Diciembre de 2025.
 
 
