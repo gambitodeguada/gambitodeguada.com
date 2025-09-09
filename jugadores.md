@@ -10,7 +10,7 @@ title: Jugadores
 |Perez Lorenzo, Manuel Jesus|[523057793](https://ratings.fide.com/profile/523057793)|1645|||
 |Carballido Mateo, Ignacio|[22237852](https://ratings.fide.com/profile/22237852)|1632|1705|1676|
 |Aragones Congostrina, Juan Carlos|[523007044](https://ratings.fide.com/profile/523007044)|1522|1476||
-|Sierra Grasa, Ismael|[94792836](https://ratings.fide.com/profile/94792836)|1486|1442|1470|
+|Sierra Grasa, Ismael|[94792836](https://ratings.fide.com/profile/94792836)|1514|1442|1470|
 |Diaz Martin, Javier|[535072288](https://ratings.fide.com/profile/535072288)||1770||
 |Alonso Palazon, Jesus|[535072300](https://ratings.fide.com/profile/535072300)||1735|1655|
 |Gomez Vazquez, Javier|[535030240](https://ratings.fide.com/profile/535030240)||1661||
@@ -18,5 +18,6 @@ title: Jugadores
 |Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)||1624|1829|
 |Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1485||
 |Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
-|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
 |Esteban Lopez, Vicente|[2256622](https://ratings.fide.com/profile/2256622)||||
+|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
+|Gomez Resco, Javier|[535085614](https://ratings.fide.com/profile/535085614)||||
