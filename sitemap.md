@@ -33,3 +33,5 @@ title: Mapa del sitio
 ## Ligas
 
 - [I Liga Round robin Club Gambito de Guada 2024-2025](i-liga-gambito-de-guada.html)
+- [Liga A - II Liga Gambito de Guada](/torneos/ii-liga-gambito-de-guada-grupo-a.html)
+- [Liga B - II Liga Gambito de Guada](/torneos/ii-liga-gambito-de-guada-grupo-b.html)
