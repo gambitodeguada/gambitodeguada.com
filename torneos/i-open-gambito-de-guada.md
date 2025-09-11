@@ -7,7 +7,7 @@ title: I Open Gambito de Guada
 
 Torneo suizo de 5 rondas a 60' + 30" a celebrar el 18 y 19 Octubre. Inscripción 10 €. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/101LVfkwzpmWjUNO9iy1vCHlkY8cHZ6sN7AWg0U_SUbQ). Consultar [bases](/torneos/i-open-gambito-de-guada#bases) más abajo.
 
-![](/assets/i-open-gambito-de-guada-800.png) 
+![](/assets/i-open-gambito-de-guada-800.jpg) 
 
 ## Bases
 
@@ -64,10 +64,14 @@ Inscripciones limitadas a 64 participantes en riguroso orden de solicitud de ins
 - 1º : Trofeo y Premio en metálico en función de las inscripciones
 - 2º : Trofeo y Premio en metálico en función de las inscripciones
 - 3º : Trofeo y Premio en metálico en función de las inscripciones
-- 4º : Medalla y Premio en metálico en función de las inscripciones
-
+- 4º : Suscripción de 6 meses en la escuela [The Zugzwang Members](https://thezugzwangmembers.com)
+- 5º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
+- 6º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
+- 7º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
+- 
 #### Socios Club Gambito de Guada
-- 1º : Trofeo
+- 1º : Trofeo + Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
+- 2º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
 
 #### Categoría Femenina
 - 1ª : Trofeo
@@ -89,13 +93,12 @@ Inscripciones limitadas a 64 participantes en riguroso orden de solicitud de ins
 - 1º : Medalla
 
 ### Premiación Metálico
-Se destinará el 60% de lo obtenido en la inscripción de jugadores a premiación en metálico. Repartiendo los premios en metálico del siguiente modo: 
+Se destinará el 60% de lo obtenido en la inscripción de jugadores a premiación en metálico. Repartiendo los premios en metálico del siguiente modo:
 - 1er clasificado - 50%
-- 2do clasificado 25%
+- 2do clasificado 35%
 - 3er clasificado 15%
-- 4º clasificado 10%
 
-Por ejemplo, para una recaudación por inscripción de 270 € se destinarán 162 € (el 60%)  a premios en metálico: 81€ para el primer clasificado, 40,50 € para el segundo clasificado y 24,30 € para el tercer clasificado y 16,20 € para el cuarto.
+Por ejemplo, para una recaudación por inscripción de 270 € se destinarán 162 € (el 60%) a premios en metálico: 81€ para el primer clasificado, 56,70 € para el segundo clasificado y 24,30 € para el tercer clasificado.
 
 ### Equipo Arbitral
 
