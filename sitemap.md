@@ -20,6 +20,7 @@ title: Mapa del sitio
 - [Cuotas](cuotas.html)
 - [Contacto](contacto.html)
 - [Local](local.html)
+- [Datos Fiscales](/datos-fiscales)
 
 ## Políticas
 
