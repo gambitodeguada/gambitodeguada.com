@@ -7,11 +7,11 @@ title: Grupo A - II Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Corral Ruano, Roberto | 1            | 1              | +0.5      |
-| 2 | García Martín, Juan Manuel | 1            | 0.5            | 0.5       |
-| 3 | Esteban López, Vicente | 1            | 0.5            | 0.5       |
-| 4 | Díaz Martín, Javier | 0            | 0              | 0.0       |
-| 5 | Del Amo Caballero, Sergio | 0            | 0              | 0.0       |
+| 1 | Corral Ruano, Roberto | 1            | 1              | +1        |
+| 2 | Esteban López, Vicente | 1            | 0.5            | +0.5      |
+| 3 | Del Amo Caballero, Sergio | 1            | 0.5            | +0.5      |
+| 4 | García Martín, Juan Manuel | 2            | 1              | +0.5      |
+| 5 | Díaz Martín, Javier | 0            | 0              | 0.0       |
 | 6 | Alonso Palazón, Jesús | 0            | 0              | 0.0       |
 | 7 | Pérez Lorenzo, Manuel Jesús | 1            | 0              | -0.5      |
 
@@ -20,10 +20,10 @@ title: Grupo A - II Liga Gambito de Guada
 ### Ronda 1
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
-|----------|-------------|---------------|------------|
-| 1 | García Martín, Juan Manuel | 1/2 - 1/2     | Esteban López, Vicente |
-| 2 | Pérez Lorenzo, Manuel Jesús | 0 - 1         | Corral Ruano, Roberto |
-| 3 | Díaz Martín, Javier | ...           | Alonso Palazón, Jesús |
+|----------|-------------|--------------|------------|
+| 1 | García Martín, Juan Manuel | 1/2 - 1/2    | Esteban López, Vicente |
+| 2 | Pérez Lorenzo, Manuel Jesús | 0 - 1        | Corral Ruano, Roberto |
+| 3 | Díaz Martín, Javier | ...          | Alonso Palazón, Jesús |
 
 **Descansa**: Del Amo Caballero, Sergio
 
@@ -33,7 +33,7 @@ title: Grupo A - II Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Corral Ruano, Roberto | ... | Díaz Martín, Javier |
 | 2 | Esteban López, Vicente | ... | Pérez Lorenzo, Manuel Jesús |
-| 3 | Del Amo Caballero, Sergio | ... | García Martín, Juan Manuel |
+| 3 | Del Amo Caballero, Sergio | 1/2 - 1/2 | García Martín, Juan Manuel |
 
 **Descansa**: Alonso Palazón, Jesús
 
