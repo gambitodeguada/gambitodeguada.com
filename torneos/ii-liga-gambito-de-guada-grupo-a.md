@@ -6,14 +6,14 @@ title: Grupo A - II Liga Gambito de Guada
 ### Clasificación
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
-|---|-------------|--------------|----------------|-----------|
-| 1 | Corral Ruano, Roberto | 1            | 1              | +1        |
-| 2 | Esteban López, Vicente | 1            | 0.5            | +0.5      |
-| 3 | Del Amo Caballero, Sergio | 1            | 0.5            | +0.5      |
-| 4 | García Martín, Juan Manuel | 2            | 1              | +0.5      |
-| 5 | Díaz Martín, Javier | 0            | 0              | 0.0       |
-| 6 | Alonso Palazón, Jesús | 0            | 0              | 0.0       |
-| 7 | Pérez Lorenzo, Manuel Jesús | 1            | 0              | -0.5      |
+|---|-------------|--------------|----------------|----------|
+| 1 | Corral Ruano, Roberto | 1            | 1              | +0.5     |
+| 2 | Esteban López, Vicente | 1            | 0.5            | +0       |
+| 3 | Del Amo Caballero, Sergio | 1            | 0.5            | +0      |
+| 4 | García Martín, Juan Manuel | 2            | 1              | +0      |
+| 5 | Díaz Martín, Javier | 0            | 0              | 0.0      |
+| 6 | Alonso Palazón, Jesús | 0            | 0              | 0.0      |
+| 7 | Pérez Lorenzo, Manuel Jesús | 1            | 0              | -0.5     |
 
 ## Emparejamientos por Ronda
 
