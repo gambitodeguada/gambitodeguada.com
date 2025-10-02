@@ -6,14 +6,14 @@ title: Grupo A - II Liga Gambito de Guada
 ### Clasificación
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
-|---|-------------|--------------|----------------|----------|
-| 1 | Corral Ruano, Roberto | 1            | 1              | +0.5     |
-| 2 | Esteban López, Vicente | 1            | 0.5            | +0       |
-| 3 | Del Amo Caballero, Sergio | 1            | 0.5            | +0      |
-| 4 | García Martín, Juan Manuel | 2            | 1              | +0      |
-| 5 | Díaz Martín, Javier | 0            | 0              | 0.0      |
-| 6 | Alonso Palazón, Jesús | 0            | 0              | 0.0      |
-| 7 | Pérez Lorenzo, Manuel Jesús | 1            | 0              | -0.5     |
+|---|-------------|--------------|----------------|-----------|
+| 1 | Corral Ruano, Roberto | 2            | 2              | +1        |
+| 2 | Esteban López, Vicente | 1            | 0.5            | +0        |
+| 3 | Del Amo Caballero, Sergio | 1            | 0.5            | +0        |
+| 4 | García Martín, Juan Manuel | 2            | 1              | +0        |
+| 5 | Díaz Martín, Javier | 1            | 0              | -0.5      |
+| 6 | Alonso Palazón, Jesús | 0            | 0              | 0.0       |
+| 7 | Pérez Lorenzo, Manuel Jesús | 1            | 0              | -0.5      |
 
 ## Emparejamientos por Ronda
 
@@ -31,9 +31,9 @@ title: Grupo A - II Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Corral Ruano, Roberto | ... | Díaz Martín, Javier |
-| 2 | Esteban López, Vicente | ... | Pérez Lorenzo, Manuel Jesús |
-| 3 | Del Amo Caballero, Sergio | 1/2 - 1/2 | García Martín, Juan Manuel |
+| 1 | Corral Ruano, Roberto | 1-0           | Díaz Martín, Javier |
+| 2 | Esteban López, Vicente | ...           | Pérez Lorenzo, Manuel Jesús |
+| 3 | Del Amo Caballero, Sergio | 1/2 - 1/2     | García Martín, Juan Manuel |
 
 **Descansa**: Alonso Palazón, Jesús
 
