@@ -64,8 +64,7 @@ public class RatingsCommand implements Runnable {
     }
 
     private List<FidePlayer> fetchPlayerRatings(List<ClubPlayer> players) {
-        try {
-            HttpClient httpClient = HttpClient.create(new URL(HTTPS_RATINGS_FIDE_COM));
+        try (HttpClient httpClient = HttpClient.create(new URL(HTTPS_RATINGS_FIDE_COM))) {
             BlockingHttpClient blockingHttpClient = httpClient.toBlocking();
             List<FidePlayer> ratedPlayers = new ArrayList<>();
             for (ClubPlayer player : players) {
