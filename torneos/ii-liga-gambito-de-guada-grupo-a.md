@@ -8,7 +8,7 @@ title: Grupo A - II Liga Gambito de Guada
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
 | 1 | Corral Ruano, Roberto | 2            | 2              | +1        |
-| 2 | Del Amo Caballero, Sergio | 2            | 1.5            | +0.25     |
+| 2 | Del Amo Caballero, Sergio | 2            | 1.5            | +0.5     |
 | 3 | Alonso Palazón, Jesús | 1            | 1              | +0.5      |
 | 4 | García Martín, Juan Manuel | 2            | 1              | +0        |
 | 5 | Pérez Lorenzo, Manuel Jesús | 3            | 1              | -0.5      |
