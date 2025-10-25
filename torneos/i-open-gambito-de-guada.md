@@ -64,14 +64,14 @@ Inscripciones limitadas a 64 participantes en riguroso orden de solicitud de ins
 - 1º : Trofeo y Premio en metálico en función de las inscripciones
 - 2º : Trofeo y Premio en metálico en función de las inscripciones
 - 3º : Trofeo y Premio en metálico en función de las inscripciones
-- 4º : Suscripción de 6 meses en la escuela [The Zugzwang Members](https://thezugzwangmembers.com)
+- 4º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
 - 5º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
 - 6º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
 - 7º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
 - 
 #### Socios Club Gambito de Guada
 - 1º : Trofeo + Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
-- 2º : Mensualidad gratis en la academia [Chess Excelsior](https://chessexcelsior.com)
+- 2º : Suscripción de 6 meses en la escuela [The Zugzwang Members](https://thezugzwangmembers.com)
 
 #### Categoría Femenina
 - 1ª : Trofeo
