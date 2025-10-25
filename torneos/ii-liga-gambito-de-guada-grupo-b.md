@@ -7,12 +7,12 @@ title: Grupo B - II Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Gómez Resco, Javier | 3            | 2.0            | +0.5      |
-| 2 | Aragonés Congostrina, Juan C. | 3            | 2.0            | +0.5      |
-| 3 | García Manzanares, Mariano | 3            | 1.5            | +0.0      |
-| 4 | Carballido Mateo, Ignacio | 1            | 1.0            | +0.5      |
+| 1 | Carballido Mateo, Ignacio | 2            | 2.0            | +1.0      |
+| 2 | Gómez Resco, Javier | 3            | 2.0            | +0.5      |
+| 3 | Aragonés Congostrina, Juan C. | 3            | 2.0            | +0.5      |
+| 4 | García Manzanares, Mariano | 3            | 1.5            | +0.0      |
 | 5 | Gómez Vázquez, Javier | 2            | 1.0            | +0.0      |
-| 6 | García Pardo, Efrén | 2            | 0.5            | -0.5      |
+| 6 | García Pardo, Efrén | 3            | 0.5            | -1.0      |
 | 7 | Sierra Grasa, Ismael | 2            | 0.0            | -1.0      |
 
 ## Emparejamientos por Ronda
@@ -41,7 +41,7 @@ title: Grupo B - II Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | García Pardo, Efrén | ...           | Carballido Mateo, Ignacio |
+| 1 | García Pardo, Efrén | 0-1           | Carballido Mateo, Ignacio |
 | 2 | Aragonés Congostrina, Juan C. | 0-1           | Gómez Resco, Javier |
 | 3 | Sierra Grasa, Ismael | 0-1 | García Manzanares, Mariano |
 
