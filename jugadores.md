@@ -17,7 +17,7 @@ title: Jugadores
 |Garcia Pardo, Efren|[535072296](https://ratings.fide.com/profile/535072296)||1648||
 |Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)||1624|1829|
 |Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
-|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
-|Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
 |Gomez Resco, Javier|[535085614](https://ratings.fide.com/profile/535085614)||||
+|Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
+|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
 |Esteban Lopez, Vicente|[2256622](https://ratings.fide.com/profile/2256622)||||
