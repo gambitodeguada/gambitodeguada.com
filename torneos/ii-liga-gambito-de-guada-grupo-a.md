@@ -12,8 +12,8 @@ title: Grupo A - II Liga Gambito de Guada
 | 3 | Corral Ruano, Roberto | 3            | 2              | +0.5      |
 | 4 | García Martín, Juan Manuel | 2            | 1              | +0        |
 | 5 | Pérez Lorenzo, Manuel Jesús | 3            | 1              | -0.5      |
-| 6 | Esteban López, Vicente | 2            | 0.5            | -0.5      |
-| 7 | Díaz Martín, Javier | 2            | 0              | -1        |
+| 6 | Esteban López, Vicente | 3            | 1              | -0.5      |
+| 7 | Díaz Martín, Javier | 3            | 0.5            | -1        |
 
 
 
@@ -44,7 +44,7 @@ title: Grupo A - II Liga Gambito de Guada
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Pérez Lorenzo, Manuel Jesús | 0-1 | Del Amo Caballero, Sergio |
-| 2 | Díaz Martín, Javier | ... | Esteban López, Vicente |
+| 2 | Díaz Martín, Javier | 1/2 - 1/2 | Esteban López, Vicente |
 | 3 | Alonso Palazón, Jesús | 1-0 | Corral Ruano, Roberto |
 
 **Descansa**: García Martín, Juan Manuel
