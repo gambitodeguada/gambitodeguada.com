@@ -5,7 +5,7 @@ title: I Torneo Ajedrez en Femenino
 
 Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3" 
 
-Inscripción gratuitua.
+Inscripción gratuita.
 
 Sólo para mujeres.
 
@@ -13,22 +13,22 @@ Sólo para mujeres.
 
 Todos los niveles.
 
-Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSd2wmyEpw1r6LnH5gVAOJ3DCwx6Vs-4NIfQN-y-M9f9vm2iGA/viewform?usp=header). Consultar [bases](/torneos/i-torneo-ajedrez-en-femenino#bases) más abajo.
+Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSd2wmyEpw1r6LnH5gVAOJ3DCwx6Vs-4NIfQN-y-M9f9vm2iGA/viewform?usp=header). Consultar [bases](#bases) más abajo.
 
 ![I Torneo Ajedrez en Femenino](/assets/i-torneo-ajedrez-en-femenino.png)
 
 ## Bases
 
-### Jugadores Admitidos
+### Jugadoras admitidas
 
 Sólo mujeres.
 
-### Fechas
+### Fecha
 
 14 de Diciembre de 2025
 
 ### Horario
-09:30 - 10:00 Confirmación inscripciones
+09:30 - 10:00 Confirmación de inscripciones
 10:00 - 12:30 Torneo
 12:30 - 13:00 Entrega de premios
 
@@ -50,7 +50,7 @@ Colaboran: [Concejalía de igualdad del Ayuntamiento de Guadalajara](https://www
 
 Guadalajara capital. Por definir.
 
-### Coste Inscripción:
+### Coste de inscripción:
 El torneo es gratuito. No tiene coste de inscripción.
 
 ### Inscripciones
@@ -60,17 +60,17 @@ Inscripciones limitadas a 32 participantes en riguroso orden de solicitud de ins
 ### Premios
 
 #### Categoría Absoluta
-- 1º : Trofeo
-- 2º : Trofeo
-- 3º : Trofeo
-- 
-#### Categoría Veteranos ( >60 años)
-- 1º : Trofeo
+- 1ª : Trofeo
+- 2ª : Trofeo
+- 3ª : Trofeo
+
+#### Categoría Veteranas ( >60 años)
+- 1ª : Trofeo
 
 #### Categoría Sub18
-- 1º : Trofeo
-- 2º : Trofeo
-- 3º : Trofeo
+- 1ª : Trofeo
+- 2ª : Trofeo
+- 3ª : Trofeo
 
 ### Equipo Arbitral
 
@@ -79,11 +79,11 @@ Inscripciones limitadas a 32 participantes en riguroso orden de solicitud de ins
 
 ### Tiempo de Tolerancia
 
-El tiempo de tolerancia será de 5 minutos, transcurridos los cuales sin presentarse se declarará la incomparecencia del jugador.
+El tiempo de tolerancia será de 5 minutos, transcurridos los cuales sin presentarse se declarará la incomparecencia de la jugadora.
 
 ### Anotación
 
-No es obligatorio anotar las jugadas. Se proporcionarán planillas a los jugadores que las soliciten.
+No es obligatorio anotar las jugadas. Se proporcionarán planillas a las jugadoras que las soliciten.
 
 ### Sistema de desempate
 - Buchholz Cut
@@ -100,24 +100,24 @@ No es obligatorio anotar las jugadas. Se proporcionarán planillas a los jugador
 
 ### Reglamento
 
-Se eliminará al jugador que en alguna ronda no comparezca sin previo aviso.
+Se eliminará a la jugadora que en alguna ronda no comparezca sin previo aviso.
 
 Se podrá solicitar un Bye en cualquiera de las tres primeras rondas.
 
-Se prohíben los móviles, deberán permanecer apagados y serán entregados al árbitro si el jugador desea abandonar momentáneamente la zona de juego.
+Se prohíben los móviles, deberán permanecer apagados y serán entregados al árbitro si la jugadora desea abandonar momentáneamente la zona de juego.
 
-Asimismo, tampoco están permitidos dispositivos electrónicos susceptibles de ser usados para proporcionar información al jugador de su partida.
+Asimismo, tampoco están permitidos dispositivos electrónicos susceptibles de ser usados para proporcionar información a la jugadora sobre su partida.
 
 Para cualquier incidencia no recogida en estas bases, se aplicarán las leyes del ajedrez aprobadas por la FIDE.
 
 ### Comité de Competición
 
-Estará formado por el árbitro principal, el presidente del Club Gambito de Guada y el jugador de mayor ELO (siempre que no estén implicados en la reclamación).
+Estará formado por el árbitro principal, el presidente del Club Gambito de Guada y la jugadora de mayor ELO (siempre que no estén implicadas en la reclamación).
 
-Las reclamaciones al Comité de Competición se presentarán por escrito por el jugador afectado, como máximo dos horas después del final del Encuentro.
+Las reclamaciones al Comité de Competición se presentarán por escrito por la jugadora afectada, como máximo dos horas después del final del Encuentro.
 
-### Uso datos personales
+### Uso de datos personales
 
-Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento (listados de resultados, clasificaciones, participantes, partidas, etc.)
+Las participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento (listados de resultados, clasificaciones, participantes, partidas, etc.)
 
-La participación en el campeonato, supone la aceptación de estas bases.
+La participación en el campeonato supone la aceptación de estas bases.
