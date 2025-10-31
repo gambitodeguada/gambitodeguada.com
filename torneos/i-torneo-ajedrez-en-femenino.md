@@ -44,7 +44,7 @@ Torneo abierto **no evaluable** para ELO FIDE.
 
 Este campeonato está organizado por el [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/).
 
-Colaboran: [Diputación de Guadalajara](https://dguadalajara.es/) y [Delegación de Ajedrez de Guadalajara](https://ajedrezguadalajara.com/)
+Colaboran: [Concejalía de igualdad del Ayuntamiento de Guadalajara](https://www.guadalajara.es/es/ayuntamiento/servicios/igualdad/)  y [Delegación de Ajedrez de Guadalajara](https://ajedrezguadalajara.com/)
 
 ### Lugar de Juego
 
