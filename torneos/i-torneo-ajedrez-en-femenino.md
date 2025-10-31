@@ -64,7 +64,7 @@ Inscripciones limitadas a 32 participantes en riguroso orden de solicitud de ins
 - 2º : Trofeo
 - 3º : Trofeo
 - 
-#### Categoría Veteranos ( >55 años)
+#### Categoría Veteranos ( >60 años)
 - 1º : Trofeo
 
 #### Categoría Sub18
