@@ -3,9 +3,7 @@ layout: page
 title: I Torneo Ajedrez en Femenino
 ---
 
-# I Torneo Ajedrez en Femenino
-
-Torneo suizo de 5 rondas a 10' + 3" a celebrar el día 14 de Diciembre. 
+Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3" 
 
 Inscripción gratuitua.
 
