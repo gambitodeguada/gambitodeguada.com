@@ -1,7 +1,9 @@
 - name: Noticias
   link: /
-- name: Curso Gratis para Mujeres
+- name: Curso para Mujeres
   link: /cursos/2025-curso-ajedrez-en-femenino
+- name: I Torneo Ajedrez en Femenino
+  link: /torneos/i-torneo-ajedrez-en-femenino
 - name: Grupo A
   link: /torneos/ii-liga-gambito-de-guada-grupo-a
 - name: Grupo B
