@@ -11,9 +11,13 @@ Inscripción gratuitua.
 
 Sólo para mujeres.
 
+14 de Diciembre de 2025. 10:00 - 13:00
+
 Todos los niveles.
 
 Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSd2wmyEpw1r6LnH5gVAOJ3DCwx6Vs-4NIfQN-y-M9f9vm2iGA/viewform?usp=header). Consultar [bases](/torneos/i-torneo-ajedrez-en-femenino#bases) más abajo.
+
+![I Torneo Ajedrez en Femenino](/assets/i-torneo-ajedrez-en-femenino.png)
 
 ## Bases
 
