@@ -47,7 +47,7 @@ El día 18 y 19 de Octubre se disputó el I Open Gambito de Guada.
 | 8 | 4 | | Magan Gonzalez, Alberto | 1905 | ESP | 3.0 | 12.0 | 15.0 | 7.5 |
 | 9 | 2 | | Vioque Gonzalez, Nicolas (W) | 2270 | ESP | 3.0 | 11.5 | 14.5 | 8.5 |
 | 10 | 28 | | Corral Ruano, Roberto | 0 | ESP | 3.0 | 11.0 | 12.0 | 5.0 |
-| 11 | 26 | | Alonso Palazon, Jesus | 0 | ESP | 3.0 | 10.5 | 13.5 | 7.8 |
+| 11 | 26 | | Alonso Palazón, Jesús | 0 | ESP | 3.0 | 10.5 | 13.5 | 7.8 |
 | 12 | 30 | | Diaz Martin, Javier | 0 | ESP | 3.0 | 10.5 | 12.0 | 6.8 |
 | 13 | 31 | | Esteban Lopez, Vicente | 1542 | ESP | 2.5 | 13.0 | 14.0 | 4.5 |
 | 14 | 18 | | Antoli Mariasca, Enrique | 1780 | ESP | 2.5 | 13.0 | 13.5 | 4.0 |
@@ -67,7 +67,7 @@ El día 18 y 19 de Octubre se disputó el I Open Gambito de Guada.
 | 28 | 34 | | Gomez Vazquez, Javier (W) | 0 | ESP | 1.0 | 11.0 | 11.5 | 0.5 |
 | 29 | 35 | | Lejarraga Rodriguez, Leo | 0 | ESP | 1.0 | 9.5 | 10.5 | 1.0 |
 | 30 | 36 | | Pellon Diaz, Dario Phuc | 0 | ESP | 0.5 | 7.0 | 8.0 | 0.8 |
-| 31 | 25 | | Abanades Garcia, Pablo | 2044 | ESP | 0.0 | 0.0 | 0.0 | 0.0 |
+| 31 | 25 | | Abánades García, Pablo | 2044 | ESP | 0.0 | 0.0 | 0.0 | 0.0 |
 | 32 | 3 | | Sanchez Millan, Eduardo (W) | 1851 | ESP | 0.0 | 0.0 | 0.0 | 0.0 |
 | 33 | 6 | | Garcia Velayos, Carlos E. (W) | 1632 | ESP | 0.0 | 0.0 | 0.0 | 0.0 |
 | 34 | 15 | | Carballido Mateo, Ignacio (W) | 1508 | ESP | 0.0 | 0.0 | 0.0 | 0.0 |

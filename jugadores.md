@@ -12,11 +12,11 @@ title: Jugadores
 |Aragones Congostrina, Juan Carlos|[523007044](https://ratings.fide.com/profile/523007044)|1522|1476||
 |Sierra Grasa, Ismael|[94792836](https://ratings.fide.com/profile/94792836)|1514|1441|1470|
 |Diaz Martin, Javier|[535072288](https://ratings.fide.com/profile/535072288)||1770||
-|Alonso Palazon, Jesus|[535072300](https://ratings.fide.com/profile/535072300)||1735|1655|
+|Alonso Palazón, Jesús|[535072300](https://ratings.fide.com/profile/535072300)||1735|1655|
 |Gomez Vazquez, Javier|[535030240](https://ratings.fide.com/profile/535030240)||1661||
 |Garcia Pardo, Efren|[535072296](https://ratings.fide.com/profile/535072296)||1648||
 |Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)||1624|1829|
-|Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
+|Abánades García, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
 |Gomez Resco, Javier|[535085614](https://ratings.fide.com/profile/535085614)||||
 |Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
 |Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||

@@ -76,8 +76,8 @@ Inscripciones limitadas a 32 participantes en riguroso orden de solicitud de ins
 
 ### Equipo Arbitral
 
-- Árbitro Principal: Jesús Alonso Palazon ID: [535072300](https://ratings.fide.com/profile/535072300)
-- Árbitro Adjunto: Pablo Abanades Garcia ID: [535072270](https://ratings.fide.com/profile/535072270)
+- Árbitro Principal: Jesús Alonso Palazón ID: [535072300](https://ratings.fide.com/profile/535072300)
+- Árbitro Adjunto: Pablo Abánades García ID: [535072270](https://ratings.fide.com/profile/535072270)
 
 ### Tiempo de Tolerancia
 
