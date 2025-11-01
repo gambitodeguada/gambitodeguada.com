@@ -5,6 +5,8 @@ title: I Torneo Ajedrez en Femenino
 
 Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3" 
 
+El torneo es parte del programa [Ajedrez en Femenino](/ajedrez-en-femenino).
+
 Inscripción gratuita.
 
 Es un torneo de participación exclusivamente femenina. Podrá participar cualquier niña o adulta, independientemente de la edad y el nivel.

@@ -31,6 +31,6 @@ El programa cuenta con dos líneas de actuación:
 
 
 - [Curso gratuito de ajedrez para niñas y mujeres en los meses de Octubre a Diciembre de 2025](/cursos/2025-curso-ajedrez-en-femenino).
-- Torneo de ajedrez Femenino en el mes de Diciembre de 2025.
+- [Torneo de ajedrez Femenino en el mes de Diciembre de 2025](/torneos/i-torneo-ajedrez-en-femenino).
 
 
