@@ -7,7 +7,7 @@ Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3"
 
 Inscripción gratuita.
 
-Sólo para mujeres.
+Es un torneo de participación exclusivamente femenina. Podrá participar cualquier niña o adulta, independientemente de la edad y el nivel.
 
 14 de Diciembre de 2025. 10:00 - 13:00
 
