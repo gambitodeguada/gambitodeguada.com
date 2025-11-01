@@ -19,9 +19,9 @@ Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs
 
 ## Bases
 
-### Jugadoras admitidas
+### Participantes
 
-Sólo mujeres.
+Es un torneo de participación exclusivamente femenina. Podrá participar cualquier niña o adulta, independientemente de la edad y el nivel.
 
 ### Fecha
 
