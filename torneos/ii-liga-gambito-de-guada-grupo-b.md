@@ -7,13 +7,13 @@ title: Grupo B - II Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Carballido Mateo, Ignacio | 4            | 4.0            | +2.0      |
+| 1 | Carballido Mateo, Ignacio | 5            | 5.0            | +2.5      |
 | 2 | García Manzanares, Mariano | 5            | 2.5            | 0.0       |
 | 3 | Aragonés Congostrina, Juan C. | 4            | 2.0            | 0.0       |
 | 4 | Gómez Resco, Javier | 4            | 2.0            | 0.0       |
 | 5 | Gómez Vázquez, Javier | 2            | 1.0            | 0.0       |
 | 6 | García Pardo, Efrén | 3            | 0.5            | -1.0      |
-| 7 | Sierra Grasa, Ismael | 2            | 0.0            | -1.0      |
+| 7 | Sierra Grasa, Ismael | 3            | 0.0            | -1.5      |
 
 ## Emparejamientos por Ronda
 
@@ -62,7 +62,7 @@ title: Grupo B - II Liga Gambito de Guada
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Aragonés Congostrina, Juan C. | ... | Gómez Vázquez, Javier |
-| 2 | Sierra Grasa, Ismael | ... | Carballido Mateo, Ignacio |
+| 2 | Sierra Grasa, Ismael | 0-1 | Carballido Mateo, Ignacio |
 | 3 | García Manzanares, Mariano | 1-0 | Gómez Resco, Javier |
 
 **Descansa**: García Pardo, Efrén
@@ -112,4 +112,4 @@ title: Grupo B - II Liga Gambito de Guada
 
 - Cada jugador descansa una ronda debido al número impar de participantes
 - Los resultados se actualizarán al finalizar cada partida
-- La media se calcula dividiendo la puntuación total entre las partidas jugadas
+- La Media se calcula restando a la puntuación el número de partidas dividida entre dos
