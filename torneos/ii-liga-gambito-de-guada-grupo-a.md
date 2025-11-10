@@ -7,10 +7,10 @@ title: Grupo A - II Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Alonso Palazón, Jesús | 3            | 2.5            | +1        |
+| 1 | Alonso Palazón, Jesús | 4            | 3              | +1        |
 | 2 | Corral Ruano, Roberto | 3            | 2              | +0.5      |
 | 3 | García Martín, Juan Manuel | 3            | 2              | +0.5      |
-| 4 | Del Amo Caballero, Sergio | 3            | 1.5            | 0         |
+| 4 | Del Amo Caballero, Sergio | 4            | 2              | 0.0        |
 | 5 | Esteban López, Vicente | 4            | 1.5            | -0.5      |
 | 6 | Díaz Martín, Javier | 4            | 1.5            | -0.5      |
 | 7 | Pérez Lorenzo, Manuel Jesús | 4            | 1              | -1        |
@@ -64,7 +64,7 @@ title: Grupo A - II Liga Gambito de Guada
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Díaz Martín, Javier | ... | García Martín, Juan Manuel |
-| 2 | Alonso Palazón, Jesús | ... | Del Amo Caballero, Sergio |
+| 2 | Alonso Palazón, Jesús | 1/2 - 1/2 | Del Amo Caballero, Sergio |
 | 3 | Corral Ruano, Roberto | ... | Esteban López, Vicente |
 
 **Descansa**: Pérez Lorenzo, Manuel Jesús
