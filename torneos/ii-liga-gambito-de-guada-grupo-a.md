@@ -10,7 +10,7 @@ title: Grupo A - II Liga Gambito de Guada
 | 1 | Alonso Palazón, Jesús | 4            | 3              | +1        |
 | 2 | Díaz Martín, Javier | 5            | 2.5            | 0.0       |
 | 3 | Corral Ruano, Roberto | 3            | 2              | +0.5      |
-| 3 | Del Amo Caballero, Sergio | 4            | 2              | 0.0       |
+| 4 | Del Amo Caballero, Sergio | 4            | 2              | 0.0       |
 | 5 | García Martín, Juan Manuel | 4            | 2              | 0.0       |
 | 6 | Esteban López, Vicente | 4            | 1.5            | -0.5      |
 | 7 | Pérez Lorenzo, Manuel Jesús | 4            | 1              | -1        |
