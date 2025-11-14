@@ -111,4 +111,4 @@ title: Grupo A - II Liga Gambito de Guada
 
 - Cada jugador descansa una ronda debido al número impar de participantes
 - Los resultados se actualizarán al finalizar cada partida
-- La media se calcula dividiendo la puntuación total entre las partidas jugadas
+- La Media se calcula restando a la puntuación el número de partidas dividida entre dos
