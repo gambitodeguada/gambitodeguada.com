@@ -12,8 +12,8 @@ title: Grupo B - II Liga Gambito de Guada
 | 3 | Aragonés Congostrina, Juan C. | 4            | 2.0            | 0.0       |
 | 4 | Gómez Resco, Javier | 4            | 2.0            | 0.0       |
 | 5 | Gómez Vázquez, Javier | 4            | 2.0            | 0.0       |
-| 6 | García Pardo, Efrén | 4            | 1.5            | -0.5      |
-| 7 | Sierra Grasa, Ismael | 3            | 0.0            | -1.5      |
+| 6 | García Pardo, Efrén | 5            | 2.0            | -0.5      |
+| 7 | Sierra Grasa, Ismael | 4            | 0.5            | -1.5      |
 
 ## Emparejamientos por Ronda
 
@@ -81,7 +81,7 @@ title: Grupo B - II Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Sierra Grasa, Ismael | ... | García Pardo, Efrén |
+| 1 | Sierra Grasa, Ismael | 1/2 - 1/2 | García Pardo, Efrén |
 | 2 | García Manzanares, Mariano | 0 - 1 | Gómez Vázquez, Javier |
 | 3 | Gómez Resco, Javier | ... | Carballido Mateo, Ignacio |
 
