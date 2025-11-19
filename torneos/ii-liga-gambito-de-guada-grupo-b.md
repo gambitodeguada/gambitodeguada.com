@@ -8,10 +8,10 @@ title: Grupo B - II Liga Gambito de Guada
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
 | 1 | Carballido Mateo, Ignacio | 5            | 5.0            | +2.5      |
-| 2 | García Manzanares, Mariano | 6            | 2.5            | -0.5      |
-| 3 | Aragonés Congostrina, Juan C. | 4            | 2.0            | 0.0       |
+| 2 | Gómez Vázquez, Javier | 5            | 3.0            | +0.5      |
+| 3 | García Manzanares, Mariano | 6            | 2.5            | -0.5      |
 | 4 | Gómez Resco, Javier | 4            | 2.0            | 0.0       |
-| 5 | Gómez Vázquez, Javier | 4            | 2.0            | 0.0       |
+| 5 | Aragonés Congostrina, Juan C. | 5            | 2.0            | -0.5      |
 | 6 | García Pardo, Efrén | 5            | 2.0            | -0.5      |
 | 7 | Sierra Grasa, Ismael | 4            | 0.5            | -1.5      |
 
@@ -61,7 +61,7 @@ title: Grupo B - II Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Aragonés Congostrina, Juan C. | ... | Gómez Vázquez, Javier |
+| 1 | Aragonés Congostrina, Juan C. | 0 - 1 | Gómez Vázquez, Javier |
 | 2 | Sierra Grasa, Ismael | 0-1 | Carballido Mateo, Ignacio |
 | 3 | García Manzanares, Mariano | 1-0 | Gómez Resco, Javier |
 
