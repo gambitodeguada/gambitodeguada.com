@@ -10,9 +10,9 @@ title: Grupo A - II Liga Gambito de Guada
 | 1 | Díaz Martín, Javier | 6            | 3.5            | +0.5      |
 | 2 | García Martín, Juan Manuel | 5            | 3              | +0.5      |
 | 3 | Alonso Palazón, Jesús | 5            | 3              | +0.5      |
-| 4 | Corral Ruano, Roberto | 3            | 2              | +0.5      |
+| 4 | Corral Ruano, Roberto | 4            | 2.5            | +0.5      |
 | 5 | Del Amo Caballero, Sergio | 4            | 2              | 0.0       |
-| 6 | Esteban López, Vicente | 4            | 1.5            | -0.5      |
+| 6 | Esteban López, Vicente | 5            | 2              | -0.5      |
 | 7 | Pérez Lorenzo, Manuel Jesús | 5            | 1              | -1.5      |
 
 ## Emparejamientos por Ronda
