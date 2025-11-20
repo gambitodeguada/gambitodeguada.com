@@ -63,7 +63,7 @@ title: Grupo A - II Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Díaz Martín, Javier | 1 - 0 | García Martín, Juan Manuel |
 | 2 | Alonso Palazón, Jesús | 1/2 - 1/2 | Del Amo Caballero, Sergio |
-| 3 | Corral Ruano, Roberto | ... | Esteban López, Vicente |
+| 3 | Corral Ruano, Roberto | 1/2 - 1/2 | Esteban López, Vicente |
 
 **Descansa**: Pérez Lorenzo, Manuel Jesús
 
