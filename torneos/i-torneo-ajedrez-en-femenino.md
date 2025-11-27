@@ -34,8 +34,8 @@ Es un torneo de participación exclusivamente femenina. Podrá participar cualqu
 [Espacio Tyce, Guadalajara](https://www.google.com/maps/place/Espacio+TYCE+de+Guadalajara/@40.631012,-3.1601889,17z/data=!3m1!4b1!4m6!3m5!1s0xd43ab0ab5f0a93d:0xdd1d1bbc4cc83d51!8m2!3d40.631012!4d-3.157614!16s%2Fg%2F1yh4g8nkg?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D)
 
 ### Horario
-09:30 - 10:00 Confirmación de inscripciones
-10:00 - 12:30 Torneo
+10:00 - 10:30 Confirmación de inscripciones
+10:30 - 12:30 Torneo
 12:30 - 13:00 Entrega de premios
 
 ### Sistema y Ritmo de Juego
