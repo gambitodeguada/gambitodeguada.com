@@ -1,6 +1,6 @@
 - name: Noticias
   link: /
-- name: Curso para Mujeres
+- name: Curso Mujeres
   link: /cursos/2025-curso-ajedrez-en-femenino
 - name: I Torneo Ajedrez en Femenino
   link: /torneos/i-torneo-ajedrez-en-femenino
@@ -8,6 +8,8 @@
   link: /torneos/ii-liga-gambito-de-guada-grupo-a
 - name: Grupo B
   link: /torneos/ii-liga-gambito-de-guada-grupo-b
+- name: Copa
+  link: /torneos/i-copa-gambito-de-guada
 - name: Índice
   link: /sitemap.html
   
