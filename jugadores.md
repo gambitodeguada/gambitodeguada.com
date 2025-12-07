@@ -8,7 +8,7 @@ title: Jugadores
 |Gomez Vazquez, Javier|[535030240](https://ratings.fide.com/profile/535030240)|1766|1661||
 |Esteban Lopez, Vicente|[2256622](https://ratings.fide.com/profile/2256622)|1752|1759||
 |Perez Lorenzo, Manuel Jesus|[523057793](https://ratings.fide.com/profile/523057793)|1677|||
-|Garcia Martin, Juan Manuel|[2221780](https://ratings.fide.com/profile/2221780)|1633|1593|1753|
+|Garcia Martin, Juan Manuel|[2221780](https://ratings.fide.com/profile/2221780)|1629|1593|1753|
 |Garcia Pardo, Efren|[535072296](https://ratings.fide.com/profile/535072296)|1628|1619||
 |Carballido Mateo, Ignacio|[22237852](https://ratings.fide.com/profile/22237852)|1621|1705|1676|
 |Del Amo Caballero, Sergio|[535004274](https://ratings.fide.com/profile/535004274)|1605|1691||
