@@ -3,7 +3,7 @@ layout: page
 title: I Torneo Ajedrez en Femenino
 ---
 
-Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3" 
+Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3". [Info 64](https://info64.org/i-torneo-ajedrez-femenino). 
 
 El torneo es parte del programa [Ajedrez en Femenino](/ajedrez-en-femenino).
 
