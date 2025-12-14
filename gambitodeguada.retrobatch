@@ -83,14 +83,14 @@
 			<integer>800</integer>
 			<key>outputsIds</key>
 			<array>
-				<string>f09856aa-6068-4f48-9964-2aa360158ef3</string>
+				<string>bfefc27b-ae6c-4914-b477-9edb081e54b4</string>
 			</array>
 			<key>proccessId</key>
 			<string>d20491ae-3a60-4ff2-99b2-f215814a87a7</string>
 		</dict>
 		<dict>
 			<key>canvasOrigin</key>
-			<string>{400, 80}</string>
+			<string>{640, 80}</string>
 			<key>class</key>
 			<string>OTWriteNode</string>
 			<key>inputFileNameTokens</key>
@@ -157,6 +157,28 @@
 			<array/>
 			<key>proccessId</key>
 			<string>f09856aa-6068-4f48-9964-2aa360158ef3</string>
+		</dict>
+		<dict>
+			<key>canvasOrigin</key>
+			<string>{400, 80}</string>
+			<key>class</key>
+			<string>OTDetectAndCropNode</string>
+			<key>inputHeightOTLength</key>
+			<string>100 px</string>
+			<key>inputIgnoreImagesWithoutFeatures</key>
+			<integer>1</integer>
+			<key>inputWidthOTLength</key>
+			<string>100 px</string>
+			<key>inputXOTLength</key>
+			<string>100 px</string>
+			<key>inputYOTLength</key>
+			<string>100 px</string>
+			<key>outputsIds</key>
+			<array>
+				<string>f09856aa-6068-4f48-9964-2aa360158ef3</string>
+			</array>
+			<key>proccessId</key>
+			<string>bfefc27b-ae6c-4914-b477-9edb081e54b4</string>
 		</dict>
 	</array>
 	<key>version</key>
