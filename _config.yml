@@ -10,3 +10,8 @@ instagram_username: gambitodeguada
 theme: minima
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: "assets/i-torneo-ajedrez-femenino/thumbs"
+    values:
+      gallery: true
