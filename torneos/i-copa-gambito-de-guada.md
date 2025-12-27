@@ -3,6 +3,34 @@ layout: page
 title: I Copa Ajedrez Rápido Gambito de Guada
 ---
 
+
+## Resultados
+
+### Final
+
+- `R. 2.0 / 0.0` Magan Gonzalez, Alberto vs Díaz Martín, Javier
+
+### Semifinal
+
+- `R. 0.5 / 1.5` Alonso Palazón, Jesús vs Díaz Martín, Javier
+- `R. 2.0 / 0.0` Magan Gonzalez, Alberto vs Carballido Mateo, Ignacio
+
+### 1/4
+
+- `R. 0.5 / 1.5` Esteban López, Vicente vs Magan Gonzalez, Alberto
+- `R. 2.0 / 0.0` Alonso Palazón, Jesús vs Aragonés, Juan Carlos
+- `R. 0.0 / 2.0`  García Martín, Juan Manuel vs Díaz Martín, Javier
+- `R. 0.0 / 2.0` Gómez Vázquez, Javier vs Carballido Mateo, Ignacio
+
+### 1/8
+
+- `R. 1.0 / 1.0 B. 1.0 / 1.0. A. 1.0 / 0.0` Esteban López, Vicente vs Corral Ruano, Roberto
+- `R. 0.0 / 2.0` Vidal Rodriguez, Alberto David vs- Magan Gonzalez, Alberto
+- `R. 1.0 / 1.0. B. 2.0 / 0.0` Alonso Palazón, Jesús vs Sergio del Amo
+- `R. 0.0 / 2.0` Gomez Resco, Javier vs Aragonés, Juan Carlos
+- `R. 1.0 / 1.0 B. 0.0 / 2.0` Garcia Pardo, Efren, Juan Manuel vs Díaz Martín, Javier
+- `R. 0.0 / 2.0` Pérez Lorenzo, Manuel Jesús vs Carballido Mateo, Ignacio
+
 ## Formato de la Competición
 
 ### Formato general
