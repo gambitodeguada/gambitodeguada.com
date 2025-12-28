@@ -8,7 +8,7 @@ title: I Copa Ajedrez Rápido Gambito de Guada
 
 ### Final
 
-- `R. 2.0 / 0.0` Magan Gonzalez, Alberto vs Díaz Martín, Javier
+- `R. 1.5 / 0.5` Magan Gonzalez, Alberto vs Díaz Martín, Javier
 
 ### Semifinal
 
