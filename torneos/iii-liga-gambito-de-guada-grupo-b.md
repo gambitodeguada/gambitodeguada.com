@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grupo B - II Liga Gambito de Guada
+title: Grupo B - III Liga Gambito de Guada
 ---
 
 ### Tabla de Posiciones
