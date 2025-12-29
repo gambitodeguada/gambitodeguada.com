@@ -20,7 +20,7 @@ title: I Copa Ajedrez Rápido Gambito de Guada
 - `R. 0.5 / 1.5` Esteban López, Vicente vs Magan Gonzalez, Alberto
 - `R. 2.0 / 0.0` Alonso Palazón, Jesús vs Aragonés, Juan Carlos
 - `R. 0.0 / 2.0`  García Martín, Juan Manuel vs Díaz Martín, Javier
-  `R. 1.0 / 1.0. B. 0.0 / 2.0`  Gómez Vázquez, Javier vs Carballido Mateo, Ignacio
+- `R. 1.0 / 1.0. B. 0.0 / 2.0`  Gómez Vázquez, Javier vs Carballido Mateo, Ignacio
 
 ### 1/8
 
