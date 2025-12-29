@@ -12,9 +12,8 @@ title: Grupo B - II Liga Gambito de Guada
 | 3 | Pérez Lorenzo, Manuel Jesús   | 0            | 0              | +0.0      |
 | 4 | Aragonés Congostrina, Juan C. | 0            | 0              | +0.0      |
 | 5 | García Manzanares, Mariano    | 0            | 0              | +0.0      |
-| 6 | Sierra Grasa, Ismael          | 0            | 0              | +0.0      |
-| 7 | Magan Gonzalez, Alberto       | 0            | 0              | +0.0      |
-| 8 | Urosa Lozano, Javier       | 0            | 0              | +0.0      |
+| 6 | Magan Gonzalez, Alberto       | 0            | 0              | +0.0      |
+| 7 | Urosa Lozano, Javier       | 0            | 0              | +0.0      |
 
 ## Información del Torneo
 
