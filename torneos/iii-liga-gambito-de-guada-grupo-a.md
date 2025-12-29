@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grupo A - II Liga Gambito de Guada
+title: Grupo A - III Liga Gambito de Guada
 ---
 
 ### Clasificación
