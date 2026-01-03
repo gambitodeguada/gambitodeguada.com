@@ -3,6 +3,7 @@ layout: post
 title:  Mercedes Fernández gana el I Torneo Ajedrez Femenino
 date:   2025-12-14 13:00:00 +0200
 categories: torneos
+gallery_path: assets/i-torneo-ajedrez-femenino/thumbs
 ---
 
 [María Mercedes Fernández Calvet](https://info64.org/i-torneo-ajedrez-femenino/fernandez-calvet-maria-mercedes), jugadora del Club de Ajedrez Cabanillas 4 Torres,
@@ -35,32 +36,3 @@ su apoyo en esta iniciativa.
 - **3.er Premio** [Sara Pérez Olmeda](https://info64.org/i-torneo-ajedrez-femenino/perez-olmeda-sara)
 
 {% include gallery.html %}
-
-<!--
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara-aula_-_1.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara-aula_-_1.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara-aula_-_2.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara-aula_-_2.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara-aula_-_3.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara-aula_-_3.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara-aula_-_4.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara-aula_-_4.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara-aula_-_5.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara-aula_-_5.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara-aula_-_6.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara-aula_-_6.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_1.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_1.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_2.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_2.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_3.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_3.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_4.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_4.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_5.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_5.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_6.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_6.jpeg)
-
-[![](/assets/i-torneo-ajedrez-femenino/thumbs/i-toreno-ajedrez-femenino-guadalajara_-_7.jpeg)](/assets/i-torneo-ajedrez-femenino/original/i-toreno-ajedrez-femenino-guadalajara_-_7.jpeg)
-
--->

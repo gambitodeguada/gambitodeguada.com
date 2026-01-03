@@ -22,7 +22,7 @@
 </style>
 
 <div class="image-gallery">
-    {% assign images = site.static_files | where: "gallery", true | sort: "basename" %}
+    {% assign images = site.static_files | where: "gallery", true | where_exp: "item", "item.path contains page.gallery_path" | sort: "basename" %}
     {% for img in images %}
     {% assign original_path = img.path | replace: '/thumbs/', '/originals/' %}
     <a href="{{ original_path }}">

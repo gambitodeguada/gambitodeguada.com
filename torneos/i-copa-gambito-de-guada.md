@@ -31,6 +31,14 @@ title: I Copa Ajedrez Rápido Gambito de Guada
 - `R. 1.0 / 1.0 B. 0.0 / 2.0` Garcia Pardo, Efren vs Díaz Martín, Javier
 - `R. 0.0 / 2.0` Pérez Lorenzo, Manuel Jesús vs Carballido Mateo, Ignacio
 
+**Leyenda**
+
+`R` Partidas Rápidas
+`B` Partidas Blitz
+`A` Armagedón. 
+`1.0` Un punto. Una victoria
+
+
 ## Formato de la Competición
 
 ### Formato general

@@ -15,3 +15,7 @@ defaults:
       path: "assets/i-torneo-ajedrez-femenino/thumbs"
     values:
       gallery: true
+  - scope:
+      path: "assets/i-copa-gambito-de-guada/thumbs"
+    values:
+      gallery: true

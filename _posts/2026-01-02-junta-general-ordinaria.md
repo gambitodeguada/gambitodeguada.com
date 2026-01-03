@@ -1,5 +1,5 @@
 ---
-title: 10 de enero de 2026 Convocatoria Junta General Ordinaria
+title: 10 de Enero de 2026 Convocatoria Junta General Ordinaria
 layout: post
 ---
 
