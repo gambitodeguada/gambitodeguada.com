@@ -1,10 +1,14 @@
 .site-footer,
 .site-header {
-  background-color: #7F1A5A;  
+  background-color: #7F1A5A;
+}
+.site-nav {
+  float: none !important;
+  text-align: center;
 }
 @media screen and (max-width: 600px) {
 .site-nav {
-  background-color: #7F1A5A;  
+  background-color: #7F1A5A;
 }
 }
 .site-title {
