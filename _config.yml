@@ -19,3 +19,7 @@ defaults:
       path: "assets/i-copa-gambito-de-guada/thumbs"
     values:
       gallery: true
+  - scope:
+      path: "assets/2026-01-junta-gambito-de-guada/thumbs"
+    values:
+      gallery: true
