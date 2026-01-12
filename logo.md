@@ -3,7 +3,7 @@ layout: page
 title: Logo
 ---
 
-# Logos con Fondo transpartent
+## Logos con fondo transparente
 
 - [SVG Blanco](/assets/logo/club-ajedrez-gambito-de-guada.svg)
 - [PNG Blanco](/assets/logo/club-ajedrez-gambito-de-guada-white.svg)
