@@ -7,13 +7,13 @@ title: Grupo B - III Liga Gambito de Guada
 
 | # | **Jugador**                   | **Partidas** | **Puntuación** | **Media** |
 |---|-------------------------------|--------------|----------------|-----------|
-| 1 | Del Amo Caballero, Sergio     | 0            | 0              | +0.0      |
-| 2 | Esteban López, Vicente        | 0            | 0              | +0.0      |
-| 3 | Pérez Lorenzo, Manuel Jesús   | 1            | 0              | -0.5      |
+| 1 | García Manzanares, Mariano    | 1            | 1              | +0.5      |
+| 2 | Del Amo Caballero, Sergio     | 0            | 0              | +0.0      |
+| 3 | Esteban López, Vicente        | 0            | 0              | +0.0      |
 | 4 | Aragonés Congostrina, Juan C. | 0            | 0              | +0.0      |
-| 5 | García Manzanares, Mariano    | 1            | 1              | +0.5      |
-| 6 | Magan Gonzalez, Alberto       | 0            | 0              | +0.0      |
-| 7 | Urosa Lozano, Javier       | 0            | 0              | +0.0      |
+| 5 | Magan Gonzalez, Alberto       | 0            | 0              | +0.0      |
+| 6 | Urosa Lozano, Javier          | 0            | 0              | +0.0      |
+| 7 | Pérez Lorenzo, Manuel Jesús   | 1            | 0              | -0.5      |
 
 ## Emparejamientos por Ronda
 
