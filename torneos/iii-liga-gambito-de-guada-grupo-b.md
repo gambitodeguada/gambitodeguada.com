@@ -9,9 +9,9 @@ title: Grupo B - III Liga Gambito de Guada
 |---|-------------------------------|--------------|----------------|-----------|
 | 1 | Del Amo Caballero, Sergio     | 0            | 0              | +0.0      |
 | 2 | Esteban López, Vicente        | 0            | 0              | +0.0      |
-| 3 | Pérez Lorenzo, Manuel Jesús   | 0            | 0              | +0.0      |
+| 3 | Pérez Lorenzo, Manuel Jesús   | 1            | 0              | -0.5      |
 | 4 | Aragonés Congostrina, Juan C. | 0            | 0              | +0.0      |
-| 5 | García Manzanares, Mariano    | 0            | 0              | +0.0      |
+| 5 | García Manzanares, Mariano    | 1            | 1              | +0.5      |
 | 6 | Magan Gonzalez, Alberto       | 0            | 0              | +0.0      |
 | 7 | Urosa Lozano, Javier       | 0            | 0              | +0.0      |
 
@@ -22,7 +22,7 @@ title: Grupo B - III Liga Gambito de Guada
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Esteban López, Vicente | ... | Urosa Lozano, Javier |
-| 2 | Pérez Lorenzo, Manuel Jesús | ... | García Manzanares, Mariano |
+| 2 | Pérez Lorenzo, Manuel Jesús | 0 - 1 | García Manzanares, Mariano |
 | 3 | Del Amo Caballero, Sergio | ... | Aragonés Congostrina, Juan C. |
 
 **Descansa**: Magan Gonzalez, Alberto
