@@ -21,7 +21,7 @@ title: Grupo A - III Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Gómez Vázquez, Javier | ... | Gómez Resco, Javier |
+| 1 | Gómez Vázquez, Javier | 1/2 - 1/2 | Gómez Resco, Javier |
 | 2 | Carballido Mateo, Ignacio | 0 - 1 | Corral Ruano, Roberto |
 | 3 | García Martín, Juan Manuel | 1/2 - 1/2 | Alonso Palazón, Jesús |
 
