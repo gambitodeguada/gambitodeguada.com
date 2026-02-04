@@ -12,8 +12,8 @@ title: Grupo A - III Liga Gambito de Guada
 | 3 | Díaz Martín, Javier | 1            | 1              | +0.5      |
 | 4 | Corral Ruano, Roberto | 3            | 1              | -0.5      |
 | 5 | Carballido Mateo, Ignacio | 3            | 1              | -0.5      |
-| 6 | Gómez Vázquez, Javier | 0            | 0              | +0.0      |
-| 7 | Gómez Resco, Javier | 1            | 0              | -0.5      |
+| 6 | Gómez Vázquez, Javier | 1            | 0.5            | +0.0      |
+| 7 | Gómez Resco, Javier | 1            | 0.5            | +0.0      |
 
 ## Emparejamientos por Ronda
 
