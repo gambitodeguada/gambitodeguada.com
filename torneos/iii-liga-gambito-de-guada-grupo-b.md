@@ -7,8 +7,8 @@ title: Grupo B - III Liga Gambito de Guada
 
 | # | **Jugador**                   | **Partidas** | **Puntuación** | **Media** |
 |---|-------------------------------|--------------|----------------|-----------|
-| 1 | Urosa Lozano, Javier          | 2            | 1.5            | +0.5      |
-| 2 | García Manzanares, Mariano    | 2            | 1.5            | +0.5      |
+| 1 | Urosa Lozano, Javier          | 3            | 2.5            | +1.0      |
+| 2 | García Manzanares, Mariano    | 3            | 1.5            | +0.0      |
 | 3 | Pérez Lorenzo, Manuel Jesús   | 4            | 1.5            | -0.5      |
 | 4 | Del Amo Caballero, Sergio     | 2            | 1              | +0.0      |
 | 5 | Magan Gonzalez, Alberto       | 1            | 0.5            | +0.0      |
@@ -63,7 +63,7 @@ title: Grupo B - III Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Del Amo Caballero, Sergio | ... | Esteban López, Vicente |
 | 2 | Aragonés Congostrina, Juan C. | ... | Magan Gonzalez, Alberto |
-| 3 | García Manzanares, Mariano | ... | Urosa Lozano, Javier |
+| 3 | García Manzanares, Mariano | 0 - 1 | Urosa Lozano, Javier |
 
 **Descansa**: Pérez Lorenzo, Manuel Jesús
 
