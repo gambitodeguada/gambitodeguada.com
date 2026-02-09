@@ -11,7 +11,8 @@ title: Mapa del sitio
 ## Recursos
 - [Cuenta Bancaria](/cuenta-bancaria.html)
 - [Open Collective](https://opencollective.com/gambitodeguada)
-- Planilla [PDF](scoresheet.pdf)
+- Planilla [PDF](/scoresheet.pdf)
+- Etiquetas [PDF](/etiquetas.pdf)
 - [Logo](/logo)
 
 ## Club
