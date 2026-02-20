@@ -9,10 +9,10 @@ title: Grupo B - III Liga Gambito de Guada
 |---|-------------------------------|--------------|----------------|-----------|
 | 1 | Urosa Lozano, Javier          | 3            | 2.5            | +1.0      |
 | 2 | Magan Gonzalez, Alberto       | 3            | 2.5            | +1.0      |
-| 3 | García Manzanares, Mariano    | 3            | 1.5            | +0.0      |
+| 3 | García Manzanares, Mariano    | 4            | 2.5            | +0.5      |
 | 4 | Pérez Lorenzo, Manuel Jesús   | 4            | 1.5            | -0.5      |
 | 5 | Del Amo Caballero, Sergio     | 3            | 1              | -0.5      |
-| 6 | Aragonés Congostrina, Juan C. | 2            | 0              | -1.0      |
+| 6 | Aragonés Congostrina, Juan C. | 3            | 0              | -1.5      |
 
 ## Emparejamientos por Ronda
 
@@ -40,7 +40,7 @@ title: Grupo B - III Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Pérez Lorenzo, Manuel Jesús | 0.5 - 0.5     | Magan Gonzalez, Alberto |
 | 2 | Del Amo Caballero, Sergio | ½-½           | Urosa Lozano, Javier |
-| 3 | Aragonés Congostrina, Juan C. | ...           | García Manzanares, Mariano |
+| 3 | Aragonés Congostrina, Juan C. | 0 - 1         | García Manzanares, Mariano |
 
 
 ### Ronda 4
