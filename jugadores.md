@@ -21,7 +21,7 @@ title: Jugadores
 |Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)||1582|1829|
 |Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
 |Gomez Resco, Javier|[535085614](https://ratings.fide.com/profile/535085614)||1429||
+|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
+|Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)||||
 |Garcia Manzanares, Mariano|[553006135](https://ratings.fide.com/profile/553006135)||||
 |Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
-|Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)||||
-|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
