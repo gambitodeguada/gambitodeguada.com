@@ -7,10 +7,10 @@ title: Grupo A - III Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Alonso Palazón, Jesús | 3            | 2.5            | +1.0      |
-| 2 | García Martín, Juan Manuel | 4            | 2.5            | +0.5      |
+| 1 | García Martín, Juan Manuel | 5            | 3.5            | +1.0      |
+| 2 | Alonso Palazón, Jesús | 3            | 2.5            | +1.0      |
 | 3 | Díaz Martín, Javier | 2            | 2              | +1.0      |
-| 4 | Carballido Mateo, Ignacio | 4            | 2              | +0.0      |
+| 4 | Carballido Mateo, Ignacio | 5            | 2              | -0.5      |
 | 5 | Corral Ruano, Roberto | 3            | 1              | -0.5      |
 | 6 | Gómez Vázquez, Javier | 2            | 0.5            | -0.5      |
 | 7 | Gómez Resco, Javier | 3            | 0.5            | -1.0      |
@@ -73,7 +73,7 @@ title: Grupo A - III Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Díaz Martín, Javier | ... | Corral Ruano, Roberto |
 | 2 | Gómez Vázquez, Javier | ... | Alonso Palazón, Jesús |
-| 3 | Carballido Mateo, Ignacio | ... | García Martín, Juan Manuel |
+| 3 | Carballido Mateo, Ignacio | 0 - 1 | García Martín, Juan Manuel |
 
 **Descansa**: Gómez Resco, Javier
 
