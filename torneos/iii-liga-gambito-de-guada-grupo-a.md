@@ -10,8 +10,8 @@ title: Grupo A - III Liga Gambito de Guada
 | 1 | Díaz Martín, Javier | 6            | 5.5            | +2.5      |
 | 2 | García Martín, Juan Manuel | 6            | 4.5            | +1.5      |
 | 3 | Alonso Palazón, Jesús | 6            | 4              | +1.0      |
-| 4 | Carballido Mateo, Ignacio | 6            | 3              | 0.0       |
-| 5 | Corral Ruano, Roberto | 6            | 3              | 0.0       |
+| 4 | Corral Ruano, Roberto | 6            | 3              | 0.0       |
+| 5 | Carballido Mateo, Ignacio | 6            | 3              | 0.0       |
 | 6 | Gómez Vázquez, Javier | 6            | 0.5            | -2.5      |
 | 7 | Gómez Resco, Javier | 6            | 0.5            | -2.5      |
 
