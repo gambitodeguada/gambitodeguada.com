@@ -39,7 +39,11 @@ Recorre **todos** los emparejamientos del fichero para calcular para cada jugado
 
 Actualiza la tabla con los valores recalculados. Ordena las filas por:
 1. **Puntuación** descendente
-2. En caso de empate, **Media** descendente
+2. En caso de empate, usa los siguientes criterios de desempate: 
+- 1. **Media** descendente
+- 2. Encuentro directo
+- 3. KS, Koya system, se suman los puntos que haces contra los jugadores que han hecho el 50% de los puntos o más.
+  
 
 Reasigna los números de posición (#) según el nuevo orden.
 
