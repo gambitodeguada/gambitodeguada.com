@@ -11,8 +11,8 @@ title: Grupo A - III Liga Gambito de Guada
 | 2 | García Martín, Juan Manuel | 6            | 4.5            | +1.5      |
 | 3 | Alonso Palazón, Jesús | 6            | 4              | +1.0      |
 | 4 | Carballido Mateo, Ignacio | 6            | 3              | 0.0       |
-| 5 | Corral Ruano, Roberto | 5            | 2              | -0.5      |
-| 6 | Gómez Vázquez, Javier | 5            | 0.5            | -2.0      |
+| 5 | Corral Ruano, Roberto | 6            | 3              | 0.0       |
+| 6 | Gómez Vázquez, Javier | 6            | 0.5            | -2.5      |
 | 7 | Gómez Resco, Javier | 6            | 0.5            | -2.5      |
 
 ## Emparejamientos por Ronda
@@ -82,7 +82,7 @@ title: Grupo A - III Liga Gambito de Guada
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Alonso Palazón, Jesús | 0 - 1 | Carballido Mateo, Ignacio |
-| 2 | Corral Ruano, Roberto | ... | Gómez Vázquez, Javier |
+| 2 | Corral Ruano, Roberto | 1 - 0 | Gómez Vázquez, Javier |
 | 3 | Gómez Resco, Javier | 0 - 1 | Díaz Martín, Javier |
 
 **Descansa**: García Martín, Juan Manuel
