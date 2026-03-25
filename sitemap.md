@@ -43,3 +43,5 @@ title: Mapa del sitio
 - [I Copa Ajedrez Rápido](/torneos/i-copa-gambito-de-guada)
 - [Grupo A - III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-a)
 - [Grupo B - III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-b)
+- [Grupo A - IV Liga Gambito de Guada](/torneos/iv-liga-gambito-de-guada-grupo-a)
+- [Grupo B - IV Liga Gambito de Guada](/torneos/iv-liga-gambito-de-guada-grupo-b)
