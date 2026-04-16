@@ -37,10 +37,16 @@ title: Mapa del sitio
 ## Torneos Club
 
 - [Campeones](/campeones)
+
+### Copas
+- [I Copa Ajedrez Rápido](/torneos/i-copa-gambito-de-guada)
+
+### Suizo
+
+### Ligas
 - [I Liga Round robin Club Gambito de Guada 2024-2025](i-liga-gambito-de-guada.html)
 - [Grupo A - II Liga Gambito de Guada](/torneos/ii-liga-gambito-de-guada-grupo-a)
 - [Grupo B - II Liga Gambito de Guada](/torneos/ii-liga-gambito-de-guada-grupo-b)
-- [I Copa Ajedrez Rápido](/torneos/i-copa-gambito-de-guada)
 - [Grupo A - III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-a)
 - [Grupo B - III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-b)
 - [Grupo A - IV Liga Gambito de Guada](/torneos/iv-liga-gambito-de-guada-grupo-a)
