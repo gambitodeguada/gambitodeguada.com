@@ -13,7 +13,7 @@ Varios miembros del club participaron en el torneo provincial de ajedrez rápido
 
 ![Torneo Provincial Ajedrez Rápido 2026 - 70](/assets/2026-torneo-provincial-ajedrez-rapido/2026-03-01-torneo-provincial-ajedrez-rapido+-+70.jpeg)
 
-En la categoría veteranos el club hizo pleno con [Manuel Jesús Pérez Lorenzo](https://info64.org/cto-provincial-ajedrez-rapido-absoluto-femenino-y-veteranos-2026/perez-lorenzo-manuel-jesus), [Mariano García Manzanares](https://info64.org/cto-provincial-ajedrez-rapido-absoluto-femenino-y-veteranos-2026/garcia-manzanares-mariano)
+En la categoría de veteranos, el club hizo pleno con [Manuel Jesús Pérez Lorenzo](https://info64.org/cto-provincial-ajedrez-rapido-absoluto-femenino-y-veteranos-2026/perez-lorenzo-manuel-jesus), [Mariano García Manzanares](https://info64.org/cto-provincial-ajedrez-rapido-absoluto-femenino-y-veteranos-2026/garcia-manzanares-mariano)
 y [Alberto Magán González](https://info64.org/cto-provincial-ajedrez-rapido-absoluto-femenino-y-veteranos-2026/magan-gonzalez-alberto) obteniendo los tres primeros puestos. 
 
 ![Torneo Provincial Ajedrez Rápido 2026 - 39](/assets/2026-torneo-provincial-ajedrez-rapido/2026-03-01-torneo-provincial-ajedrez-rapido+-+39.jpeg)
