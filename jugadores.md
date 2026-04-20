@@ -25,3 +25,4 @@ title: Jugadores
 |Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)|||1481|
 |Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
 |Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
+|Del Amo Galve, Leo|[535004304](https://ratings.fide.com/profile/535004304)||||
