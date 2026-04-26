@@ -1,10 +1,15 @@
 ---
 title: Alberto Magan campeón del campeonato provincial de ajedrez clásico Guadalajara 2026 en la categoría veteranos
 layout: post
+gallery_path: assets/2026-torneo-provincial-ajedrez-clasico
 ---
 
 El 18 y 19 de abril de 2026 se celebró en el Centro San José (Guadalajara) el torneo Campeonato Provincial 
 de Ajedrez Estándar Absoluto, femenino y veteranos Guadalajara 2026, con la participación de 37 jugadores y con 10 jugadores de Gambito de Guada.
+
+[Alberto Magan Gonzalez](https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026/magan-gonzalez-alberto), [Javier Diaz Martin](https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026/diaz-martin-javier) y [Juan Carlos Aragones Congostrina](https://info64.org/cto-prov-estandar-absoluto-femenino-y-veteranos-guadalajara-2026/aragones-congostrina-juan-carlo) hicieron pleno para el club en la categoría Veteranos.
+
+{% include gallery.html %}
 
 ## Rendimiento de los jugadores del Gambito de Guada
 

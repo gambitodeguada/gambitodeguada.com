@@ -12,6 +12,10 @@ plugins:
   - jekyll-feed
 defaults:
   - scope:
+      path: "assets/2026-torneo-provincial-ajedrez-clasico"
+    values:
+      gallery: true
+  - scope:
       path: "assets/i-torneo-ajedrez-femenino/thumbs"
     values:
       gallery: true
