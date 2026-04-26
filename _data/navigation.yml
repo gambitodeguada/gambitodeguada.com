@@ -1,5 +1,7 @@
 - name: Noticias
   link: /
+- name: Liga
+  link: /torneos/iv-liga-gambito-de-guada
 - name: Índice
   link: /sitemap.html
   

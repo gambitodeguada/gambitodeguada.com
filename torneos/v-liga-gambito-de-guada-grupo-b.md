@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grupo B - IV Liga Gambito de Guada
+published: false
 ---
 
 ### Tabla de Posiciones
