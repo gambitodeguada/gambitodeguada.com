@@ -20,8 +20,8 @@ title: Jugadores
 |Garcia Manzanares, Mariano|[553006135](https://ratings.fide.com/profile/553006135)||1855||
 |Alonso Palazon, Jesus|[535072300](https://ratings.fide.com/profile/535072300)||1718|1655|
 |Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)||1623|1802|
-|Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484|1665|
+|Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
 |Gomez Resco, Javier|[535085614](https://ratings.fide.com/profile/535085614)||1405||
 |Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)|||1481|
 |Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
-|Del Amo Galve, Leo|[535004304](https://ratings.fide.com/profile/535004304)||||
+|Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
