@@ -27,3 +27,7 @@ defaults:
       path: "assets/2026-01-junta-gambito-de-guada/thumbs"
     values:
       gallery: true
+  - scope:
+      path: "assets/2026-04-colegio-cardenal-cisneros/thumbs"
+    values:
+      gallery: true
