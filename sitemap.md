@@ -40,6 +40,7 @@ title: Mapa del sitio
 
 ### Copas
 - [I Copa Ajedrez Rápido](/torneos/i-copa-gambito-de-guada)
+- [II Copa Ajedrez Rápido](/torneos/ii-copa-gambito-de-guada)
 
 ### Suizo
 
