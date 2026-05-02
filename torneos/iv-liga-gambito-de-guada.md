@@ -7,13 +7,13 @@ title: IV Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Díaz Martín, Javier | 0            | 0              | 0         |
-| 2 | Gomez Vazquez, Javier | 0            | 0              | 0         |
-| 3 | Esteban Lopez, Vicente | 0            | 0              | 0         |
-| 4 | Del Amo Caballero, Sergio | 0            | 0              | 0         |
-| 5 | Garcia Manzanares, Mariano | 0            | 0              | 0         |
-| 6 | Garcia Pardo, Efren | 0            | 0              | 0         |
-| 7 | Carballido Mateo, Ignacio | 0            | 0              | 0         |
+| 1 | Esteban Lopez, Vicente | 1            | 1              | +0.5      |
+| 2 | Garcia Pardo, Efren | 1            | 1              | +0.5      |
+| 3 | Carballido Mateo, Ignacio | 1            | 1              | +0.5      |
+| 4 | Díaz Martín, Javier | 0            | 0              | 0         |
+| 5 | Gomez Vazquez, Javier | 1            | 0              | -0.5      |
+| 6 | Del Amo Caballero, Sergio | 1            | 0              | -0.5      |
+| 7 | Garcia Manzanares, Mariano | 1            | 0              | -0.5      |
 
 ## Emparejamientos por Ronda
 
@@ -21,9 +21,9 @@ title: IV Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Esteban Lopez, Vicente | ... | Garcia Manzanares, Mariano |
-| 2 | Gomez Vazquez, Javier | ... | Garcia Pardo, Efren |
-| 3 | Carballido Mateo, Ignacio | ... | Del Amo Caballero, Sergio |
+| 1 | Esteban Lopez, Vicente | 1 - 0 | Garcia Manzanares, Mariano |
+| 2 | Gomez Vazquez, Javier | 0 - 1 | Garcia Pardo, Efren |
+| 3 | Carballido Mateo, Ignacio | 1 - 0 | Del Amo Caballero, Sergio |
 
 **Descansa**: Díaz Martín, Javier
 
