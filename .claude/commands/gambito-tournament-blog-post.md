@@ -130,7 +130,24 @@ _posts/{YYYY-MM-DD}-gambito-{torneo-slug}.md
 
 Donde `{YYYY-MM-DD}` es la fecha de hoy.
 
-## 9. Mostrar el resultado
+## 9. Registrar la galería (si existe)
+
+Si el usuario adjunta una galería de fotos en `assets/{slug-galeria}/` (con subcarpetas `originals/` y `thumbs/`):
+
+1. Añade el front matter `gallery_path: assets/{slug-galeria}` al post.
+2. Inserta `{% include gallery.html %}` en el cuerpo del post donde quieras que aparezcan las fotos.
+3. **Imprescindible**: añade un nuevo `scope` en `_config.yml` para que Jekyll marque las miniaturas como galería:
+
+   ```yaml
+   - scope:
+       path: "assets/{slug-galeria}/thumbs"
+     values:
+       gallery: true
+   ```
+
+   Sin esta entrada el `{% include gallery.html %}` se queda vacío porque el include filtra por `where: "gallery", true`.
+
+## 10. Mostrar el resultado
 
 Indica al usuario la ruta del fichero creado y muestra el contenido generado.
 
