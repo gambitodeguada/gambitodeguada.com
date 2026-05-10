@@ -28,9 +28,16 @@ Usa `WebFetch` sobre la URL de standings para obtener la tabla de clasificación
 
 - `all_entries`: lista ordenada de todos los jugadores con su URL individual de info64. Cada entrada tiene la forma `[Nombre Apellidos](https://info64.org/{torneo-slug}/{jugador-slug})`. Conserva el orden de la clasificación.
 - `num_players`: total de participantes (longitud de `all_entries`).
-- Para cada jugador, su **puntuación** (columna `Pts` o `Puntos`).
+- Para cada jugador, su **puntuación total** (columna `Pts` o `Puntos`) y el **número de partidas jugadas** (columna `Partidas`, `Games`, o derivable de la suma de `+`/`=`/`-` o `W`/`D`/`L`).
 
-Si alguna celda de puntuación está vacía, registra `score = None` para ese jugador.
+Para los jugadores del Gambito (no hace falta para el resto), abre además la página individual (`WebFetch` sobre `url_info64`) y extrae:
+
+- `played_games`: rondas en las que el jugador disputó una partida real (gana, pierde, tabla con oponente).
+- `byes`: rondas marcadas como bye, descanso o sin oponente con puntuación. Para cada bye, anota el valor (típicamente `0,5`, a veces `1` o `0`).
+- `bye_score`: suma de los puntos de bye.
+- `total_rounds`: número total de rondas del torneo.
+
+Si la celda de puntuación está vacía, registra `score = None`. Si no se puede determinar el número de partidas o byes, registra `None`.
 
 ## 4. Filtrar jugadores del Gambito
 
@@ -38,20 +45,35 @@ Lee `jugadores.md` para obtener la lista oficial de socios del club. Cruza esa l
 
 El resultado, `gambito_entries`, conserva el orden de la clasificación general.
 
-## 5. Calcular posición y puntos de cada jugador del Gambito
+## 5. Calcular posición, puntos, partidas y byes de cada jugador del Gambito
 
 Para cada entrada de `gambito_entries`:
 
 - **final_position**: índice 1-based del jugador en `all_entries`.
-- **score**: puntos extraídos en el paso 3.
+- **score**: puntos totales extraídos en el paso 3 (incluyen los byes si los hay).
+- **games**: número de partidas jugadas (sin contar byes).
+- **bye_score**: suma de puntos de bye (`0` si no tuvo byes).
+- **total_rounds**: rondas del torneo (`games` + número de byes).
 
 ## 6. Construir la lista de rendimiento
 
-Genera una viñeta por jugador, en orden de clasificación, con ordinales en español:
+Genera una viñeta por jugador, en orden de clasificación, con ordinales en español.
+
+**Sin byes** (`bye_score == 0`):
 
 ```
-- [Nombre Apellidos](url_info64) — Xº con Y pts
+- [Nombre Apellidos](url_info64) — Xº con Y/N pts
 ```
+
+Donde `Y` son los puntos y `N` el número de partidas jugadas. Punto como separador decimal (ej. `3.5/6 pts`).
+
+**Con byes** (`bye_score > 0`):
+
+```
+- [Nombre Apellidos](url_info64) — Xº con Y,Y/T con B,B Bye
+```
+
+Donde `Y,Y` es la puntuación total **con coma decimal**, `T` es `total_rounds`, y `B,B` es el `bye_score` con coma decimal. Ejemplo: `2,5/7 con 0,5 Bye` significa 2,5 puntos en 7 rondas, con 0,5 procedente de un bye.
 
 Reglas de formato:
 
@@ -62,8 +84,9 @@ Reglas de formato:
 | 3 | `3º` |
 | n | `nº` |
 
-- Si `score` termina en `.5`, escríbelo como `5.5 pts` (punto como separador decimal).
-- Si `score = None`, omite el sufijo `con Y pts` para esa línea.
+- Si `games = None` y `score` está disponible, escribe solo `Y pts` sin denominador.
+- Si `score = None`, omite el sufijo `con Y/N pts` para esa línea.
+- Si hay varios byes, suma sus puntos en `bye_score` y muéstralo como un único número (ej. `1,0 Bye` para dos byes de 0,5).
 - Si no hay ningún jugador del Gambito en el torneo, en lugar de la lista escribe la frase: *Ningún jugador del club participó en este torneo.*
 
 ## 7. Componer el post (en español)
@@ -90,7 +113,7 @@ categories: torneos
 Sustituciones:
 
 - `{Título del post}`: usa el nombre del torneo.
-- `{YYYY-MM-DD HH:MM:SS +0200}`: usa la fecha de hoy a una hora razonable (ej. `09:00:00 +0200`).
+- `{YYYY-MM-DD HH:MM:SS +0200}`: usa la fecha de hoy al inicio del día: `00:00:00 +0200`. Jekyll oculta los posts cuya fecha es futura respecto al momento del build, así que poner la hora a 00:00 evita que el post no aparezca el mismo día.
 - `{Fechas}`, `{Lugar}`, `{Nombre del torneo}`: lo recogido en el paso 2, **sin reformatear las fechas**.
 - `{num_players}`: del paso 3.
 - `{URL info64}`: la URL original del paso 1.
