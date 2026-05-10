@@ -25,6 +25,13 @@ El equipo Gambito A finalizó en **cuarta posición** con 9 puntos, empatado a p
 - [Sergio del Amo Caballero](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-b/del-amo-caballero-sergio) — 2,5/7 con 0,5 Bye
 - [Efrén García Pardo](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-b/garcia-pardo-efren) — 3,5/7 con 0,5 Bye
 - [Noa del Amo Galve](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-b/del-amo-galve-noa) — 2/7 con 0,5 Bye
-- [Leo del Amo Galve](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-b/del-amo-galve-leo) — 4,5/7 con 0,5 Bye
+- [Leo del Amo Galve](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-b/del-amo-galve-leo) — 4,5/7 con 1 Bye
+
+## Premios individuales por tablero
+
+Dos jugadores del club consiguieron premio individual por tablero:
+
+- Tercer tablero: [Ignacio Carballido Mateo](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-a/carballido-mateo-ignacio) — **2º clasificado**
+- Cuarto tablero: [Leo del Amo Galve](https://info64.org/team/cto-provincial-de-ajedrez-blitz-guadalajara-2026/gambito-de-guada-b/del-amo-galve-leo) — **3º clasificado**
 
 {% include gallery.html %}
