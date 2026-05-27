@@ -7,12 +7,12 @@ title: IV Liga Gambito de Guada
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Carballido Mateo, Ignacio | 2            | 2              | +1        |
+| 1 | Carballido Mateo, Ignacio | 3            | 3              | +1.5      |
 | 2 | Esteban Lopez, Vicente | 2            | 1.5            | +0.5      |
-| 3 | Díaz Martín, Javier | 3            | 1.5            | 0         |
-| 4 | Garcia Pardo, Efren | 1            | 1              | +0.5      |
-| 5 | Del Amo Caballero, Sergio | 1            | 0              | -0.5      |
-| 6 | Garcia Manzanares, Mariano | 1            | 0              | -0.5      |
+| 3 | Díaz Martín, Javier | 4            | 1.5            | -0.5      |
+| 4 | Del Amo Caballero, Sergio | 2            | 1              | 0         |
+| 5 | Garcia Manzanares, Mariano | 2            | 1              | 0         |
+| 6 | Garcia Pardo, Efren | 3            | 1              | -0.5      |
 | 7 | Gomez Vazquez, Javier | 2            | 0              | -1        |
 
 ## Emparejamientos por Ronda
@@ -31,7 +31,7 @@ title: IV Liga Gambito de Guada
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Garcia Pardo, Efren | ... | Carballido Mateo, Ignacio |
+| 1 | Garcia Pardo, Efren | 0 - 1 | Carballido Mateo, Ignacio |
 | 2 | Garcia Manzanares, Mariano | ... | Gomez Vazquez, Javier |
 | 3 | Díaz Martín, Javier | ½-½ | Esteban Lopez, Vicente |
 
@@ -43,7 +43,7 @@ title: IV Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Gomez Vazquez, Javier | 0 - 1 | Díaz Martín, Javier |
 | 2 | Carballido Mateo, Ignacio | ... | Garcia Manzanares, Mariano |
-| 3 | Del Amo Caballero, Sergio | ... | Garcia Pardo, Efren |
+| 3 | Del Amo Caballero, Sergio | 1 - 0 | Garcia Pardo, Efren |
 
 **Descansa**: Esteban Lopez, Vicente
 
@@ -83,7 +83,7 @@ title: IV Liga Gambito de Guada
 |----------|-------------|---------------|------------|
 | 1 | Del Amo Caballero, Sergio | ... | Gomez Vazquez, Javier |
 | 2 | Garcia Pardo, Efren | ... | Esteban Lopez, Vicente |
-| 3 | Garcia Manzanares, Mariano | ... | Díaz Martín, Javier |
+| 3 | Garcia Manzanares, Mariano | 1 - 0 | Díaz Martín, Javier |
 
 **Descansa**: Carballido Mateo, Ignacio
 
