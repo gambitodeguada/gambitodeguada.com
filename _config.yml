@@ -39,3 +39,7 @@ defaults:
       path: "assets/2026-05-10-torneo-provincial-por-equipos-ajedrez-blitz/thumbs"
     values:
       gallery: true
+  - scope:
+      path: "assets/2026-05-torneo-regional-ajedrez-rapido-por-equipos/thumbs"
+    values:
+      gallery: true
