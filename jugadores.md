@@ -23,5 +23,5 @@ title: Jugadores
 |Garcia Manzanares, Mariano|[553006135](https://ratings.fide.com/profile/553006135)||1801||
 |Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
 |Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)|||1472|
-|Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
 |Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
+|Caballero Justo, Mario|[535072318](https://ratings.fide.com/profile/535072318)||||
