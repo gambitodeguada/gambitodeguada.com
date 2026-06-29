@@ -87,15 +87,18 @@ public class RatingsCommand implements Runnable {
 
     private String markdownTable(List<FidePlayer> players) {
         StringBuilder sb = new StringBuilder();
-        sb.append("| Name | FIDE ID | Standard Rating | Rapid Rating | Blitz Rating |\n");
-        sb.append("|:----:|:--------:|:----------------:|:-------------:|:-------------:|\n");
+        sb.append("| # | Name | FIDE ID | Standard Rating | Rapid Rating | Blitz Rating |\n");
+        sb.append("|:----:|:----:|:--------:|:----------------:|:-------------:|:-------------:|\n");
+        int count = 1;
         for (FidePlayer player : players) {
             sb.append("|")
+                    .append(count)
                     .append(player.name()).append("|")
                     .append(fideIdLink(player)).append("|")
                     .append(player.rating() != null ? player.rating() : "").append("|")
                     .append(player.rapidRating() != null ? player.rapidRating() : "").append("|")
                     .append(player.blitzRating() != null ? player.blitzRating() : "").append("|\n");
+            count++;
         }
         return sb.toString();
     }
