@@ -1,6 +1,7 @@
 package com.gambitodeguada.chessratingscli;
 
 import io.micronaut.configuration.picocli.PicocliRunner;
+import io.micronaut.core.util.StringUtils;
 import io.micronaut.http.client.BlockingHttpClient;
 import io.micronaut.http.client.HttpClient;
 import jakarta.inject.Inject;
@@ -67,8 +68,11 @@ public class RatingsCommand implements Runnable {
         try (HttpClient httpClient = HttpClient.create(new URL(HTTPS_RATINGS_FIDE_COM))) {
             BlockingHttpClient blockingHttpClient = httpClient.toBlocking();
             List<FidePlayer> ratedPlayers = new ArrayList<>();
-            for (ClubPlayer player : players) {
+            for (ClubPlayer player : players.stream().filter(p -> StringUtils.isNotEmpty(p.getFideid())).toList()) {
                 ratedPlayers.add(fetchPlayer(blockingHttpClient, player.getFideid()));
+            }
+            for (ClubPlayer player : players.stream().filter(p -> StringUtils.isEmpty(p.getFideid())).toList()) {
+                ratedPlayers.add(new FidePlayer(player.getFullname(), null, null, null, null));
             }
             return ratedPlayers;
         } catch (MalformedURLException e) {
@@ -85,15 +89,23 @@ public class RatingsCommand implements Runnable {
         StringBuilder sb = new StringBuilder();
         sb.append("| Name | FIDE ID | Standard Rating | Rapid Rating | Blitz Rating |\n");
         sb.append("|:----:|:--------:|:----------------:|:-------------:|:-------------:|\n");
-
         for (FidePlayer player : players) {
             sb.append("|")
                     .append(player.name()).append("|")
-                    .append("[").append(player.fideid()).append("](https://ratings.fide.com/profile/").append(player.fideid()).append(")").append("|")
+                    .append(fideIdLink(player)).append("|")
                     .append(player.rating() != null ? player.rating() : "").append("|")
                     .append(player.rapidRating() != null ? player.rapidRating() : "").append("|")
                     .append(player.blitzRating() != null ? player.blitzRating() : "").append("|\n");
         }
+        return sb.toString();
+    }
+
+    private String fideIdLink(FidePlayer player) {
+        if (StringUtils.isEmpty(player.fideid())) {
+            return "";
+        }
+        StringBuilder sb = new StringBuilder();
+        sb.append("[").append(player.fideid()).append("](https://ratings.fide.com/profile/").append(player.fideid()).append(")");
         return sb.toString();
     }
 
