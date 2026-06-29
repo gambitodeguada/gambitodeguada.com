@@ -92,7 +92,7 @@ public class RatingsCommand implements Runnable {
         int count = 1;
         for (FidePlayer player : players) {
             sb.append("|")
-                    .append(count)
+                    .append(count).append("|")
                     .append(player.name()).append("|")
                     .append(fideIdLink(player)).append("|")
                     .append(player.rating() != null ? player.rating() : "").append("|")
