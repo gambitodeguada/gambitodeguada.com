@@ -29,7 +29,7 @@ El torneo no es evaluable para ELO FIDE.
 
 ### Organización
 
-Este campeonato está organizado por el [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/), en colaboración con el ayuntamiento de Canredondo y la asocación la Cutlural Platera.
+Este campeonato está organizado por el [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/), en colaboración con el ayuntamiento de Canredondo y la asocación _La Cultural Platera_.
 
 ### Lugar de Juego
 
