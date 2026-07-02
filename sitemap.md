@@ -33,6 +33,7 @@ title: Mapa del sitio
 ## Torneos Abiertos
 - [I Open Gambito de Guada](https://gambitodeguada.com/torneos/i-open-gambito-de-guada)
 - [I Torneo Ajedrez en Femenino](/torneos/i-torneo-ajedrez-en-femenino)
+- [I Torneo Ajedrez Rápido Canredondo](/torneos/i-torneo-ajedrez-rapido-canredondo)
 
 ## Torneos Club
 
