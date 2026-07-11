@@ -20,6 +20,17 @@ Torneo suizo de 6 rondas a 10' + 3" de incremento por jugada, a celebrar la mañ
 - 10:30 Inicio del torneo (1ª Ronda)
 - 14:00 Fin del torneo
 
+### Lugar de Juego
+
+[Centro Social "El Olivo", Canredondo](https://maps.app.goo.gl/MdGg5GQdMCswPxWR7), Guadalajara.
+
+### Inscripciones
+
+**Plazas limitadas a 30 participantes por orden de inscripción**.
+
+La inscripción es gratuita. Para inscribirse rellenar el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSeGsKknFH6n3uozIxaiM1k9hii3UW25psEe-Uy_VnCWWTPnwQ/viewform?usp=header).
+
+
 ### Rondas 
 
 El sistema de juego será Suizo Holandés a 6 rondas. 
@@ -33,14 +44,6 @@ El torneo no es evaluable para ELO FIDE.
 ### Organización
 
 Este campeonato está organizado por el [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/), en colaboración con el ayuntamiento de Canredondo y la asocación _La Cultural Platera_.
-
-### Lugar de Juego
-
-El Olivo, Canredondo.
-
-### Inscripciones
-
-La inscripción es gratuita. Para inscribirse rellenar el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSeGsKknFH6n3uozIxaiM1k9hii3UW25psEe-Uy_VnCWWTPnwQ/viewform?usp=header).
 
 ### Premios
 
