@@ -1,6 +1,7 @@
 ---
 title: Noa y Leo del Amo, campeones sub 12 y sub 8 del Torneo Escolar de Cogolludo
 layout: post
+description: "Noa y Leo del Amo se proclaman campeones sub 12 y sub 8 del Torneo Escolar de Cogolludo 2026."
 ---
 
 [Noa del Amo Galve](https://info64.org/cto-provincial-guadalajara-de-ajedrez-escolar-2026-cogolludo/del-amo-galve-leo)

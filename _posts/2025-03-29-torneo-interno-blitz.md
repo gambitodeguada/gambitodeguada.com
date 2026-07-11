@@ -3,6 +3,7 @@ layout: post
 title:  Torneo interno de Blitz
 date:   2025-03-29 09:58:51 +0200
 categories: torneos
+description: "Clasificación del torneo interno de Blitz de Gambito de Guada del 29 de marzo, ganado por Javier Díaz Martín."
 ---
 
 El sábado 29 de marzo, a las 10:00 realizamos un torneo interno de Blitz (5' + 2") en Guadalajara.

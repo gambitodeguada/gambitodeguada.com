@@ -2,6 +2,7 @@
 layout: page
 title: Grupo A - V Liga Gambito de Guada
 published: false
+description: "Clasificación y emparejamientos del Grupo A de la V Liga Gambito de Guada, round robin a 6 rondas entre 7 jugadores."
 ---
 
 ### Clasificación

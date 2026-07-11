@@ -1,6 +1,7 @@
 ---
 title: Javier Díaz y Noa del Amo campeones del I Abierto Individual "Cabanillas 4 Torres"
 layout: post
+description: "Javier Díaz Martín y Noa del Amo se proclaman campeones sénior y femenina en el I Abierto Individual Cabanillas 4 Torres."
 ---
 
 Javier Díaz Martín se ha proclamado campeón de la categoría sénior escoltado por otros dos miembros del club, Juan Manuel García Martín y Manuel Jesús Pérez Lorenzo.

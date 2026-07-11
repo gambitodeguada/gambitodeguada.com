@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grupo A - III Liga Gambito de Guada
+description: "Clasificación, emparejamientos y resultados del Grupo A de la III Liga Gambito de Guada, round robin a 7 rondas entre 7 jugadores."
 ---
 
 ### Clasificación

@@ -1,6 +1,7 @@
 ---
 title: Finalizado Torneo Lentas Guadalajara 2024
 layout: post
+description: "Resultados del Torneo de Ajedrez de Lentas Guadalajara 2024, con los campeones de las categorías general, sub14, sub12, sub10, sub8, femenino y veteranos."
 ---
 
 Desde el Club Gambito de Guada hemos colaborado en la organización del [Torneo de ajedrez de lentas Guadalajara 2024](https://info64.org/torneo-de-ajedrez-de-lentas-guadalajara-2024/standings).

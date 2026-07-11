@@ -4,6 +4,7 @@ title: Gambito de Guada, subcampeón del Campeonato Provincial de Ajedrez Rápid
 date: 2026-05-09 19:00:00 +0200
 categories: torneos
 gallery_path: assets/2026-05-09-torneo-provincial-por-equipos-ajedrez-rapido
+description: "Gambito de Guada logra el segundo y tercer puesto en el Campeonato Provincial de Ajedrez Rápido por Equipos 2026 con sus dos equipos."
 ---
 
 El 9 de mayo de 2026 se celebró en Guadalajara el Campeonato Provincial de Ajedrez Rápido por Equipos 2026. El club participó con dos equipos y ambos subieron al podio.

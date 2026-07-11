@@ -2,6 +2,7 @@
 layout: page
 title: Grupo B - IV Liga Gambito de Guada
 published: false
+description: "Clasificación y emparejamientos del Grupo B de la IV Liga Gambito de Guada, round robin a 6 rondas entre 6 jugadores."
 ---
 
 ### Tabla de Posiciones

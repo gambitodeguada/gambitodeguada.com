@@ -1,6 +1,7 @@
 ---
 title: Noa del Amo campeona sub 16 del II Torneo de fiestas de Valdeavero
 layout: post
+description: "Noa del Amo, del club Gambito de Guada, se proclama campeona sub 16 del II Torneo de fiestas de Valdeavero."
 ---
 
 

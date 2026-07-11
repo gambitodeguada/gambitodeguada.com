@@ -1,6 +1,7 @@
 ---
 title: Convocatoria Junta General Ordinaria
 layout: post
+description: "Convocatoria de la Junta General Ordinaria de Gambito de Guada para el 4 de septiembre de 2025 en Cabanillas del Campo, con el orden del día."
 ---
 
 El 4 de Septiembre de 2025 a las 19:00 se celebrará la Junta General Ordinaria del Club en la Calle Miguel de Cervantes, 5, 19171 Cabanillas del Campo, Guadalajara ([Google Maps](https://www.google.com/maps/dir/?api=1&destination=40.6263413,-3.2366985&travelmode=driving), [Apple Maps](https://maps.apple.com/?daddr=40.6263413,-3.2366985&dirflg=d)).

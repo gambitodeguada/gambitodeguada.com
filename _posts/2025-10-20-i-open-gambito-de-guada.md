@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Juan Alberto Gomez Aguirre gana el I Open Gambito de Guada
+description: "Juan Alberto Gómez Aguirre gana el I Open Gambito de Guada con 4.5 de 5 puntos, con la clasificación general y por categorías del torneo."
 ---
 
 El día 18 y 19 de Octubre se disputó el I Open Gambito de Guada.

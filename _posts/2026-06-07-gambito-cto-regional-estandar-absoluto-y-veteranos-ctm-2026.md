@@ -3,6 +3,7 @@ layout: post
 title:  Campeonato Regional Estándar Absoluto y Veteranos Castilla-La Mancha 2026
 date:   2026-06-07 00:00:00 +0200
 categories: torneos
+description: "Resultados de los jugadores de Gambito de Guada en el Campeonato Regional Estándar Absoluto y Veteranos de Castilla-La Mancha 2026."
 ---
 
 del 4 a 7 de Junio de 2026 se celebró en Guadalajara el torneo Campeonato Regional Estándar Absoluto y Veteranos Castilla-La Mancha 2026, con la participación de 50 jugadores.

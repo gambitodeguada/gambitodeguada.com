@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I Torneo Ajedrez en Femenino
+description: "Bases del I Torneo Ajedrez en Femenino: suizo a 5 rondas, participación exclusivamente femenina, 14 de diciembre de 2025 en el Espacio Tyce de Guadalajara."
 ---
 
 Torneo de ajedrez en formato suizo de 5 rondas a 10' + 3". [Info 64](https://info64.org/i-torneo-ajedrez-femenino). 

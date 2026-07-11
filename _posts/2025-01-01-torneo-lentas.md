@@ -3,6 +3,7 @@ layout: post
 title:  1er. Torneo de Ajedrez de Lentas Guadalajara 2025
 date:   2025-02-01 09:58:51 +0200
 categories: torneos
+description: "Bases del 1er Torneo de Ajedrez de Lentas Guadalajara 2025: suizo a 6 rondas en la UNED Guadalajara, del 8 al 22 de febrero, inscripción gratuita."
 ---
 
 ## [Resultados y Clasificación](https://info64.org/torneo-de-lentas-guadalajara-febrero-2025)

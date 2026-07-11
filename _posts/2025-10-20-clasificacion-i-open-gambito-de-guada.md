@@ -3,6 +3,7 @@ layout: post
 title: Clasificación I Open Gambito de Guada
 date: 2025-10-20 09:58:51 +0200
 categories: torneos
+description: "Clasificación completa del I Open Gambito de Guada, disponible en Info64."
 ---
 
 [Torneo en Info 64](https://info64.org/i-open-gambito-de-guada)

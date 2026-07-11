@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 8M La Mujer y el Ajedrez
+description: "Evento 8M La Mujer y el Ajedrez en el Espacio Tyce de Guadalajara: exposición sobre ajedrecistas históricas y simultánea femenina el 8 de marzo."
 ---
 
 📍 Espacio Tyce Guadalajara

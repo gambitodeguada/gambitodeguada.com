@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Memoría Anual 2024 / 2025 
+description: "Memoria anual 2024/2025 de Gambito de Guada: torneos organizados, participación en competiciones, arbitraje y logros deportivos del club."
 ---
 ## Miembros del club
 

@@ -1,6 +1,7 @@
 ---
 title: Primera participación en el torneo regional por equipos de Castilla-La Mancha 2025.
 layout: post
+description: "Gambito de Guada debuta en el torneo regional por equipos de Castilla-La Mancha 2025, finalizando 9º de 11 con 10 jugadores del club."
 ---
 
 Creamos el club hace menos de un año. Por primera vez, hemos podido participar en el torneo por equipos regional de Castilla-La Mancha celebrado en Guadalajara del 3 al 6 de Julio de 2025.

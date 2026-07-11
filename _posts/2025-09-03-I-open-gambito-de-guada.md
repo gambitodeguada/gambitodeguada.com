@@ -3,6 +3,7 @@ layout: post
 title:  I Open Gambito de Guada
 date:   2025-09-03 09:58:51 +0200
 categories: torneos
+description: "El I Open Gambito de Guada se disputa el 18 y 19 de octubre: torneo suizo a 5 rondas, inscripción a 10 € y enlace a las bases."
 ---
 
 El 18 y 19 de Octubre celebramos el primer torneo evaluable, suizo de 5 rondas a 60' + 30", organizado por el club. 

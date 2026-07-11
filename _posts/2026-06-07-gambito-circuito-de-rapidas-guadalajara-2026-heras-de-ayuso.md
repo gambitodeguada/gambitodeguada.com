@@ -3,6 +3,7 @@ layout: post
 title:  Torneo Heras de Ayuso 2026
 date:   2026-06-07 00:00:00 +0200
 categories: torneos
+description: "Resultados de Gambito de Guada en el Torneo Heras de Ayuso 2026, con Alberto Magán tercero de 24 jugadores."
 ---
 
 sábado 30 de Mayo de 2026 se celebró en Heras de Ayuso el torneo Torneo Heras de Ayuso 2026, con la participación de 24 jugadores.

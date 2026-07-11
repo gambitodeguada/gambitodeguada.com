@@ -3,6 +3,7 @@ layout: post
 title:  Torneo de Ajedrez de Humanes
 date:   2025-02-07 09:58:51 +0200
 categories: torneos
+description: "Bases del Torneo de Ajedrez de Humanes: 9 de marzo de 2025, ajedrez rápido a 6 rondas, categorías, premios e inscripción."
 ---
 
 **[Clasificación y resultados](https://info64.org/torneo-de-ajedrez-de-humanes)**

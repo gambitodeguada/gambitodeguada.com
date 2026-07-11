@@ -1,6 +1,7 @@
 ---
 layout: page
 title: IV Liga Gambito de Guada
+description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito de Guada, round robin a 7 rondas entre 7 jugadores."
 ---
 
 ### Clasificación

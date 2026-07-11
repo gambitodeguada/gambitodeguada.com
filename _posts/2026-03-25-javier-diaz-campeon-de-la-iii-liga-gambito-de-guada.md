@@ -1,6 +1,7 @@
 ---
 title: Javier Díaz y Alberto Magán campeones de la III Liga Gambito de Guada
 layout: post
+description: "Javier Díaz y Alberto Magán se proclaman campeones de los grupos A y B de la III Liga Gambito de Guada."
 ---
 
 Javier Díaz ha ganado la [III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-a) con una puntuación de 5,5/6,

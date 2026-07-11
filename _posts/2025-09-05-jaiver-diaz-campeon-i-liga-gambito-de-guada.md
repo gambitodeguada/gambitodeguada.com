@@ -2,6 +2,7 @@
 layout: post
 title:  Javier Diaz se proclama campeón de la I Liga Gambito de Guada
 date:   2025-09-05 07:38:51 +0200
+description: "Javier Díaz se proclama campeón de la I Liga Gambito de Guada tras jugar más de 100 partidas a ritmo 30+30."
 ---
 
 Aprovechado la celebración de la junta general ordinaria del club se entregó a Javier Diaz el trofeo de campeón de [I Liga Gambito de Guada](i-liga-gambito-de-guada.markdown). 

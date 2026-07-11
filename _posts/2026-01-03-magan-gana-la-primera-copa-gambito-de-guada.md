@@ -3,6 +3,7 @@ title: Alberto Magán gana la primera copa de ajedrez rápido Gambito de Guada
 layout: post
 categories: torneos
 gallery_path: assets/i-copa-gambito-de-guada/thumbs
+description: "Alberto Magán gana la primera Copa de Ajedrez Rápido Gambito de Guada tras superar cuatro eliminatorias, con 14 jugadores del club."
 ---
 
 El pasado 27 de diciembre se disputó la [primera copa de ajedrez rápido Gambito de Guada](/torneos/i-copa-gambito-de-guada).

@@ -3,6 +3,7 @@ layout: post
 title:  Javier Urosa campeón provincial de ajedrez rápido 2026
 date:   2026-03-03 09:58:51 +0200
 categories: torneos
+description: "Javier Urosa se proclama campeón provincial de ajedrez rápido 2026, con pleno del club en la categoría de veteranos."
 ---
 
 Varios miembros del club participaron en el torneo provincial de ajedrez rápido 2026 en Guadalajara.

@@ -1,6 +1,7 @@
 ---
 title: Finalizado Torneo Humanes 2025
 layout: post
+description: "Resultados del Torneo de Ajedrez de Humanes 2025, con 62 participantes y los campeones de las categorías general, veteranos, femenina, local, sub14 y sub10."
 ---
 
 Con la colaboración del Ayuntamiento de Humanes y la [delegación provincial de Guadalajara de la federación de ajedrez de Castilla-La Mancha](https://ajedrezguadalajara.com), el Club Gambito de Guada ha organizado su primer torneo de ajedrez. El torneo de Humanes 2025 ha sido un éxito de participación de 62 jugadores. Agradecemos a todos los participantes y al ayuntamiento de Humanes por hacer este torneo posible.

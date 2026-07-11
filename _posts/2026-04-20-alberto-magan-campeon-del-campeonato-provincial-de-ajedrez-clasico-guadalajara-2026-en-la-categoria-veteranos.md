@@ -2,6 +2,7 @@
 title: Alberto Magan campeón del campeonato provincial de ajedrez clásico Guadalajara 2026 en la categoría veteranos
 layout: post
 gallery_path: assets/2026-torneo-provincial-ajedrez-clasico
+description: "Alberto Magán, Javier Díaz y Juan Carlos Aragonés hacen pleno en veteranos en el Campeonato Provincial de Ajedrez Clásico Guadalajara 2026."
 ---
 
 El 18 y 19 de abril de 2026 se celebró en el Centro San José (Guadalajara) el torneo Campeonato Provincial 

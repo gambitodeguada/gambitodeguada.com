@@ -3,6 +3,7 @@ layout: post
 title:  Entrega premios Liga y Copa
 date:   2026-01-10 09:58:51 +0200
 gallery_path: assets/2026-01-junta-gambito-de-guada/thumbs
+description: "Entrega de premios de la II Liga y la I Copa de Ajedrez Rápido Gambito de Guada, con el listado de campeones históricos del club."
 ---
 
 En la Junta general del Club Gambito de Guada celebrada el 10 de enero de 2026,

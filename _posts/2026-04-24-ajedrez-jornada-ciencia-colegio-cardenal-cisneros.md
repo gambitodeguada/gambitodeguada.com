@@ -4,6 +4,7 @@ title: El ajedrez gana protagonismo en la Jornada de la Ciencia del Colegio Card
 date: 2026-04-24 09:00:00 +0200
 categories: noticias
 gallery_path: assets/2026-04-colegio-cardenal-cisneros
+description: "Gambito de Guada lleva el ajedrez a la Jornada de la Ciencia del Colegio Cardenal Cisneros, con la participación de unos 360 alumnos de ESO."
 ---
 
 El pasado 24 de abril, el [Colegio Diocesano Cardenal Cisneros](https://www.diocesano.com) de Guadalajara celebró su tradicional Jornada de la Ciencia, un evento multidisciplinar donde el ajedrez volvió a encontrar su espacio como una de las actividades destacadas. En esta ocasión, la propuesta no solo se consolidó como una herramienta pedagógica de valor, sino que evidenció el creciente interés que este deporte despierta en el ámbito escolar. Gracias a la dirección técnica del club [Gambito de Guada](https://gambitodeguada.com) y la colaboración de la Asociación de Ajedrez Callejero, la actividad logró integrar de manera fluida el razonamiento lógico con la convivencia de los estudiantes de Educación Secundaria.

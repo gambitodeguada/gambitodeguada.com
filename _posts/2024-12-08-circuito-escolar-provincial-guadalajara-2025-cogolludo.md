@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Torneo Cogolludo - Circuito provincial escolar Guadalajara 2025
+description: "Torneo escolar de Cogolludo del Circuito Provincial de Guadalajara 2025: domingo 15 de diciembre, suizo a 6 rondas, con inscripción e información."
 ---
 **Fecha**: Domingo 15 de Diciembre de 2024   
 **Sala de juego**: Cogolludo

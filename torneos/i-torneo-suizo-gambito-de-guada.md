@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I Torneo Suizo Gambito de Guada
+description: "Bases del I Torneo Suizo Gambito de Guada: liga interna a 7 rondas exclusiva para socios del club, del 27 de abril al 14 de junio de 2026."
 ---
 
 **Del 27 de abril al 14 de junio de 2026**

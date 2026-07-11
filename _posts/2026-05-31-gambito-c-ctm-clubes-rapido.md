@@ -4,6 +4,7 @@ title: Torneo Regional por Equipos de Ajedrez Rápido Castilla-La Mancha 2026
 date: 2026-05-31 00:00:00 +0200
 categories: torneos
 gallery_path: assets/2026-05-torneo-regional-ajedrez-rapido-por-equipos
+description: "Gambito de Guada termina 12º de 36 equipos en el Torneo Regional por Equipos de Ajedrez Rápido de Castilla-La Mancha 2026."
 ---
 
 El 31 de Mayo de 2026 se celebró en Cabañas de la Sagra el Torneo Regional por Equipos de Ajedrez Rápido Castilla-La Mancha 2026, con la participación de 36 equipos.

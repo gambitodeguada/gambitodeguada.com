@@ -4,6 +4,7 @@ title:  Mercedes Fernández gana el I Torneo Ajedrez Femenino
 date:   2025-12-14 13:00:00 +0200
 categories: torneos
 gallery_path: assets/i-torneo-ajedrez-femenino/thumbs
+description: "María Mercedes Fernández gana el I Torneo Ajedrez Femenino con pleno de victorias, dentro del programa Ajedrez en Femenino de Gambito de Guada."
 ---
 
 [María Mercedes Fernández Calvet](https://info64.org/i-torneo-ajedrez-femenino/fernandez-calvet-maria-mercedes), jugadora del Club de Ajedrez Cabanillas 4 Torres,

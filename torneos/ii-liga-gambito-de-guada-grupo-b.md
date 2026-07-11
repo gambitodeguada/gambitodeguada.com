@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grupo B - II Liga Gambito de Guada
+description: "Clasificación, emparejamientos y resultados del Grupo B de la II Liga Gambito de Guada, round robin a 7 rondas entre 7 jugadores."
 ---
 
 ### Tabla de Posiciones

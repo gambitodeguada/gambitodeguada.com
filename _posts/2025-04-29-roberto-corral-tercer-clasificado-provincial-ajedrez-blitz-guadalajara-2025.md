@@ -1,6 +1,7 @@
 ---
 title: Roberto Corral tercer clasificado en el campeonato Provincial Ajedrez Blitz Guadalajara 2025
 layout: post
+description: "Roberto Corral logra el tercer puesto en el Campeonato Provincial de Ajedrez Blitz de Guadalajara 2025."
 ---
 
 Varios miembros del club han participado en el [Campeonato Provincial Ajedrez Blitz Guadalajara 2025](https://info64.org/cto-ajedrez-blitz-individual-absoluto-femenino-y-veteranos-guadalajara-2025/standings). Especial mención a Roberto Corral que se proclamó tercer clasificado. 

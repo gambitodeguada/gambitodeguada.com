@@ -1,6 +1,7 @@
 ---
 layout: page
 title: II Copa Ajedrez Rápido Gambito de Guada
+description: "Resultados y bases de la II Copa Ajedrez Rápido Gambito de Guada: eliminación directa a doble partida con desempates a blitz y armagedón."
 ---
 
 

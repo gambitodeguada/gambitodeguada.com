@@ -1,9 +1,12 @@
 ---
 layout: page
 title: I Torneo Ajedrez Rápido Canredondo
+description: "Bases del I Torneo Ajedrez Rápido Canredondo: suizo a 6 rondas, inscripción gratuita, 11 de julio de 2026 en El Olivo, Canredondo."
 ---
 
 Torneo suizo de 6 rondas a 10' + 3" de incremento por jugada, a celebrar la mañana del 11 de Julio. Inscripción gratuita. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSeGsKknFH6n3uozIxaiM1k9hii3UW25psEe-Uy_VnCWWTPnwQ/viewform?usp=header).
+
+![](/assets/i-torneo-ajedrez-rapido-canredondo.jpg)
 
 ## Bases
 

@@ -3,6 +3,7 @@ layout: post
 title: Torneo de Azuqueca de Henares en el Circuito Provincial de Ajedrez Escolar 2026
 date: 2026-06-14 00:00:00 +0200
 categories: torneos
+description: "Leo del Amo se proclama campeón sub 8 en el Torneo de Azuqueca de Henares del Circuito Provincial de Ajedrez Escolar 2026."
 ---
 
 El domingo 14 de Junio de 2026 se celebró en Azuqueca de Henares el Torneo de Azuqueca de Henares en el Circuito Provincial de Ajedrez Escolar 2026, con la participación de 44 jugadores.

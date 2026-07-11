@@ -1,6 +1,7 @@
 ---
 title: Hoy por Hoy Guadalajara - Curso de ajedrez gratis para mujeres
 layout: post
+description: "Entrevista a Sergio del Amo en Hoy por Hoy Guadalajara (Cadena Ser) sobre el curso de ajedrez gratuito para mujeres del programa Ajedrez en Femenino."
 ---
 
 Entrevista a Sergio del Amo, secretario del Club, en el programa [Hoy o por Hoy de la Cadena Ser Guadalajara](https://cadenaser.com/audio/1758127084879/) sobre el [curso de ajedrez gratuito para mujeres](https://gambitodeguada.com/cursos/2025-curso-ajedrez-en-femenino) dentro del programa [Ajedrez en Femenino](https://gambitodeguada.com/ajedrez-en-femenino).

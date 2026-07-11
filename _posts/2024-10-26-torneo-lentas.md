@@ -1,6 +1,7 @@
 ---
 title: Torneo de Ajedrez de Lentas Guadalajara 2024
 layout: post
+description: "Bases del Torneo de Ajedrez de Lentas Guadalajara 2024: suizo a 7 rondas, 30+30, inscripción gratuita en el Espacio Tyce del 9 de noviembre al 14 de diciembre."
 ---
 
 [Clasificación](https://info64.org/torneo-de-ajedrez-de-lentas-guadalajara-2024/standings)

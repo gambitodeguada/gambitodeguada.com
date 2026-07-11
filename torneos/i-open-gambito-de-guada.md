@@ -1,6 +1,7 @@
 ---
 layout: page
 title: I Open Gambito de Guada
+description: "Bases del I Open Gambito de Guada: torneo suizo evaluable a 5 rondas, 18 y 19 de octubre de 2025 en el Centro San José de Guadalajara."
 ---
 
 # I Open Gambito de Guada

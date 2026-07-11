@@ -4,6 +4,7 @@ title: Gambito de Guada en el Campeonato Provincial de Ajedrez Blitz por Equipos
 date: 2026-05-10 00:00:00 +0200
 categories: torneos
 gallery_path: assets/2026-05-10-torneo-provincial-por-equipos-ajedrez-blitz
+description: "Gambito de Guada compite con dos equipos en el Campeonato Provincial de Ajedrez Blitz por Equipos 2026, con premios individuales por tablero."
 ---
 
 El 10 de mayo de 2026 se celebró en Cabanillas del Campo el Campeonato Provincial de Ajedrez Blitz por Equipos Guadalajara 2026, con la participación de 11 equipos. El club estuvo representado por dos equipos: Gambito de Guada A y Gambito de Guada B.

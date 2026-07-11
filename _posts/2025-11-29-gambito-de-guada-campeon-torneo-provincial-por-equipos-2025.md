@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gambito de Guada campeón del Campeonato Provincial por Equipos 2025
+description: "Gambito de Guada se proclama campeón del Campeonato Provincial por Equipos 2025, logrando el primer y segundo puesto con sus dos equipos."
 ---
 
 Gambito de Guada se ha proclamado campeón del Campeonato Provincial por Equipos 2025.
