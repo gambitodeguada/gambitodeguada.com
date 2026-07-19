@@ -7,6 +7,7 @@ title: Mapa del sitio
 
 ## Programas
 - [Ajedrez en Femenino](ajedrez-en-femenino.html)
+- [Curso de Ajedrez Gratis para Mujeres](/cursos/2026-curso-ajedrez-en-femenino)
 
 ## Recursos
 - [Cuenta Bancaria](/cuenta-bancaria.html)
