@@ -18,7 +18,7 @@ La pareja [Peones Envenenados](https://info64.org/team/ii-torneo-de-ajedrez-por-
 
 Al tratarse de un torneo por parejas, cada integrante disputó dos partidas por ronda (una en cada vuelta) y su resultado conjunto es lo que decidió los puntos del equipo en cada enfrentamiento.
 
-Alberto sumó en total **8 victorias y 2 derrotas** en sus 10 partidas, cayendo únicamente en la ronda 5 ante Jaime Sofío Maroto y en la ronda 3 ante David Crespo.
+Alberto sumó en total **8 victorias, unas tablas y una derrota** en sus 10 partidas, concediendo tablas en la ronda 5 ante Jaime Sofío Maroto y una derrota en la ronda 3 ante David Crespo.
 
 Su pareja, **María Sánchez López**, completó el resultado del equipo con **5 victorias y 5 derrotas** en sus 10 partidas.
 
