@@ -4,11 +4,13 @@ title: II Open Gambito de Guada (Sub 2400)
 description: "Bases del II Open Gambito de Guada (Sub 2400): torneo suizo evaluable a 9 rondas, 2, 3 y 4 de Octubre y 17 y 18 de Octubre de 2026 en el Centro San José de Guadalajara."
 ---
 
-# II Open Gambito de Guada (Sub 2400)
+**Torneo evaluable y válido para ELO FIDE.** Torneo suizo de 9 rondas a 60' + 30" a celebrar el 2, 3 y 4 de Octubre y el 17 y 18 de Octubre de 2026. Inscripción 20 € general / 10 € socios. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor). Consultar [bases](/torneos/ii-open-gambito-de-guada#bases) más abajo.
 
-Torneo suizo de 9 rondas a 60' + 30" a celebrar el 2, 3 y 4 de Octubre y el 17 y 18 de Octubre de 2026. Inscripción 20 € general / 10 € socios. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor). Consultar [bases](/torneos/ii-open-gambito-de-guada#bases) más abajo.
+![](/assets/ii-open-gambito-de-guada-1000.png)
 
 ## Bases
+
+**Torneo evaluable y válido para ELO FIDE.**
 
 ### Fechas
 
@@ -149,7 +151,7 @@ García Martín, Juan Manuel [2221780](https://ratings.fide.com/profile/2221780)
 
 ### BYES
 
-Se podrán pedir 4 BYE de ½ punto en cualquiera de las 7 primeras rondas, mediante el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfIEG5vj30CDA6kBbo8H-O5t-ailgL_0qpj0u0aZPvYg5M-lw/viewform?usp=publish-editor).
+Se podrán pedir 5 BYE de ½ punto en cualquiera de las 7 primeras rondas, mediante el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfIEG5vj30CDA6kBbo8H-O5t-ailgL_0qpj0u0aZPvYg5M-lw/viewform?usp=publish-editor).
 
 Plazo de Solicitud: La petición de byes debe realizarse antes del inicio del torneo.
 
