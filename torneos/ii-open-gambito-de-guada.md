@@ -51,7 +51,7 @@ El sistema de juego será Suizo Holandés a 9 rondas, el ritmo de juego será de
 
 ### Tipo de Torneo
 
-Torneo abierto evaluable para ELO FIDE para jugadores, sub 2400, en la modalidad de ajedrez clásico o estándar.
+Torneo Suizo válido para ELO FIDE, en la modalidad de ajedrez estándar.
 
 ### Organización
 
