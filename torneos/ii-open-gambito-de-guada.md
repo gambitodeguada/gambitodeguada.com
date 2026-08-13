@@ -61,9 +61,9 @@ Colaboran: [Diputación de Guadalajara](https://dguadalajara.es/) y [Delegación
 
 ### Lugar de Juego
 
-Centro San José de la Diputación de Guadalajara.
+Salón de Actos del Centro Joven del Ayuntamiento de Guadalajara.
 
-Dirección: [C. del Cardenal González de Mendoza, 1, 19001 Guadalajara](https://www.google.com/maps/place/data=!4m2!3m1!1s0xd43ab7850187e51:0x1c802f18f064575b?sa=X&ved=1t:8290&ictx=111).
+[Google Maps](https://maps.app.goo.gl/u5TGjwyKdFecLBCh8), [Apple Maps](https://maps.apple/p/utv8qyAmubruah)
 
 ### Coste Inscripción
 
