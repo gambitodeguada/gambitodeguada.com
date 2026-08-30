@@ -21,6 +21,22 @@
   width: 100%;
   max-width: 320px;
 }
+.button {
+  display: inline-block;
+  margin: 0.5rem 0 1rem;
+  padding: 0.7rem 1rem;
+  border-radius: 6px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.button-primary {
+  background-color: #7F1A5A;
+  color: #fff !important;
+}
+.button-primary:hover {
+  background-color: #631345;
+  text-decoration: none;
+}
 .footer-col-wrapper,
 .site-title,
 .site-nav .page-link {

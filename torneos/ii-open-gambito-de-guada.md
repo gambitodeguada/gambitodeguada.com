@@ -1,12 +1,31 @@
 ---
 layout: page
 title: II Open Gambito de Guada (Sub 2400)
-description: "Bases del II Open Gambito de Guada (Sub 2400): torneo suizo evaluable a 9 rondas, 2, 3 y 4 de Octubre y 17 y 18 de Octubre de 2026 en el Centro San José de Guadalajara."
+description: "II Open Gambito de Guada (Sub 2400): torneo suizo válido para ELO FIDE a 9 rondas, 2, 3 y 4 de Octubre y 17 y 18 de Octubre de 2026 en el Centro Joven de Guadalajara."
 ---
 
-**Torneo evaluable y válido para ELO FIDE.** Torneo suizo de 9 rondas a 60' + 30" a celebrar el 2, 3 y 4 de Octubre y el 17 y 18 de Octubre de 2026. Inscripción 20 € general / 10 € socios. Para inscribirse rellenar el siguiente [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor). Consultar [bases](/torneos/ii-open-gambito-de-guada#bases) más abajo.
+**Torneo válido para ELO FIDE en Guadalajara.** El II Open Gambito de Guada (Sub 2400) se jugará por sistema suizo a 9 rondas, con ritmo de 60' + 30", durante los días 2, 3, 4, 17 y 18 de Octubre de 2026.
 
-![](/assets/ii-open-gambito-de-guada-1000.png)
+Una oportunidad para jugar ajedrez clásico evaluable en Guadalajara, con premios por categorías, plazas limitadas y organización del Club Ajedrez Gambito de Guada.
+
+[Inscribirme al torneo](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor){: .button .button-primary }
+
+## Resumen
+
+| Dato | Información |
+| --- | --- |
+| Torneo | II Open Gambito de Guada (Sub 2400) |
+| Validez | ELO FIDE |
+| Sistema | Suizo Holandés a 9 rondas |
+| Ritmo | 60 minutos + 30 segundos por jugada |
+| Fechas | 2, 3 y 4 de Octubre; 17 y 18 de Octubre de 2026 |
+| Lugar | Salón de Actos del Centro Joven del Ayuntamiento de Guadalajara |
+| Inscripción | 20 € general / 10 € socios |
+| Plazas | Limitadas a 64 participantes |
+
+[Formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor) · [Google Maps](https://maps.app.goo.gl/u5TGjwyKdFecLBCh8) · [Apple Maps](https://maps.apple/p/utv8qyAmubruah) · [Descargar cartel](/assets/ii-open-gambito-de-guada-1000.png)
+
+![Cartel del II Open Gambito de Guada Sub 2400](/assets/ii-open-gambito-de-guada-1000.png)
 
 ## Bases
 
@@ -24,30 +43,18 @@ El sistema de juego será Suizo Holandés a 9 rondas, el ritmo de juego será de
 
 ### Calendario
 
-#### Viernes 2 de Octubre
-
-- 1ª ronda: viernes 2 de octubre de 2026 de 18:00 a 21:00
-
-#### Sábado 3 de Octubre
-
-- 2ª ronda: sábado 3 de octubre de 2026 de 9:00 a 12:00
-- 3ª ronda: sábado 3 de octubre de 2026 de 12:00 a 15:00
-
-#### Domingo 4 de Octubre
-
-- 4ª ronda: domingo 4 de octubre de 2026 de 9:00 a 12:00
-- 5ª ronda: domingo 4 de octubre de 2026 de 12:00 a 15:00
-
-#### Sábado 17 de Octubre
-
-- 6ª ronda: sábado 17 de octubre de 2026 de 9:00 a 12:00
-- 7ª ronda: sábado 17 de octubre de 2026 de 12:00 a 15:00
-
-#### Domingo 18 de Octubre
-
-- 8ª ronda: domingo 18 de octubre de 2026 de 9:00 a 12:00
-- 9ª ronda: domingo 18 de octubre de 2026 de 12:00 a 15:00
-- Entrega de premios: domingo 18 de octubre de 2026 de 15:00 a 15:30
+| Fecha | Ronda | Horario |
+| --- | --- | --- |
+| Viernes 2 de octubre de 2026 | 1ª ronda | 18:00 a 21:00 |
+| Sábado 3 de octubre de 2026 | 2ª ronda | 9:00 a 12:00 |
+| Sábado 3 de octubre de 2026 | 3ª ronda | 12:00 a 15:00 |
+| Domingo 4 de octubre de 2026 | 4ª ronda | 9:00 a 12:00 |
+| Domingo 4 de octubre de 2026 | 5ª ronda | 12:00 a 15:00 |
+| Sábado 17 de octubre de 2026 | 6ª ronda | 9:00 a 12:00 |
+| Sábado 17 de octubre de 2026 | 7ª ronda | 12:00 a 15:00 |
+| Domingo 18 de octubre de 2026 | 8ª ronda | 9:00 a 12:00 |
+| Domingo 18 de octubre de 2026 | 9ª ronda | 12:00 a 15:00 |
+| Domingo 18 de octubre de 2026 | Entrega de premios | 15:00 a 15:30 |
 
 ### Tipo de Torneo
 
@@ -126,7 +133,9 @@ Por ejemplo, si un jugador mayor de 55 perteneciente al club Gambito de Guada qu
 
 ### Premiación Metálico
 
-Se destinará el 60% de lo obtenido en la inscripción de jugadores a premiación en metálico. Repartiendo los premios en metálico del siguiente modo:
+El 60% de la recaudación por inscripciones se destinará a premios en metálico para los tres primeros clasificados.
+
+Se repartirá del siguiente modo:
 
 - 1er clasificado - 50%
 - 2do clasificado 35%
@@ -211,3 +220,9 @@ Las resoluciones de este Comité serán inapelables, excepto las cuestiones extr
 Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento (listados de resultados, clasificaciones, participantes, partidas, etc.)
 
 La participación en el campeonato, supone la aceptación de estas bases.
+
+## Inscríbete
+
+Las plazas están limitadas a 64 participantes y se asignarán por riguroso orden de solicitud de inscripción.
+
+[Rellenar formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor){: .button .button-primary }
