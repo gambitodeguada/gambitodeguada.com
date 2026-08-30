@@ -64,7 +64,8 @@ Torneo Suizo válido para ELO FIDE, en la modalidad de ajedrez estándar.
 
 Este campeonato está organizado por el [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/).
 
-Colaboran: [Diputación de Guadalajara](https://dguadalajara.es/) y [Delegación de Ajedrez de Guadalajara](https://ajedrezguadalajara.com/)
+
+Colaboran: [Diputación de Guadalajara](https://dguadalajara.es/), [Ayuntamiento de Guadalajara](https://www.guadalajara.es/) y [Delegación de Ajedrez de Guadalajara](https://ajedrezguadalajara.com/)
 
 ### Lugar de Juego
 
