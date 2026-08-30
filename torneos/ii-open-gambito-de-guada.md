@@ -22,8 +22,9 @@ Una oportunidad para jugar ajedrez clásico evaluable en Guadalajara, con premio
 | Lugar | Salón de Actos del Centro Joven del Ayuntamiento de Guadalajara |
 | Inscripción | 20 € general / 10 € socios |
 | Plazas | Limitadas a 64 participantes |
+| Info64 | [II Open Gambito de Guada Sub 2400](https://info64.org/ii-open-gambito-de-guada-sub-2400) |
 
-[Formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor) · [Google Maps](https://maps.app.goo.gl/u5TGjwyKdFecLBCh8) · [Apple Maps](https://maps.apple/p/utv8qyAmubruah) · [Descargar cartel](/assets/ii-open-gambito-de-guada-1000.png)
+[Formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor) · [Info64](https://info64.org/ii-open-gambito-de-guada-sub-2400) · [Google Maps](https://maps.app.goo.gl/u5TGjwyKdFecLBCh8) · [Apple Maps](https://maps.apple/p/utv8qyAmubruah) · [Descargar cartel](/assets/ii-open-gambito-de-guada-1000.png)
 
 ![Cartel del II Open Gambito de Guada Sub 2400](/assets/ii-open-gambito-de-guada-1000.png)
 
@@ -146,7 +147,7 @@ Por ejemplo, para una recaudación por inscripción de 800 € se destinarán 48
 
 ### Info64
 
-Se utilizará la web [info64.org](https://info64.org) para publicar rondas y clasificaciones a fin de agilizar la transmisión de resultados y emparejamientos. La información publicada en dicha web no debe ser tomada como información oficial de listados o clasificaciones sino meramente como una herramienta informativa.
+Se utilizará la web [info64.org](https://info64.org/ii-open-gambito-de-guada-sub-2400) para publicar rondas y clasificaciones a fin de agilizar la transmisión de resultados y emparejamientos. La información publicada en dicha web no debe ser tomada como información oficial de listados o clasificaciones sino meramente como una herramienta informativa.
 
 Las clasificaciones oficiales son aquellas generadas por el equipo arbitral.
 
