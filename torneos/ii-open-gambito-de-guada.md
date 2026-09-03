@@ -46,7 +46,7 @@ El sistema de juego será Suizo Holandés a 9 rondas, el ritmo de juego será de
 
 | Fecha | Ronda | Horario |
 | --- | --- | --- |
-| Viernes 2 de octubre de 2026 | 1ª ronda | 18:00 a 21:00 |
+| Viernes 2 de octubre de 2026 | 1ª ronda | 17:30 a 20:30 |
 | Sábado 3 de octubre de 2026 | 2ª ronda | 9:00 a 12:00 |
 | Sábado 3 de octubre de 2026 | 3ª ronda | 12:00 a 15:00 |
 | Domingo 4 de octubre de 2026 | 4ª ronda | 9:00 a 12:00 |
