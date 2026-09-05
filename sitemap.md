@@ -40,6 +40,7 @@ title: Mapa del sitio
 ## Torneos Club
 
 - [Campeones](/campeones)
+- [Blitz Champions League Gambito de Guada](/torneos/blitz-champions-league-gambito-de-guada)
 
 ### Copas
 - [I Copa Ajedrez Rápido](/torneos/i-copa-gambito-de-guada)
