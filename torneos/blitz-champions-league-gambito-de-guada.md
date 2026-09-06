@@ -6,6 +6,8 @@ description: "Blitz Champions League Gambito de Guada: torneo de ajedrez blitz n
 
 **Torneo de ajedrez blitz no evaluable.** La Blitz Champions League Gambito de Guada reunirá a 24 jugadores divididos en 4 grupos de 6, con fase de grupos a doble vuelta y fase final de eliminatorias, el sábado 19 de diciembre de 2026.
 
+[Inscribirme al torneo](https://docs.google.com/forms/d/e/1FAIpQLScoYknewUQ1AMXjG6DQ4G2HiCsRIUnYaJ7_destNOVERkqHzg/viewform?usp=header){: .button .button-primary }
+
 ## Resumen
 
 | Dato | Información |
@@ -113,7 +115,7 @@ Las inscripciones se pagarán por transferencia bancaria en la [Cuenta bancaria]
 
 ### Inscripciones
 
-Para inscribirse, contactar con la organización a través de [Contacto](/contacto).
+Para inscribirse, rellenar el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScoYknewUQ1AMXjG6DQ4G2HiCsRIUnYaJ7_destNOVERkqHzg/viewform?usp=header).
 
 Inscripciones limitadas a 24 participantes en riguroso orden de solicitud de inscripción, con prioridad para los socios del Club Ajedrez Gambito de Guada.
 
@@ -158,4 +160,4 @@ La participación en el campeonato, supone la aceptación de estas bases.
 
 Las plazas están limitadas a 24 participantes y se asignarán por riguroso orden de solicitud de inscripción.
 
-[Contacto](/contacto){: .button .button-primary }
+[Rellenar formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScoYknewUQ1AMXjG6DQ4G2HiCsRIUnYaJ7_destNOVERkqHzg/viewform?usp=header){: .button .button-primary }
