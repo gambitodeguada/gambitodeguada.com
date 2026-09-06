@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blitz Champions League Gambito de Guada
-description: "Blitz Champions League Gambito de Guada: torneo de ajedrez blitz no evaluable para 24 jugadores, fase de grupos y eliminatorias, sábado 21 de diciembre de 2026."
+description: "Blitz Champions League Gambito de Guada: torneo de ajedrez blitz no evaluable para 24 jugadores, fase de grupos y eliminatorias, sábado 19 de diciembre de 2026."
 ---
 
-**Torneo de ajedrez blitz no evaluable.** La Blitz Champions League Gambito de Guada reunirá a 24 jugadores divididos en 4 grupos de 6, con fase de grupos a doble vuelta y fase final de eliminatorias, el sábado 21 de diciembre de 2026.
+**Torneo de ajedrez blitz no evaluable.** La Blitz Champions League Gambito de Guada reunirá a 24 jugadores divididos en 4 grupos de 6, con fase de grupos a doble vuelta y fase final de eliminatorias, el sábado 19 de diciembre de 2026.
 
 ## Resumen
 
@@ -14,7 +14,7 @@ description: "Blitz Champions League Gambito de Guada: torneo de ajedrez blitz n
 | Validez | No evaluable |
 | Participantes | 24 jugadores repartidos en 4 grupos de 6 |
 | Sistema | Fase de grupos (liga a doble vuelta) + fase de eliminatorias |
-| Fecha | Sábado 21 de diciembre de 2026 |
+| Fecha | Sábado 19 de diciembre de 2026 |
 | Horario | Fase de grupos 10:00 a 14:00. Fase de eliminatorias 16:00 a 19:00 |
 | Lugar | Hall del Centro San José |
 | Inscripción | 10 € |
@@ -29,7 +29,7 @@ description: "Blitz Champions League Gambito de Guada: torneo de ajedrez blitz n
 
 ### Fecha
 
-Sábado 21 de diciembre de 2026
+Sábado 19 de diciembre de 2026
 
 ### Horario
 
@@ -115,7 +115,9 @@ Las inscripciones se pagarán por transferencia bancaria en la [Cuenta bancaria]
 
 Para inscribirse, contactar con la organización a través de [Contacto](/contacto).
 
-Inscripciones limitadas a 24 participantes en riguroso orden de solicitud de inscripción.
+Inscripciones limitadas a 24 participantes en riguroso orden de solicitud de inscripción, con prioridad para los socios del Club Ajedrez Gambito de Guada.
+
+Si hubiera más de 24 inscritos, la organización se reserva el derecho a ampliar el número de participantes, manteniendo siempre el formato Champions League (fase de grupos por nivel + fase de eliminatorias).
 
 ### Premios
 
@@ -128,15 +130,13 @@ El 3º y 4º puesto se deciden en un match específico entre los dos jugadores e
 
 ### Premiación Metálico
 
-El 60% de la recaudación por inscripciones se destinará a premios en metálico para los tres primeros clasificados, repartido del siguiente modo sobre el total de la recaudación:
+Los premios en metálico se fijan según lo que correspondería con las 24 plazas completas (240 € de recaudación, 10 € por jugador), con independencia del número final de inscritos:
 
-- 1er clasificado - 30% de la recaudación
-- 2do clasificado - 20% de la recaudación
-- 3er clasificado - 10% de la recaudación
+- 1er clasificado: 72 €
+- 2do clasificado: 48 €
+- 3er clasificado: 24 €
 
-Al ser la inscripción de 10 € por jugador, esto equivale a 3 € por el primer clasificado, 2 € por el segundo y 1 € por el tercero, por cada jugador inscrito, garantizando un reparto sin céntimos sea cual sea el número final de inscritos.
-
-Por ejemplo, para 24 jugadores inscritos (240 € de recaudación) se destinarán 144 € (el 60%) a premios en metálico: 72 € para el primer clasificado, 48 € para el segundo clasificado y 24 € para el tercer clasificado.
+Estas cantidades corresponden al 60% de la recaudación con 24 inscritos (144 €), repartido 30% / 20% / 10% sobre el total de la recaudación entre los tres primeros clasificados.
 
 ### Móviles y dispositivos electrónicos
 
