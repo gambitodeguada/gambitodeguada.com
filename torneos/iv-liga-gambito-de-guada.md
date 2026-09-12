@@ -10,10 +10,10 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 |---|-------------|--------------|----------------|-----------|
 | 1 | Garcia Manzanares, Mariano | 4            | 3              | +1        |
 | 2 | Carballido Mateo, Ignacio | 4            | 3              | +1        |
-| 3 | Del Amo Caballero, Sergio | 3            | 2              | +0.5      |
-| 4 | Esteban Lopez, Vicente | 3            | 1.5            | 0         |
-| 5 | Díaz Martín, Javier | 4            | 1.5            | -0.5      |
-| 6 | Garcia Pardo, Efren | 4            | 1              | -1        |
+| 3 | Díaz Martín, Javier | 5            | 2.5            | 0         |
+| 4 | Del Amo Caballero, Sergio | 3            | 2              | +0.5      |
+| 5 | Esteban Lopez, Vicente | 3            | 1.5            | 0         |
+| 6 | Garcia Pardo, Efren | 5            | 1              | -1.5      |
 | 7 | Gomez Vazquez, Javier | 2            | 0              | -1        |
 
 ## Emparejamientos por Ronda
@@ -72,7 +72,7 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Díaz Martín, Javier | ... | Garcia Pardo, Efren |
+| 1 | Díaz Martín, Javier | 1 - 0 | Garcia Pardo, Efren |
 | 2 | Esteban Lopez, Vicente | 0 - 1 | Del Amo Caballero, Sergio |
 | 3 | Gomez Vazquez, Javier | ... | Carballido Mateo, Ignacio |
 
