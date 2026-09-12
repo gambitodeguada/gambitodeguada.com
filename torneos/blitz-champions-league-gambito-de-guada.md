@@ -21,9 +21,9 @@ description: "Blitz Champions League Gambito de Guada: torneo de ajedrez blitz n
 | Lugar | Hall del Centro San José |
 | Inscripción | 10 € |
 
-[Descargar cartel](/assets/2026-12-21-blitz-championsleague/2026-blitz-champions-league.png)
+[Formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScoYknewUQ1AMXjG6DQ4G2HiCsRIUnYaJ7_destNOVERkqHzg/viewform?usp=header) · [Descargar cartel](/assets/2026-12-19-blitz-championsleague/2026-blitz-champions-league.png)
 
-![Cartel de la Blitz Champions League Gambito de Guada](/assets/2026-12-21-blitz-championsleague/2026-blitz-champions-league.png)
+![Cartel de la Blitz Champions League Gambito de Guada](/assets/2026-12-19-blitz-championsleague/2026-blitz-champions-league.png)
 
 ## Bases
 
@@ -115,7 +115,7 @@ Las inscripciones se pagarán por transferencia bancaria en la [Cuenta bancaria]
 
 ### Inscripciones
 
-Para inscribirse, rellenar el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScoYknewUQ1AMXjG6DQ4G2HiCsRIUnYaJ7_destNOVERkqHzg/viewform?usp=header).
+Para inscribirse rellenar el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLScoYknewUQ1AMXjG6DQ4G2HiCsRIUnYaJ7_destNOVERkqHzg/viewform?usp=header)
 
 Inscripciones limitadas a 24 participantes en riguroso orden de solicitud de inscripción, con prioridad para los socios del Club Ajedrez Gambito de Guada.
 
