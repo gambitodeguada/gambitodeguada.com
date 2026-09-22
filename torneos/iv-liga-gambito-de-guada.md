@@ -8,9 +8,9 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | Garcia Manzanares, Mariano | 4            | 3              | +1        |
-| 2 | Carballido Mateo, Ignacio | 4            | 3              | +1        |
-| 3 | Esteban Lopez, Vicente | 4            | 2.5            | +0.5      |
+| 1 | Esteban Lopez, Vicente | 5            | 3.5            | +1        |
+| 2 | Garcia Manzanares, Mariano | 4            | 3              | +1        |
+| 3 | Carballido Mateo, Ignacio | 5            | 3              | +0.5      |
 | 4 | Díaz Martín, Javier | 5            | 2.5            | 0         |
 | 5 | Del Amo Caballero, Sergio | 3            | 2              | +0.5      |
 | 6 | Garcia Pardo, Efren | 6            | 1              | -2        |
@@ -62,9 +62,11 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Carballido Mateo, Ignacio | ... | Esteban Lopez, Vicente |
+| 1 | Carballido Mateo, Ignacio | 0 - 1 | Esteban Lopez, Vicente |
 | 2 | Del Amo Caballero, Sergio | ... | Díaz Martín, Javier |
 | 3 | Garcia Pardo, Efren | 0 - 1 | Garcia Manzanares, Mariano |
+
+**Nota**: La partida Carballido Mateo, Ignacio - Esteban Lopez, Vicente se da por ganada a Vicente por incomparecencia de Ignacio.
 
 **Descansa**: Gomez Vazquez, Javier
 
