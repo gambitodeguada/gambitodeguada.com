@@ -22,6 +22,7 @@ Una oportunidad para jugar ajedrez clásico evaluable en Guadalajara, con premio
 | Lugar | Salón de Actos del Centro Joven del Ayuntamiento de Guadalajara |
 | Inscripción | 20 € general / 10 € socios |
 | Plazas | Limitadas a 64 participantes |
+| Fecha límite de inscripción | 2 de octubre de 2026 a las 14:00 |
 | Info64 | [II Open Gambito de Guada Sub 2400](https://info64.org/ii-open-gambito-de-guada-sub-2400) |
 
 [Formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor) · [Info64](https://info64.org/ii-open-gambito-de-guada-sub-2400) · [Google Maps](https://maps.app.goo.gl/u5TGjwyKdFecLBCh8) · [Apple Maps](https://maps.apple/p/utv8qyAmubruah) · [Descargar cartel](/assets/ii-open-gambito-de-guada-1000.png)
@@ -88,6 +89,8 @@ Inscripción gratuita para titulados.
 Para inscribirse rellenar el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfwhXwFicxmCWUdX4hGOV16Ae7rJsVXICkuI4x0o9q-hDSw2A/viewform?usp=publish-editor)
 
 Inscripciones limitadas a 64 participantes en riguroso orden de solicitud de inscripción.
+
+Fecha límite de inscripción: viernes 2 de octubre de 2026 a las 14:00 horas.
 
 ### Premios
 
@@ -158,7 +161,6 @@ García Martín, Juan Manuel [2221780](https://ratings.fide.com/profile/2221780)
 ### Equipo Arbitral
 
 Árbitro Principal: Esteban López, Vicente [2256622](https://ratings.fide.com/profile/2256622)
-Árbitro Adjunto: Alonso Palazón, Jesús [535072300](https://ratings.fide.com/profile/535072300)
 
 ### BYES
 
