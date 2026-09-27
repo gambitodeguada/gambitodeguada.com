@@ -191,11 +191,15 @@ Los participantes serán ordenados por ELO FIDE y en su defecto por orden alfab�
 - Number of Games Won. Partidas ganadas sobre el tablero.
 - User Tie-Break.
 
-### Incomparecencia
+### Incomparecencias
 
-Se eliminará al jugador que en alguna ronda no comparezca sin previo aviso.
+#### Incomparecencia injustificada
 
-Si un jugador no puede participar en una de las rondas para las cuales no se puede solicitar bye puede avisar al equipo arbitral con al menos dos horas antes del comienzo de la ronda para que no se le empareje en dicha ronda. Obtendrá cero puntos en esta ronda pero podrá seguir en el torneo.
+La incomparecencia injustificada en una partida supondrá la eliminación del torneo.
+
+#### Incomparecencia justificada
+
+Se permitirán hasta 2 incomparecencias justificadas. En ese caso, el jugador no será emparejado en la ronda correspondiente y sumará 0 puntos, pero podrá seguir en el torneo, siempre y cuando avise al equipo arbitral nada más terminar la ronda anterior a la supuesta incomparecencia.
 
 ### Móviles y dispositivos electrónicos
 
