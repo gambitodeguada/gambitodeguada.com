@@ -33,17 +33,16 @@ El curso comenzará a partir de Octubre de 2026 en el Centro Joven de Guadalajar
 | Sesión | Fecha | Grupo A | Grupo B |
 | --- | --- | --- | --- |
 | 1 | Lunes 5 de octubre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 2 | Lunes 12 de octubre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 3 | Lunes 19 de octubre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 4 | Lunes 26 de octubre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 5 | Lunes 2 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 6 | Lunes 9 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 7 | Lunes 16 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 8 | Lunes 23 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 9 | Lunes 30 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 10 | Lunes 7 de diciembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 11 | Lunes 14 de diciembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
-| 12 | Lunes 21 de diciembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 2 | Lunes 19 de octubre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 3 | Lunes 26 de octubre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 4 | Lunes 2 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 5 | Lunes 9 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 6 | Lunes 16 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 7 | Lunes 23 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 8 | Lunes 30 de noviembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 9 | Lunes 7 de diciembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 10 | Lunes 14 de diciembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
+| 11 | Lunes 21 de diciembre de 2026 | 18:00 a 19:00 | 19:00 a 20:00 |
 
 ## Grupos
 
