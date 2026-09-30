@@ -82,7 +82,7 @@ Salón de Actos del Centro Joven del Ayuntamiento de Guadalajara.
 
 Las inscripciones se pagarán por transferencia bancaria en la [Cuenta bancaria](/cuenta-bancaria) del Club de Ajedrez Gambito de Guada con IBAN ES49 6726 8300 1505 6481 2483
 
-Inscripción gratuita para titulados.
+Inscripción gratuita para titulados FIDE.
 
 ### Inscripciones
 
