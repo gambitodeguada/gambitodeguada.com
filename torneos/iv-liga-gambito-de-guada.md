@@ -10,11 +10,11 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 |---|-------------|--------------|----------------|-----------|
 | 1 | Del Amo Caballero, Sergio | 6            | 4.5            | +1.5      |
 | 2 | Garcia Manzanares, Mariano | 6            | 4              | +1        |
-| 3 | Esteban Lopez, Vicente | 5            | 3.5            | +1        |
+| 3 | Esteban Lopez, Vicente | 6            | 3.5            | +0.5      |
 | 4 | Carballido Mateo, Ignacio | 5            | 3              | +0.5      |
 | 5 | Díaz Martín, Javier | 6            | 3              | 0         |
-| 6 | Garcia Pardo, Efren | 6            | 1              | -2        |
-| 7 | Gomez Vazquez, Javier | 4            | 0              | -2        |
+| 6 | Gomez Vazquez, Javier | 5            | 1              | -1.5      |
+| 7 | Garcia Pardo, Efren | 6            | 1              | -2        |
 
 ## Emparejamientos por Ronda
 
@@ -56,7 +56,9 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 |----------|-------------|---------------|------------|
 | 1 | Garcia Manzanares, Mariano | 0 - 1 | Del Amo Caballero, Sergio |
 | 2 | Díaz Martín, Javier | 0 - 1 | Carballido Mateo, Ignacio |
-| 3 | Esteban Lopez, Vicente | ... | Gomez Vazquez, Javier |
+| 3 | Esteban Lopez, Vicente | 0 - 1 | Gomez Vazquez, Javier |
+
+**Nota**: La partida Esteban Lopez, Vicente - Gomez Vazquez, Javier se da por ganada a Javier por incomparecencia de Vicente.
 
 **Descansa**: Garcia Pardo, Efren
 
