@@ -11,10 +11,10 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 | 1 | Del Amo Caballero, Sergio | 6            | 4.5            | +1.5      |
 | 2 | Garcia Manzanares, Mariano | 6            | 4              | +1        |
 | 3 | Esteban Lopez, Vicente | 6            | 3.5            | +0.5      |
-| 4 | Carballido Mateo, Ignacio | 5            | 3              | +0.5      |
+| 4 | Carballido Mateo, Ignacio | 6            | 3              | 0         |
 | 5 | Díaz Martín, Javier | 6            | 3              | 0         |
-| 6 | Gomez Vazquez, Javier | 5            | 1              | -1.5      |
-| 7 | Garcia Pardo, Efren | 6            | 1              | -2        |
+| 6 | Garcia Pardo, Efren | 6            | 1              | -2        |
+| 7 | Gomez Vazquez, Javier | 6            | 1              | -2        |
 
 ## Emparejamientos por Ronda
 
@@ -80,7 +80,9 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 |----------|-------------|---------------|------------|
 | 1 | Díaz Martín, Javier | 1 - 0 | Garcia Pardo, Efren |
 | 2 | Esteban Lopez, Vicente | 0 - 1 | Del Amo Caballero, Sergio |
-| 3 | Gomez Vazquez, Javier | ... | Carballido Mateo, Ignacio |
+| 3 | Gomez Vazquez, Javier | 0 - 0 | Carballido Mateo, Ignacio |
+
+**Nota**: La partida Gomez Vazquez, Javier - Carballido Mateo, Ignacio no se jugó y se da por perdida a ambos jugadores.
 
 **Descansa**: Garcia Manzanares, Mariano
 
@@ -112,6 +114,7 @@ description: "Clasificación, emparejamientos y resultados de la IV Liga Gambito
 - **1-0**: Victoria de las blancas
 - **0-1**: Victoria de las negras
 - **½-½**: Tablas
+- **0-0**: Partida no jugada, perdida para ambos jugadores
 - **...**: Partida pendiente
 
 ### Notas
