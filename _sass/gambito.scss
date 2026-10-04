@@ -42,3 +42,9 @@
 .site-nav .page-link {
   color: #fff !important;
 }
+table.liga-descensos tbody tr:nth-last-child(-n+3) {
+  background-color: #f9d6d5;
+}
+table.liga-ascensos tbody tr:nth-child(-n+3) {
+  background-color: #dcf5dc;
+}

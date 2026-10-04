@@ -55,3 +55,5 @@ title: Mapa del sitio
 - [Grupo A - III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-a)
 - [Grupo B - III Liga Gambito de Guada](/torneos/iii-liga-gambito-de-guada-grupo-b)
 - [IV Liga Gambito de Guada](/torneos/iv-liga-gambito-de-guada)
+- [Grupo A - V Liga Gambito de Guada](/torneos/v-liga-gambito-de-guada-grupo-a)
+- [Grupo B - V Liga Gambito de Guada](/torneos/v-liga-gambito-de-guada-grupo-b)
