@@ -17,18 +17,17 @@ title: Jugadores
 |10|Perez Lorenzo, Manuel Jesus|[523057793](https://ratings.fide.com/profile/523057793)|1677|1714||
 |11|Iglesias Ortiz, Inaki|[54728835](https://ratings.fide.com/profile/54728835)|1655|1735||
 |12|Gomez Resco, Javier|[535085614](https://ratings.fide.com/profile/535085614)|1619|1457||
-|13|Garcia Martin, Juan Manuel|[2221780](https://ratings.fide.com/profile/2221780)|1616|1597|1753|
-|14|Garcia Pardo, Efren|[535072296](https://ratings.fide.com/profile/535072296)|1605|1618|1564|
-|15|Del Amo Caballero, Sergio|[535004274](https://ratings.fide.com/profile/535004274)|1598|1668|1610|
-|16|Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)|1582|1617|1802|
-|17|Sierra Grasa, Ismael|[94792836](https://ratings.fide.com/profile/94792836)|1577|1447|1446|
-|18|Aragones Congostrina, Juan Carlos|[523007044](https://ratings.fide.com/profile/523007044)|1527|1454|1499|
-|19|Urosa Lozano, Javier|[24536946](https://ratings.fide.com/profile/24536946)||2063|1998|
-|20|Garcia Manzanares, Mariano|[553006135](https://ratings.fide.com/profile/553006135)||1801||
-|21|Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
-|22|Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)|||1472|
+|13|Garcia Pardo, Efren|[535072296](https://ratings.fide.com/profile/535072296)|1605|1618|1564|
+|14|Del Amo Caballero, Sergio|[535004274](https://ratings.fide.com/profile/535004274)|1598|1668|1610|
+|15|Corral Ruano, Roberto|[523004410](https://ratings.fide.com/profile/523004410)|1582|1617|1802|
+|16|Sierra Grasa, Ismael|[94792836](https://ratings.fide.com/profile/94792836)|1577|1447|1446|
+|17|Aragones Congostrina, Juan Carlos|[523007044](https://ratings.fide.com/profile/523007044)|1527|1454|1499|
+|18|Urosa Lozano, Javier|[24536946](https://ratings.fide.com/profile/24536946)||2063|1998|
+|19|Garcia Manzanares, Mariano|[553006135](https://ratings.fide.com/profile/553006135)||1801||
+|20|Abanades Garcia, Pablo|[535072270](https://ratings.fide.com/profile/535072270)||1484||
+|21|Vidal Rodriguez, Alberto David|[535076348](https://ratings.fide.com/profile/535076348)|||1472|
+|22|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
 |23|Gordillo Ramos, Juan Carlos|[553075765](https://ratings.fide.com/profile/553075765)||||
-|24|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
-|25|Del Amo Galve, Leo|[535004304](https://ratings.fide.com/profile/535004304)||||
+|24|Del Amo Galve, Leo|[535004304](https://ratings.fide.com/profile/535004304)||||
+|25|Lucas Gordillo Lozano|||||
 |26|Phillip Dale Boven Damian|||||
-|27|Lucas Gordillo Lozano|||||
