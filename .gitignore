@@ -4,6 +4,7 @@ _site
 .jekyll-metadata
 .nova
 .idea
+.basecamp
 .DS_Store
 vendor
 Gemfile.lock
