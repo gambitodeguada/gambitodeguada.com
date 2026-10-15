@@ -8,12 +8,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 0            | 0              | 0         |
-| 2 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 0            | 0              | 0         |
-| 3 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 0            | 0              | 0         |
-| 4 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 0            | 0              | 0         |
-| 5 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 0            | 0              | 0         |
-| 6 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 0            | 0              | 0         |
+| 1 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 1            | 0.5            | 0         |
+| 2 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 1            | 0.5            | 0         |
+| 3 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 0            | 0              | 0         |
+| 4 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 0            | 0              | 0         |
+| 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 0            | 0              | 0         |
+| 6 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 0            | 0              | 0         |
 | 7 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 0            | 0              | 0         |
 | 8 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 0            | 0              | 0         |
 {: .liga-descensos}
@@ -28,7 +28,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 |----------|-------------|---------------|------------|
 | 1 | Magán González, Alberto | ... | Urosa Lozano, Javier |
 | 2 | Díaz Martín, Javier | ... | García Manzanares, Mariano |
-| 3 | Alonso Palazón, Jesús | ... | Corral Ruano, Roberto |
+| 3 | Alonso Palazón, Jesús | ½-½ | Corral Ruano, Roberto |
 | 4 | Carballido Mateo, Ignacio | ... | Del Amo Caballero, Sergio |
 
 ### Ronda 2
