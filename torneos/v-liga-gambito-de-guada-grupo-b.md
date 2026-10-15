@@ -9,12 +9,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
 | 1 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1            | 1              | 0.5       |
-| 2 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 0            | 0              | 0         |
-| 3 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 0            | 0              | 0         |
+| 2 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 1            | 1              | 0.5       |
+| 3 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 0            | 0              | 0         |
 | 4 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 0            | 0              | 0         |
 | 5 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 0            | 0              | 0         |
-| 6 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 0            | 0              | 0         |
-| 7 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 0            | 0              | 0         |
+| 6 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 0            | 0              | 0         |
+| 7 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 1            | 0              | -0.5      |
 | 8 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 1            | 0              | -0.5      |
 {: .liga-ascensos}
 
@@ -28,7 +28,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 |----------|-------------|---------------|------------|
 | 1 | De Las Heras Fernández, Sergio | 0 - 1 | Sierra Grasa, Ismael |
 | 2 | Martínez Sanz, Ignacio | ... | García Pardo, Efrén |
-| 3 | De Pablo Peña, Miguel Ángel | ... | Gómez Resco, Javier |
+| 3 | De Pablo Peña, Miguel Ángel | 1 - 0 | Gómez Resco, Javier |
 | 4 | Gómez Vázquez, Javier | ... | Iglesias Ortiz, Iñaki |
 
 ### Ronda 2
