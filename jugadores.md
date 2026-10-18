@@ -29,5 +29,5 @@ title: Jugadores
 |22|Del Amo Galve, Noa|[535004290](https://ratings.fide.com/profile/535004290)||||
 |23|Gordillo Ramos, Juan Carlos|[553075765](https://ratings.fide.com/profile/553075765)||||
 |24|Del Amo Galve, Leo|[535004304](https://ratings.fide.com/profile/535004304)||||
-|25|Lucas Gordillo Lozano|||||
-|26|Phillip Dale Boven Damian|||||
+|25|Phillip Dale Boven Damian|||||
+|26|Lucas Gordillo Lozano|||||
