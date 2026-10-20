@@ -47,3 +47,7 @@ defaults:
       path: "assets/i-torneo-ajedrez-rapido-canredondo/thumbs"
     values:
       gallery: true
+  - scope:
+      path: "assets/2026-10-II-Open-Gambito-de-Guada/s"
+    values:
+      gallery: true

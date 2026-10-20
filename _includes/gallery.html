@@ -19,14 +19,159 @@
     .image-gallery img:hover {
         transform: scale(1.05);
     }
+
+    .gallery-lightbox {
+        position: fixed;
+        inset: 0;
+        z-index: 1000;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        background: rgba(0, 0, 0, 0.9);
+        touch-action: pan-y;
+    }
+    .gallery-lightbox.is-open {
+        display: flex;
+    }
+    .gallery-lightbox img {
+        max-width: 95vw;
+        max-height: 90vh;
+        object-fit: contain;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+    }
+    .gallery-lightbox button {
+        position: absolute;
+        background: none;
+        border: none;
+        color: #fff;
+        font-size: 2.5rem;
+        line-height: 1;
+        padding: 0.5rem 1rem;
+        cursor: pointer;
+        opacity: 0.8;
+    }
+    .gallery-lightbox button:hover,
+    .gallery-lightbox button:focus {
+        opacity: 1;
+        outline: none;
+    }
+    .gallery-lightbox .lightbox-close {
+        top: 0.5rem;
+        right: 0.5rem;
+    }
+    .gallery-lightbox .lightbox-prev {
+        left: 0.5rem;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .gallery-lightbox .lightbox-next {
+        right: 0.5rem;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .gallery-lightbox .lightbox-counter {
+        position: absolute;
+        bottom: 0.75rem;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #fff;
+        font-size: 0.9rem;
+        opacity: 0.8;
+    }
+    body.gallery-lightbox-open {
+        overflow: hidden;
+    }
 </style>
 
 <div class="image-gallery">
+    {% assign thumb_dir = page.gallery_thumb_dir | default: "thumbs" %}
+    {% assign full_dir = page.gallery_full_dir | default: "originals" %}
+    {% assign thumb_segment = "/" | append: thumb_dir | append: "/" %}
+    {% assign full_segment = "/" | append: full_dir | append: "/" %}
     {% assign images = site.static_files | where: "gallery", true | where_exp: "item", "item.path contains page.gallery_path" | sort: "basename" %}
     {% for img in images %}
-    {% assign original_path = img.path | replace: '/thumbs/', '/originals/' %}
+    {% assign original_path = img.path | replace: thumb_segment, full_segment %}
     <a href="{{ original_path }}">
         <img src="{{ img.path }}" alt="{{ img.basename }}">
     </a>
     {% endfor %}
 </div>
+
+<div class="gallery-lightbox" role="dialog" aria-modal="true" aria-label="Visor de fotos" hidden>
+    <button type="button" class="lightbox-close" aria-label="Cerrar">&times;</button>
+    <button type="button" class="lightbox-prev" aria-label="Anterior">&#8249;</button>
+    <img src="" alt="">
+    <button type="button" class="lightbox-next" aria-label="Siguiente">&#8250;</button>
+    <div class="lightbox-counter"></div>
+</div>
+
+<script>
+(function () {
+    var gallery = document.currentScript.previousElementSibling.previousElementSibling;
+    var lightbox = document.currentScript.previousElementSibling;
+    var links = Array.prototype.slice.call(gallery.querySelectorAll('a'));
+    if (!links.length) { return; }
+
+    var img = lightbox.querySelector('img');
+    var counter = lightbox.querySelector('.lightbox-counter');
+    var current = 0;
+    var touchStartX = null;
+
+    function show(index) {
+        current = (index + links.length) % links.length;
+        var link = links[current];
+        img.src = link.href;
+        img.alt = link.querySelector('img').alt;
+        counter.textContent = (current + 1) + ' / ' + links.length;
+    }
+
+    function open(index) {
+        show(index);
+        lightbox.hidden = false;
+        lightbox.classList.add('is-open');
+        document.body.classList.add('gallery-lightbox-open');
+        lightbox.querySelector('.lightbox-close').focus();
+    }
+
+    function close() {
+        lightbox.classList.remove('is-open');
+        lightbox.hidden = true;
+        document.body.classList.remove('gallery-lightbox-open');
+        img.src = '';
+    }
+
+    links.forEach(function (link, index) {
+        link.addEventListener('click', function (event) {
+            event.preventDefault();
+            open(index);
+        });
+    });
+
+    lightbox.querySelector('.lightbox-close').addEventListener('click', close);
+    lightbox.querySelector('.lightbox-prev').addEventListener('click', function () { show(current - 1); });
+    lightbox.querySelector('.lightbox-next').addEventListener('click', function () { show(current + 1); });
+
+    lightbox.addEventListener('click', function (event) {
+        if (event.target === lightbox) { close(); }
+    });
+
+    document.addEventListener('keydown', function (event) {
+        if (!lightbox.classList.contains('is-open')) { return; }
+        if (event.key === 'Escape') { close(); }
+        else if (event.key === 'ArrowLeft') { show(current - 1); }
+        else if (event.key === 'ArrowRight') { show(current + 1); }
+    });
+
+    lightbox.addEventListener('touchstart', function (event) {
+        touchStartX = event.changedTouches[0].clientX;
+    }, { passive: true });
+
+    lightbox.addEventListener('touchend', function (event) {
+        if (touchStartX === null) { return; }
+        var delta = event.changedTouches[0].clientX - touchStartX;
+        touchStartX = null;
+        if (Math.abs(delta) < 40) { return; }
+        show(delta < 0 ? current + 1 : current - 1);
+    }, { passive: true });
+})();
+</script>
