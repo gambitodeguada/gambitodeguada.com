@@ -10,12 +10,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 |---|-------------|--------------|----------------|-----------|
 | 1 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1            | 1              | 0.5       |
 | 2 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 1            | 1              | 0.5       |
-| 3 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1            | 0.5            | 0         |
-| 4 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 1            | 0.5            | 0         |
-| 5 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 0            | 0              | 0         |
-| 6 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 0            | 0              | 0         |
-| 7 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 1            | 0              | -0.5      |
-| 8 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 1            | 0              | -0.5      |
+| 3 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 1            | 1              | 0.5       |
+| 4 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1            | 0.5            | 0         |
+| 5 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 1            | 0.5            | 0         |
+| 6 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 1            | 0              | -0.5      |
+| 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 1            | 0              | -0.5      |
+| 8 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 1            | 0              | -0.5      |
 {: .liga-ascensos}
 
 **Ascensos**: los tres primeros clasificados (filas en verde) ascienden al Grupo A.
@@ -29,7 +29,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | 1 | De Las Heras Fernández, Sergio | 0 - 1 | Sierra Grasa, Ismael |
 | 2 | Martínez Sanz, Ignacio | ½-½ | García Pardo, Efrén |
 | 3 | De Pablo Peña, Miguel Ángel | 1 - 0 | Gómez Resco, Javier |
-| 4 | Gómez Vázquez, Javier | ... | Iglesias Ortiz, Iñaki |
+| 4 | Gómez Vázquez, Javier | 0 - 1 | Iglesias Ortiz, Iñaki |
 
 ### Ronda 2
 
