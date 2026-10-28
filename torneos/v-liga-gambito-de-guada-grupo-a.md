@@ -8,11 +8,11 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 1            | 1              | 0.5       |
-| 2 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 1            | 0.5            | 0         |
-| 3 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 1            | 0.5            | 0         |
-| 4 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 1            | 0.5            | 0         |
-| 5 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 1            | 0.5            | 0         |
+| 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 2            | 1.5            | 0.5       |
+| 2 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 1            | 1              | 0.5       |
+| 3 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 1            | 0.5            | 0         |
+| 4 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 1            | 0.5            | 0         |
+| 5 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 2            | 0.5            | -0.5      |
 | 6 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 0            | 0              | 0         |
 | 7 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 0            | 0              | 0         |
 | 8 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 1            | 0              | -0.5      |
@@ -37,7 +37,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 |----------|-------------|---------------|------------|
 | 1 | Urosa Lozano, Javier | ... | Del Amo Caballero, Sergio |
 | 2 | Corral Ruano, Roberto | ... | Carballido Mateo, Ignacio |
-| 3 | García Manzanares, Mariano | ... | Alonso Palazón, Jesús |
+| 3 | García Manzanares, Mariano | 1 - 0 | Alonso Palazón, Jesús |
 | 4 | Magán González, Alberto | ... | Díaz Martín, Javier |
 
 ### Ronda 3
