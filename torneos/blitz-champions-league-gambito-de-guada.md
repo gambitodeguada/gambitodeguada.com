@@ -89,6 +89,7 @@ Cada enfrentamiento de la fase de eliminatorias es un match a doble partida:
 
 Si el match termina empatado (1-1) tras las dos partidas, se disputará una partida de Armagedón para desempatar:
 
+- Ritmo de juego: 4+3 para blancas y 3+2 para negras (4 minutos + 3 segundos de incremento por jugada para blancas; 3 minutos + 2 segundos para negras).
 - Las negras ganan el Armagedón si empatan o ganan la partida.
 - El jugador que haya quedado primero de su grupo en la fase de grupos será quien elija el color en el Armagedón.
 - Si ambos jugadores del match quedaron primeros de grupo, o ambos quedaron segundos de grupo, el color se decidirá por sorteo.
