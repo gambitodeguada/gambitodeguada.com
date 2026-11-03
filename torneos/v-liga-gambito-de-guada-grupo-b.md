@@ -8,9 +8,9 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 2            | 1.5            | 0.5       |
-| 2 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 1            | 1              | 0.5       |
-| 3 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1            | 1              | 0.5       |
+| 1 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 2            | 2              | 1         |
+| 2 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 2            | 1.5            | 0.5       |
+| 3 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 2            | 1              | 0         |
 | 4 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 2            | 1              | 0         |
 | 5 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
 | 6 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1            | 0.5            | 0         |
@@ -35,7 +35,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Sierra Grasa, Ismael | ... | Iglesias Ortiz, Iñaki |
+| 1 | Sierra Grasa, Ismael | 0 - 1 | Iglesias Ortiz, Iñaki |
 | 2 | Gómez Resco, Javier | 0 - 1 | Gómez Vázquez, Javier |
 | 3 | García Pardo, Efrén | 1 - 0 | De Pablo Peña, Miguel Ángel |
 | 4 | De Las Heras Fernández, Sergio | ... | Martínez Sanz, Ignacio |
