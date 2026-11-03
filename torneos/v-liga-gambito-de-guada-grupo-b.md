@@ -8,12 +8,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
-| 1 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 1            | 1              | 0.5       |
-| 2 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1            | 1              | 0.5       |
-| 3 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 1            | 1              | 0.5       |
-| 4 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
-| 5 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1            | 0.5            | 0         |
-| 6 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 1            | 0.5            | 0         |
+| 1 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 2            | 1.5            | 0.5       |
+| 2 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 1            | 1              | 0.5       |
+| 3 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1            | 1              | 0.5       |
+| 4 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 2            | 1              | 0         |
+| 5 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
+| 6 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1            | 0.5            | 0         |
 | 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 1            | 0              | -0.5      |
 | 8 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 2            | 0              | -1        |
 {: .liga-ascensos}
@@ -37,7 +37,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 |----------|-------------|---------------|------------|
 | 1 | Sierra Grasa, Ismael | ... | Iglesias Ortiz, Iñaki |
 | 2 | Gómez Resco, Javier | 0 - 1 | Gómez Vázquez, Javier |
-| 3 | García Pardo, Efrén | ... | De Pablo Peña, Miguel Ángel |
+| 3 | García Pardo, Efrén | 1 - 0 | De Pablo Peña, Miguel Ángel |
 | 4 | De Las Heras Fernández, Sergio | ... | Martínez Sanz, Ignacio |
 
 ### Ronda 3
