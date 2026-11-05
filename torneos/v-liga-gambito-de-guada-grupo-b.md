@@ -10,11 +10,11 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 |---|-------------|--------------|----------------|-----------|
 | 1 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 2            | 2              | 1         |
 | 2 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 2            | 1.5            | 0.5       |
-| 3 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 2            | 1              | 0         |
-| 4 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 2            | 1              | 0         |
-| 5 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
-| 6 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1            | 0.5            | 0         |
-| 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 1            | 0              | -0.5      |
+| 3 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 2            | 1.5            | 0.5       |
+| 4 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 2            | 1              | 0         |
+| 5 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 2            | 1              | 0         |
+| 6 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
+| 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 2            | 0              | -1        |
 | 8 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 2            | 0              | -1        |
 {: .liga-ascensos}
 
@@ -38,7 +38,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | 1 | Sierra Grasa, Ismael | 0 - 1 | Iglesias Ortiz, Iñaki |
 | 2 | Gómez Resco, Javier | 0 - 1 | Gómez Vázquez, Javier |
 | 3 | García Pardo, Efrén | 1 - 0 | De Pablo Peña, Miguel Ángel |
-| 4 | De Las Heras Fernández, Sergio | ... | Martínez Sanz, Ignacio |
+| 4 | De Las Heras Fernández, Sergio | 0 - 1 | Martínez Sanz, Ignacio |
 
 ### Ronda 3
 
