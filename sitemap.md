@@ -32,6 +32,7 @@ title: Mapa del sitio
 - [Política de Torneos](/politica-torneos.html)
 
 ## Torneos Abiertos
+- [Liga Online por Equipos](/torneos/liga-online-por-equipos)
 - [II Open Gambito de Guada (Sub 2400)](/torneos/ii-open-gambito-de-guada)
 - [I Open Gambito de Guada](https://gambitodeguada.com/torneos/i-open-gambito-de-guada)
 - [I Torneo Ajedrez en Femenino](/torneos/i-torneo-ajedrez-en-femenino)
