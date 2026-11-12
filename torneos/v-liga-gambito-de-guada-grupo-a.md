@@ -9,13 +9,13 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
 | 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 4            | 3.5            | 1.5       |
-| 2 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 2            | 2              | 1         |
-| 3 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 2            | 1              | 0         |
-| 4 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 4            | 1              | -1        |
-| 5 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 2            | 0.5            | -0.5      |
-| 6 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 2            | 0.5            | -0.5      |
-| 7 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 2            | 0.5            | -0.5      |
-| 8 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 0            | 0              | 0         |
+| 2 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 3            | 2              | 0.5       |
+| 3 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 1            | 1              | 0.5       |
+| 4 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 2            | 1              | 0         |
+| 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 4            | 1              | -1        |
+| 6 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 2            | 0.5            | -0.5      |
+| 7 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 2            | 0.5            | -0.5      |
+| 8 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 2            | 0.5            | -0.5      |
 {: .liga-descensos}
 
 **Descensos**: los tres últimos clasificados (filas en rojo) descienden al Grupo B.
@@ -26,7 +26,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Magán González, Alberto | ... | Urosa Lozano, Javier |
+| 1 | Magán González, Alberto | 0 - 1 | Urosa Lozano, Javier |
 | 2 | Díaz Martín, Javier | ½-½ | García Manzanares, Mariano |
 | 3 | Alonso Palazón, Jesús | ½-½ | Corral Ruano, Roberto |
 | 4 | Carballido Mateo, Ignacio | 0 - 1 | Del Amo Caballero, Sergio |
