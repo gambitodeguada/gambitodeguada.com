@@ -59,8 +59,6 @@ El equipo B empató sus dos encuentros, con Cabanillas 4 Torres A y con el Club 
 
 Mariano García Manzanares debutó en el equipo C, con dos victorias.
 
-Completan las plantillas, pendientes de debutar, [Leo del Amo Galve](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-b/del-amo-galve-leo) en el equipo B y [Noa del Amo Galve](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-c/del-amo-galve-noa) en el equipo C.
-
 ## Clasificación tras la segunda jornada
 
 | Pos. | Equipo | Puntos | Tablero |
