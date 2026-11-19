@@ -9,13 +9,13 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
 | 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 4            | 3.5            | 1.5       |
-| 2 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 3            | 2              | 0.5       |
-| 3 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 1            | 1              | 0.5       |
+| 2 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2            | 2              | 1         |
+| 3 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 3            | 2              | 0.5       |
 | 4 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 2            | 1              | 0         |
 | 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 4            | 1              | -1        |
 | 6 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 2            | 0.5            | -0.5      |
-| 7 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 2            | 0.5            | -0.5      |
-| 8 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 2            | 0.5            | -0.5      |
+| 7 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 2            | 0.5            | -0.5      |
+| 8 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 3            | 0.5            | -1        |
 {: .liga-descensos}
 
 **Descensos**: los tres últimos clasificados (filas en rojo) descienden al Grupo B.
@@ -53,7 +53,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 1 | Urosa Lozano, Javier | ... | Corral Ruano, Roberto |
+| 1 | Urosa Lozano, Javier | 1 - 0 | Corral Ruano, Roberto |
 | 2 | García Manzanares, Mariano | 1 - 0 | Del Amo Caballero, Sergio |
 | 3 | Magán González, Alberto | 1 - 0 | Carballido Mateo, Ignacio |
 | 4 | Díaz Martín, Javier | ... | Alonso Palazón, Jesús |
