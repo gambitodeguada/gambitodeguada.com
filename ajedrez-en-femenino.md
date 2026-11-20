@@ -31,7 +31,7 @@ El programa cuenta con dos líneas de actuación:
 
 
 - [Curso gratuito de ajedrez para niñas y mujeres a partir de Octubre de 2026](/cursos/2026-curso-ajedrez-en-femenino).
-- Torneo de ajedrez Femenino.
+- [II Torneo de ajedrez Femenino, el 13 de diciembre de 2026](/torneos/ii-torneo-ajedrez-en-femenino).
 
 ## Ediciones anteriores
 
