@@ -14,7 +14,7 @@ Es un torneo de participación exclusivamente femenina. Podrá participar cualqu
 
 Domingo 13 de diciembre de 2026, de 10:00 a 13:00.
 
-Para inscribirse rellenar el siguiente [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup). Consultar [bases](#bases) más abajo.
+Para inscribirse, las jugadoras deben rellenar el siguiente [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup). [Ver inscritas](https://app.chesstournament64.com/public/tournaments/22/). Consultar las [bases](#bases) más abajo.
 
 ## Bases
 
@@ -22,7 +22,7 @@ Para inscribirse rellenar el siguiente [formulario de inscripción](https://app.
 
 Es un torneo de participación exclusivamente femenina. Podrá participar cualquier niña o adulta, independientemente de la edad y el nivel.
 
-Todos los niveles.
+Cualquier nivel.
 
 ### Fecha
 
@@ -42,7 +42,7 @@ El sistema de juego será suizo a 5 rondas. El ritmo de juego será de 10 minuto
 
 ### Organización
 
-Este campeonato está organizado por el [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/).
+La organización de este campeonato corresponde al [Club Ajedrez Gambito de Guada](https://gambitodeguada.com/).
 
 Colabora la [Concejalía de Igualdad del Ayuntamiento de Guadalajara](https://www.guadalajara.es/es/ayuntamiento/servicios/igualdad/).
 
@@ -52,7 +52,7 @@ El torneo es gratuito. No tiene coste de inscripción.
 
 ### Inscripciones
 
-Para inscribirse rellenar el [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup).
+Para inscribirse, las jugadoras deben rellenar el [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup). [Ver inscritas](https://app.chesstournament64.com/public/tournaments/22/).
 
 ### Premios
 
