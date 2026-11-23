@@ -17,6 +17,11 @@ El equipo C cayó ante UNED A y empató después con UNED B. Termina tercero, co
 - Ronda 5: **UNED A 2,5 - 1,5 Gambito de Guada C**
 - Ronda 6: **Gambito de Guada C 2 - 2 UNED B**
 
+<figure>
+  <img src="/assets/campeonato-provincial-por-equipos-guadalajara-2026-gambito-c-tercer-puesto.jpg" alt="El Gambito de Guada C recoge la copa del tercer puesto del Campeonato Provincial por Equipos 2026">
+  <figcaption>El Gambito de Guada C recoge la copa del tercer puesto</figcaption>
+</figure>
+
 ### [Gambito de Guada A](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-a) — 4º clasificado
 
 El equipo A perdió contra el Club Ajedrez Azuqueca y ganó el derbi al Gambito de Guada B. Queda cuarto, con 6 puntos de match y 13,5 de tablero.
