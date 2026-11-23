@@ -14,7 +14,7 @@ Es un torneo de participación exclusivamente femenina. Podrá participar cualqu
 
 Domingo 13 de diciembre de 2026, de 10:00 a 13:00.
 
-El formulario de inscripción se publicará próximamente. Consultar [bases](#bases) más abajo.
+Para inscribirse rellenar el siguiente [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup). Consultar [bases](#bases) más abajo.
 
 ## Bases
 
@@ -52,7 +52,7 @@ El torneo es gratuito. No tiene coste de inscripción.
 
 ### Inscripciones
 
-Próximamente.
+Para inscribirse rellenar el [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup).
 
 ### Premios
 
