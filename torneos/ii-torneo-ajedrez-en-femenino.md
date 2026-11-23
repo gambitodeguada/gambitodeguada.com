@@ -74,6 +74,10 @@ Para inscribirse, las jugadoras deben rellenar el [formulario de inscripción](h
 - Árbitro Principal: Jesús Alonso Palazón ID: [535072300](https://ratings.fide.com/profile/535072300)
 - Árbitro Adjunto: Pablo Abánades García ID: [535072270](https://ratings.fide.com/profile/535072270)
 
-### Otras bases
-
-El desempate, el programa de emparejamiento y el resto de normas de juego se publicarán próximamente.
+### Sistema de desempate
+- BH-C1 Buchholz · Quitar peores 1
+- BH Buchholz
+- SB Sonneborn-Berger
+- PS Progresivo
+- DE Enfrentamiento directo
+- WON Partidas ganadas sobre el tablero
