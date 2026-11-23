@@ -57,6 +57,10 @@ El equipo B descansó en la ronda 5 y perdió el derbi contra el Gambito de Guad
 - [Juan Carlos Aragonés Congostrina](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-c/aragones-congostrina-juan-car) — 2/2 pts
 - [Mariano García Manzanares](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-c/garcia-manzanares-mariano) — 4/4 pts
 
+## Premios individuales
+
+[Roberto Corral Ruano](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-b/corral-ruano-roberto), del Gambito de Guada B, recibió el premio al mejor tablero 3. [Iñaki Iglesias Ortiz](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-b/iglesias-ortiz-inaki), también del equipo B, el premio al mejor tablero 4. [Mariano García Manzanares](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-c/garcia-manzanares-mariano), del Gambito de Guada C, el premio al mejor suplente.
+
 ## Clasificación final
 
 | Pos. | Equipo | Puntos | Tablero |
