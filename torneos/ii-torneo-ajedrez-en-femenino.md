@@ -81,7 +81,3 @@ Para inscribirse, las jugadoras deben rellenar el [formulario de inscripción](h
 - PS Progresivo
 - DE Enfrentamiento directo
 - WON Partidas ganadas sobre el tablero
-
-### Otras bases
-
-El programa de emparejamiento y el resto de normas de juego se publicarán próximamente.
