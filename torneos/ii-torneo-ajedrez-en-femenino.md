@@ -56,11 +56,23 @@ Próximamente.
 
 ### Premios
 
-Próximamente.
+#### Categoría Absoluta
+- 1ª : Trofeo
+- 2ª : Trofeo
+- 3ª : Trofeo
 
-### Equipo arbitral
+#### Categoría Veteranas ( >60 años)
+- 1ª : Trofeo
 
-Próximamente.
+#### Categoría Sub18
+- 1ª : Trofeo
+- 2ª : Trofeo
+- 3ª : Trofeo
+
+### Equipo Arbitral
+
+- Árbitro Principal: Jesús Alonso Palazón ID: [535072300](https://ratings.fide.com/profile/535072300)
+- Árbitro Adjunto: Pablo Abánades García ID: [535072270](https://ratings.fide.com/profile/535072270)
 
 ### Otras bases
 
