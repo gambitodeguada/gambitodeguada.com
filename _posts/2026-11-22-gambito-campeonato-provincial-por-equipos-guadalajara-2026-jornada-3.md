@@ -66,6 +66,16 @@ El equipo B descansó en la ronda 5 y perdió el derbi contra el Gambito de Guad
 
 [Roberto Corral Ruano](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-b/corral-ruano-roberto), del Gambito de Guada B, recibió el premio al mejor tablero 3. [Iñaki Iglesias Ortiz](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-b/iglesias-ortiz-inaki), también del equipo B, el premio al mejor tablero 4. [Mariano García Manzanares](https://info64.org/team/campeonato-provincial-por-equipos-guadalajara-2026/gambito-de-guada-c/garcia-manzanares-mariano), del Gambito de Guada C, el premio al mejor suplente.
 
+<figure>
+  <img src="/assets/campeonato-provincial-por-equipos-guadalajara-2026-roberto-corral-mejor-tablero-3.jpg" alt="Roberto Corral Ruano recoge el premio al mejor tablero 3 del Campeonato Provincial por Equipos 2026">
+  <figcaption>Roberto Corral Ruano recoge el premio al mejor tablero 3</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/campeonato-provincial-por-equipos-guadalajara-2026-inaki-iglesias-mejor-tablero-4.jpg" alt="Iñaki Iglesias Ortiz recoge el premio al mejor tablero 4 del Campeonato Provincial por Equipos 2026">
+  <figcaption>Iñaki Iglesias Ortiz recoge el premio al mejor tablero 4</figcaption>
+</figure>
+
 ## Clasificación final
 
 | Pos. | Equipo | Puntos | Tablero |
