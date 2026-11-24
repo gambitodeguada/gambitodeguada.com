@@ -14,8 +14,8 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | 4 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 2            | 1              | 0         |
 | 5 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 2            | 1              | 0         |
 | 6 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
-| 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 2            | 0              | -1        |
-| 8 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 2            | 0              | -1        |
+| 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 3            | 1              | -0.5      |
+| 8 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 3            | 0              | -1.5      |
 {: .liga-ascensos}
 
 **Ascensos**: los tres primeros clasificados (filas en verde) ascienden al Grupo A.
@@ -72,7 +72,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Sierra Grasa, Ismael | ... | García Pardo, Efrén |
-| 2 | De Las Heras Fernández, Sergio | ... | Gómez Resco, Javier |
+| 2 | De Las Heras Fernández, Sergio | 1 - 0 | Gómez Resco, Javier |
 | 3 | Martínez Sanz, Ignacio | ... | Iglesias Ortiz, Iñaki |
 | 4 | De Pablo Peña, Miguel Ángel | ... | Gómez Vázquez, Javier |
 
