@@ -9,12 +9,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
 |---|-------------|--------------|----------------|-----------|
 | 1 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 3            | 3              | 1.5       |
-| 2 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 2            | 1.5            | 0.5       |
+| 2 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 4            | 2              | 0         |
 | 3 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 2            | 1.5            | 0.5       |
-| 4 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 2            | 1              | 0         |
-| 5 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 2            | 1              | 0         |
+| 4 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 2            | 1.5            | 0.5       |
+| 5 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 2            | 1              | 0         |
 | 6 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 2            | 1              | 0         |
-| 7 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 3            | 1              | -0.5      |
+| 7 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 3            | 1              | -0.5      |
 | 8 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 4            | 0              | -2        |
 {: .liga-ascensos}
 
@@ -45,7 +45,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Martínez Sanz, Ignacio | ... | Sierra Grasa, Ismael |
-| 2 | De Pablo Peña, Miguel Ángel | ... | De Las Heras Fernández, Sergio |
+| 2 | De Pablo Peña, Miguel Ángel | 0 - 1 | De Las Heras Fernández, Sergio |
 | 3 | Gómez Vázquez, Javier | ... | García Pardo, Efrén |
 | 4 | Iglesias Ortiz, Iñaki | 1 - 0 | Gómez Resco, Javier |
 
