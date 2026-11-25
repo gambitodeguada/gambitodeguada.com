@@ -1,0 +1,15 @@
+<configuration>
+
+    <!-- Logs go to the standard error: the standard output is the page when no file is given -->
+    <appender name="STDERR" class="ch.qos.logback.core.ConsoleAppender">
+        <target>System.err</target>
+        <encoder>
+            <pattern>%cyan(%d{HH:mm:ss.SSS}) %gray([%thread]) %highlight(%-5level) %magenta(%logger{36}) - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="warn">
+        <appender-ref ref="STDERR" />
+    </root>
+    <!--<logger name="io.micronaut.http.client" level="TRACE"/>-->
+</configuration>

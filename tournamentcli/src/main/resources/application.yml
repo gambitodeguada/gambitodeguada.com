@@ -1,0 +1,17 @@
+micronaut:
+  application:
+    name: tournamentcli
+chesstournament64:
+  # The API writes names without accents, as the FIDE does. The page shows the name given here for a FIDE id.
+  names:
+    "32068131": "Magán González, Alberto"
+    "535072288": "Díaz Martín, Javier"
+    "535072300": "Alonso Palazón, Jesús"
+    "553006135": "García Manzanares, Mariano"
+    "54728835": "Iglesias Ortiz, Iñaki"
+    "535072296": "García Pardo, Efrén"
+    "32040377": "Martínez Sanz, Ignacio"
+    "2219123": "De Pablo Peña, Miguel Ángel"
+    "535030240": "Gómez Vázquez, Javier"
+    "24514608": "De Las Heras Fernández, Sergio"
+    "535085614": "Gómez Resco, Javier"
