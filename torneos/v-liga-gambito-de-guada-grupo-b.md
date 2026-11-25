@@ -78,7 +78,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 
 ### Ronda 7
 
-Emparejamientos pendientes.
+| **Mesa** | **Blancas** | **Resultado** | **Negras** |
+|----------|-------------|---------------|------------|
+| 1 | Gómez Vázquez, Javier | ... | Sierra Grasa, Ismael |
+| 2 | Iglesias Ortiz, Iñaki | ... | De Pablo Peña, Miguel Ángel |
+| 3 | Gómez Resco, Javier | ... | Martínez Sanz, Ignacio |
+| 4 | García Pardo, Efrén | ... | De Las Heras Fernández, Sergio |
 
 ## Información del Torneo
 
