@@ -6,16 +6,16 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 ### Clasificación
 
-| # | **Jugador** | **Partidas** | **Puntuación** | **Media** |
-|---|-------------|--------------|----------------|-----------|
-| 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 4            | 3.5            | 1.5       |
-| 2 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2            | 2              | 1         |
-| 3 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 3            | 2              | 0.5       |
-| 4 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 2            | 1              | 0         |
-| 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 4            | 1              | -1        |
-| 6 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 2            | 0.5            | -0.5      |
-| 7 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 2            | 0.5            | -0.5      |
-| 8 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 3            | 0.5            | -1        |
+| # | **Jugador** | **Puntuación** | **Partidas** | **Media** | **DE** | **KS** | **SB** | **WIN** |
+|---|-------------|----------------|--------------|-----------|--------|--------|--------|---------|
+| 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 3.5            | 4            | 1.5       |        | 0      | 2.75   | 3       |
+| 2 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2              | 2            | 1         | 1      | 0      | 2.5    | 2       |
+| 3 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 2              | 3            | 0.5       | 0      | 0      | 1.5    | 2       |
+| 4 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 1              | 2            | 0         | 1      | 0      | 1      | 1       |
+| 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 1              | 4            | -1        | 0      | 0      | 0.5    | 1       |
+| 6 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 0.5            | 2            | -0.5      |        | 0.5    | 1.75   | 0       |
+| 7 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 0.5            | 2            | -0.5      |        | 0      | 0.25   | 0       |
+| 8 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 0.5            | 3            | -1        |        | 0      | 0.25   | 0       |
 {: .liga-descensos}
 
 **Descensos**: los tres últimos clasificados (filas en rojo) descienden al Grupo B.
@@ -97,6 +97,15 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 - Victoria: 1 punto
 - Tablas: 0.5 puntos
 - Derrota: 0 puntos
+
+### Desempates
+
+En caso de empate a puntos se aplican, por este orden:
+
+1. **DE**: Encuentro directo
+2. **KS**: Sistema Koya: puntos contra los jugadores con el 50% o más de los puntos
+3. **SB**: Sonneborn-Berger
+4. **WIN**: Número de victorias
 
 ### Leyenda de Resultados
 
