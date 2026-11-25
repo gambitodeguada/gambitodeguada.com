@@ -15,8 +15,10 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 1              | 4            | -1        |        | 0      | 0.5    | 1       |
 | 6 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 0.5            | 2            | -0.5      | 0.5    | 0      | 0.25   | 0       |
 | 7 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 0.5            | 3            | -1        | 0.5    | 0      | 0.25   | 0       |
-| 8 | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) | 0              | 0            | 0         |        |        |        |         |
+| – | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) – | –              | –            | –         | –      | –      | –      | –       |
 {: .liga-descensos}
+
+–: se retiró antes de jugar la mitad de las partidas; los resultados siguen en la tabla cruzada y no cuentan para la clasificación (Reglamento General de Competiciones de la FIDE, 6.6). El rendimiento sigue usando todas las partidas.
 
 **Descensos**: los tres últimos clasificados (filas en rojo) descienden al Grupo B.
 
@@ -27,7 +29,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Magán González, Alberto | 0 - 1 | Urosa Lozano, Javier |
-| 2 | Díaz Martín, Javier | ½-½ | García Manzanares, Mariano |
+| 2 | Díaz Martín, Javier – | ½-½ | García Manzanares, Mariano |
 | 3 | Alonso Palazón, Jesús | ½-½ | Corral Ruano, Roberto |
 | 4 | Carballido Mateo, Ignacio | 0 - 1 | Del Amo Caballero, Sergio |
 
@@ -38,7 +40,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 1 | Urosa Lozano, Javier | ... | Del Amo Caballero, Sergio |
 | 2 | Corral Ruano, Roberto | 0 - 1 | Carballido Mateo, Ignacio |
 | 3 | García Manzanares, Mariano | 1 - 0 | Alonso Palazón, Jesús |
-| 4 | Magán González, Alberto | 1 - 0 | Díaz Martín, Javier |
+| 4 | Magán González, Alberto | 1 - 0 | Díaz Martín, Javier – |
 
 ### Ronda 3
 
@@ -47,7 +49,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 2 | Alonso Palazón, Jesús | ... | Magán González, Alberto |
 | 3 | Carballido Mateo, Ignacio | 0 - 1 | García Manzanares, Mariano |
 | 4 | Del Amo Caballero, Sergio | ... | Corral Ruano, Roberto |
-| 5 | Díaz Martín, Javier | - - + | Urosa Lozano, Javier |
+| 5 | Díaz Martín, Javier – | - / + | Urosa Lozano, Javier |
 
 ### Ronda 4
 
@@ -56,7 +58,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 1 | Urosa Lozano, Javier | 1 - 0 | Corral Ruano, Roberto |
 | 2 | García Manzanares, Mariano | 1 - 0 | Del Amo Caballero, Sergio |
 | 3 | Magán González, Alberto | 1 - 0 | Carballido Mateo, Ignacio |
-| 4 | Díaz Martín, Javier | - - + | Alonso Palazón, Jesús |
+| 4 | Díaz Martín, Javier – | - / + | Alonso Palazón, Jesús |
 
 ### Ronda 5
 
@@ -65,7 +67,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 1 | Alonso Palazón, Jesús | ... | Urosa Lozano, Javier |
 | 3 | Del Amo Caballero, Sergio | ... | Magán González, Alberto |
 | 4 | Corral Ruano, Roberto | ... | García Manzanares, Mariano |
-| 5 | Carballido Mateo, Ignacio | + - - | Díaz Martín, Javier |
+| 5 | Carballido Mateo, Ignacio | + / - | Díaz Martín, Javier – |
 
 ### Ronda 6
 
@@ -74,7 +76,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 1 | Urosa Lozano, Javier | ... | García Manzanares, Mariano |
 | 2 | Magán González, Alberto | ... | Corral Ruano, Roberto |
 | 4 | Alonso Palazón, Jesús | ... | Carballido Mateo, Ignacio |
-| 5 | Díaz Martín, Javier | - - + | Del Amo Caballero, Sergio |
+| 5 | Díaz Martín, Javier – | - / + | Del Amo Caballero, Sergio |
 
 ### Ronda 7
 
@@ -83,7 +85,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | 1 | Carballido Mateo, Ignacio | ... | Urosa Lozano, Javier |
 | 2 | Del Amo Caballero, Sergio | ... | Alonso Palazón, Jesús |
 | 4 | García Manzanares, Mariano | ... | Magán González, Alberto |
-| 5 | Corral Ruano, Roberto | + - - | Díaz Martín, Javier |
+| 5 | Corral Ruano, Roberto | + / - | Díaz Martín, Javier – |
 
 ## Información del Torneo
 
@@ -113,6 +115,8 @@ En caso de empate a puntos se aplican, por este orden:
 - **0-1**: Victoria de las negras
 - **½-½**: Tablas
 - **...**: Partida pendiente
+- **+ / -**: Victoria de las blancas por incomparecencia
+- **- / +**: Victoria de las negras por incomparecencia
 
 ### Notas
 

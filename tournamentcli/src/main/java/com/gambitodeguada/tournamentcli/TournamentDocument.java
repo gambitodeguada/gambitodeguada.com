@@ -30,7 +30,12 @@ public record TournamentDocument(Tournament tournament,
     }
 
     @Serdeable
-    public record Player(String id, String name, @Nullable Long fideId) {
+    public record Player(String id, String name, @Nullable Long fideId, @Nullable Integer withdrawnFromRound) {
+
+        /** The player plays no round from {@code withdrawnFromRound} on. */
+        public boolean withdrawn() {
+            return withdrawnFromRound != null;
+        }
     }
 
     @Serdeable
@@ -39,12 +44,20 @@ public record TournamentDocument(Tournament tournament,
 
     @Serdeable
     public record StandingRow(int rank, String playerId, double points, int games, List<TiebreakValue> tiebreaks,
-                              boolean promoted, boolean relegated) {
+                              boolean promoted, boolean relegated, @Nullable Boolean resultsCounted) {
 
         /** The value of a tie-break, or null when it does not apply to the row. */
         @Nullable
         public Double tiebreak(String code) {
             return tiebreaks.stream().filter(t -> t.code().equals(code)).findFirst().map(TiebreakValue::value).orElse(null);
+        }
+
+        /**
+         * False when the player withdrew before half the games: the row is last and its points, games and
+         * tie-breaks are not counted. The API leaves the field out when the results count.
+         */
+        public boolean countsResults() {
+            return !Boolean.FALSE.equals(resultsCounted);
         }
     }
 

@@ -9,8 +9,10 @@ import jakarta.inject.Singleton;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -32,6 +34,9 @@ public class LeaguePageRenderer {
             "WIN", "Número de victorias",
             "BH", "Buchholz");
     private static final String[] NUMBER_WORDS = {"cero", "un", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho"};
+    /** What Chess Tournament 64 prints instead of the rank and the score of a player whose results do not count. */
+    private static final String WITHDRAWN = "\u2013";
+    private static final String WITHDRAWN_NOTE = WITHDRAWN + ": se retiró antes de jugar la mitad de las partidas; los resultados siguen en la tabla cruzada y no cuentan para la clasificación (Reglamento General de Competiciones de la FIDE, 6.6). El rendimiento sigue usando todas las partidas.";
 
     private final PlayerNames playerNames;
 
@@ -47,6 +52,7 @@ public class LeaguePageRenderer {
         }
         Map<String, Player> players = document.players().stream().collect(Collectors.toMap(Player::id, Function.identity()));
         List<StandingRow> standings = document.standings().players();
+        Set<String> marked = markedPlayers(document.players(), standings);
         Matcher group = GROUP_NAME.matcher(tournament.name());
         Character groupLetter = group.matches() ? group.group(1).charAt(0) : null;
         List<String> movements = movements(standings, groupLetter);
@@ -66,16 +72,23 @@ public class LeaguePageRenderer {
         tiebreaks.forEach(code -> sb.append("-".repeat(code.length() + 6)).append('|'));
         sb.append('\n');
         for (StandingRow row : standings) {
+            // The API already drops a not-counted player's games from every other row. Chess Tournament 64
+            // prints the marker instead of that row's rank and figures; the games stay in the rounds below.
+            boolean counted = row.countsResults();
             double average = row.points() - row.games() / 2.0;
-            sb.append("| ").append(row.rank())
-                    .append(" | ").append(link(player(players, row.playerId())))
-                    .append(" | ").append(String.format("%-14s", number(row.points())))
-                    .append(" | ").append(String.format("%-12s", row.games()))
-                    .append(" | ").append(String.format("%-9s", number(average)))
+            sb.append("| ").append(counted ? Integer.toString(row.rank()) : WITHDRAWN)
+                    .append(" | ").append(linkedName(player(players, row.playerId()), marked))
+                    .append(" | ").append(String.format("%-14s", counted ? number(row.points()) : WITHDRAWN))
+                    .append(" | ").append(String.format("%-12s", counted ? Integer.toString(row.games()) : WITHDRAWN))
+                    .append(" | ").append(String.format("%-9s", counted ? number(average) : WITHDRAWN))
                     .append(" |");
             for (String code : tiebreaks) {
-                Double value = row.tiebreak(code);
-                sb.append(' ').append(String.format("%-" + (code.length() + 4) + "s", value != null ? number(value) : "")).append(" |");
+                String value = WITHDRAWN;
+                if (counted) {
+                    Double tiebreak = row.tiebreak(code);
+                    value = tiebreak != null ? number(tiebreak) : "";
+                }
+                sb.append(' ').append(String.format("%-" + (code.length() + 4) + "s", value)).append(" |");
             }
             sb.append('\n');
         }
@@ -85,6 +98,9 @@ public class LeaguePageRenderer {
             sb.append("{:").append(promoted > 0 ? " .liga-ascensos" : "").append(relegated > 0 ? " .liga-descensos" : "").append("}\n");
         }
         sb.append('\n');
+        if (!marked.isEmpty()) {
+            sb.append(WITHDRAWN_NOTE).append("\n\n");
+        }
         if (promoted > 0) {
             sb.append("**Ascensos**: ").append(promotion(promoted, groupLetter, true)).append(".\n\n");
         }
@@ -104,16 +120,16 @@ public class LeaguePageRenderer {
             sb.append("|----------|-------------|---------------|------------|\n");
             for (Game game : round.games()) {
                 sb.append("| ").append(game.board())
-                        .append(" | ").append(playerNames.nameOf(player(players, game.white())))
+                        .append(" | ").append(plainName(player(players, game.white()), marked))
                         .append(" | ").append(result(game))
-                        .append(" | ").append(playerNames.nameOf(player(players, game.black())))
+                        .append(" | ").append(plainName(player(players, game.black()), marked))
                         .append(" |\n");
             }
             sb.append('\n');
             if (!round.byes().isEmpty()) {
                 sb.append("**Descansa**: ")
                         .append(round.byes().stream()
-                                .map(bye -> playerNames.nameOf(player(players, bye.playerId())))
+                                .map(bye -> plainName(player(players, bye.playerId()), marked))
                                 .collect(Collectors.joining("; ")))
                         .append("\n\n");
             }
@@ -147,7 +163,12 @@ public class LeaguePageRenderer {
         sb.append("- **1-0**: Victoria de las blancas\n");
         sb.append("- **0-1**: Victoria de las negras\n");
         sb.append("- **½-½**: Tablas\n");
-        sb.append("- **...**: Partida pendiente\n\n");
+        sb.append("- **...**: Partida pendiente\n");
+        if (hasForfeit(document)) {
+            sb.append("- **+ / -**: Victoria de las blancas por incomparecencia\n");
+            sb.append("- **- / +**: Victoria de las negras por incomparecencia\n");
+        }
+        sb.append('\n');
 
         sb.append("### Notas\n\n");
         for (String movement : movements) {
@@ -217,7 +238,36 @@ public class LeaguePageRenderer {
         }
         String white = score(game.whiteResult());
         String black = score(game.blackResult());
+        if (isForfeit(game.whiteResult()) || isForfeit(game.blackResult())) {
+            return white + " / " + black;
+        }
         return white.equals("½") && black.equals("½") ? "½-½" : white + " - " + black;
+    }
+
+    private static boolean isForfeit(String trfResult) {
+        return "+".equals(trfResult) || "-".equals(trfResult);
+    }
+
+    private static boolean hasForfeit(TournamentDocument document) {
+        return document.rounds().stream()
+                .flatMap(round -> round.games().stream())
+                .anyMatch(game -> isForfeit(game.whiteResult()) || isForfeit(game.blackResult()));
+    }
+
+    /** Players who withdrew, or whose standing row the API says is not counted. */
+    private static Set<String> markedPlayers(List<Player> players, List<StandingRow> standings) {
+        Set<String> marked = new HashSet<>();
+        for (Player player : players) {
+            if (player.withdrawn()) {
+                marked.add(player.id());
+            }
+        }
+        for (StandingRow row : standings) {
+            if (!row.countsResults()) {
+                marked.add(row.playerId());
+            }
+        }
+        return marked;
     }
 
     /** A result as the FIDE TRF writes it: W, D and L are a win, a draw and a loss that are not rated. */
@@ -230,9 +280,15 @@ public class LeaguePageRenderer {
         };
     }
 
-    private String link(Player player) {
+    private String linkedName(Player player, Set<String> marked) {
         String name = playerNames.nameOf(player);
-        return player.fideId() != null ? "[" + name + "](" + FIDE_PROFILE + player.fideId() + ")" : name;
+        String linked = player.fideId() != null ? "[" + name + "](" + FIDE_PROFILE + player.fideId() + ")" : name;
+        return marked.contains(player.id()) ? linked + " " + WITHDRAWN : linked;
+    }
+
+    private String plainName(Player player, Set<String> marked) {
+        String name = playerNames.nameOf(player);
+        return marked.contains(player.id()) ? name + " " + WITHDRAWN : name;
     }
 
     private static Player player(Map<String, Player> players, String id) {
