@@ -8,13 +8,13 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 
 | # | **Jugador** | **Puntuación** | **Partidas** | **Media** | **DE** | **KS** | **WIN** | **SB** |
 |---|-------------|----------------|--------------|-----------|--------|--------|---------|--------|
-| 1 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 3              | 5            | 0.5       | 1      | 0      | 3       | 4      |
-| 2 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 3              | 4            | 1         | 0      | 0      | 3       | 2      |
-| 3 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1.5            | 2            | 0.5       | 0.5    | 0      | 1       | 3.75   |
+| 1 | [De Las Heras Fernández, Sergio](https://ratings.fide.com/profile/24514608) | 4              | 6            | 1         |        | 0      | 4       | 5      |
+| 2 | [Iglesias Ortiz, Iñaki](https://ratings.fide.com/profile/54728835) | 3              | 4            | 1         |        | 0      | 3       | 2      |
+| 3 | [Martínez Sanz, Ignacio](https://ratings.fide.com/profile/32040377) | 1.5            | 2            | 0.5       | 0.5    | 1      | 1       | 4.75   |
 | 4 | [García Pardo, Efrén](https://ratings.fide.com/profile/535072296) | 1.5            | 2            | 0.5       | 0.5    | 0      | 1       | 1.75   |
-| 5 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1              | 2            | 0         |        | 0      | 1       | 3      |
+| 5 | [Sierra Grasa, Ismael](https://ratings.fide.com/profile/94792836) | 1              | 2            | 0         |        | 1      | 1       | 4      |
 | 6 | [De Pablo Peña, Miguel Ángel](https://ratings.fide.com/profile/2219123) | 1              | 3            | -0.5      |        | 0      | 1       | 0      |
-| 7 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 1              | 2            | 0         |        | 0      | 1       | 0      |
+| 7 | [Gómez Vázquez, Javier](https://ratings.fide.com/profile/535030240) | 1              | 3            | -0.5      |        | 0      | 1       | 0      |
 | 8 | [Gómez Resco, Javier](https://ratings.fide.com/profile/535085614) | 0              | 4            | -2        |        | 0      | 0       | 0      |
 {: .liga-ascensos}
 
@@ -55,7 +55,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo B de la V L
 |----------|-------------|---------------|------------|
 | 1 | Sierra Grasa, Ismael | ... | Gómez Resco, Javier |
 | 2 | García Pardo, Efrén | ... | Iglesias Ortiz, Iñaki |
-| 3 | De Las Heras Fernández, Sergio | ... | Gómez Vázquez, Javier |
+| 3 | De Las Heras Fernández, Sergio | 1 - 0 | Gómez Vázquez, Javier |
 | 4 | Martínez Sanz, Ignacio | ... | De Pablo Peña, Miguel Ángel |
 
 ### Ronda 5
