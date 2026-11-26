@@ -8,11 +8,11 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | # | **Jugador** | **Puntuación** | **Partidas** | **Media** | **DE** | **KS** | **SB** | **WIN** |
 |---|-------------|----------------|--------------|-----------|--------|--------|--------|---------|
-| 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 3              | 3            | 1.5       |        | 0      | 3.5    | 3       |
-| 2 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 2              | 3            | 0.5       |        | 0      | 2      | 2       |
-| 3 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2              | 2            | 1         |        | 0      | 1.5    | 2       |
-| 4 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 1              | 3            | -0.5      | 1      | 0      | 1      | 1       |
-| 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 1              | 4            | -1        | 0      | 0      | 0.5    | 1       |
+| 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 3              | 3            | 1.5       |        | 0      | 2.5    | 3       |
+| 2 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2              | 2            | 1         |        | 0      | 1.5    | 2       |
+| 3 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 1              | 2            | 0         |        | 0      | 1      | 1       |
+| 4 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 1              | 2            | 0         |        | 0      | 1      | 1       |
+| 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 1              | 4            | -1        |        | 0      | 0.5    | 1       |
 | 6 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 0.5            | 2            | -0.5      | 0.5    | 0      | 0.25   | 0       |
 | 7 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 0.5            | 3            | -1        | 0.5    | 0      | 0.25   | 0       |
 | – | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) – | –              | –            | –         | –      | –      | –      | –       |
@@ -65,7 +65,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
 | 1 | Alonso Palazón, Jesús | ... | Urosa Lozano, Javier |
-| 3 | Del Amo Caballero, Sergio | 1 - 0 | Magán González, Alberto |
+| 3 | Del Amo Caballero, Sergio | ... | Magán González, Alberto |
 | 4 | Corral Ruano, Roberto | ... | García Manzanares, Mariano |
 | 5 | Carballido Mateo, Ignacio | + / - | Díaz Martín, Javier – |
 
