@@ -16,6 +16,8 @@ Domingo 13 de diciembre de 2026, de 10:00 a 13:00.
 
 Para inscribirse, las jugadoras deben rellenar el siguiente [formulario de inscripción](https://app.chesstournament64.com/public/tournaments/22/signup). [Ver inscritas](https://app.chesstournament64.com/public/tournaments/22/). Consultar las [bases](#bases) más abajo.
 
+![Cartel del II Torneo Ajedrez en Femenino](/assets/ii-torneo-ajedrez-en-femenino.png)
+
 ## Bases
 
 ### Participantes
