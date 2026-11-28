@@ -8,12 +8,12 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | # | **Jugador** | **Puntuación** | **Partidas** | **Media** | **DE** | **KS** | **SB** | **WIN** |
 |---|-------------|----------------|--------------|-----------|--------|--------|--------|---------|
-| 1 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 3              | 3            | 1.5       |        | 0      | 2.5    | 3       |
-| 2 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2              | 2            | 1         | 1      | 0      | 2.5    | 2       |
-| 3 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 2              | 3            | 0.5       | 0      | 0      | 2      | 2       |
+| 1 | [Magán González, Alberto](https://ratings.fide.com/profile/32068131) | 3              | 4            | 1         |        | 0      | 2.5    | 3       |
+| 2 | [García Manzanares, Mariano](https://ratings.fide.com/profile/553006135) | 3              | 3            | 1.5       |        | 0      | 2.5    | 3       |
+| 3 | [Urosa Lozano, Javier](https://ratings.fide.com/profile/24536946) | 2              | 2            | 1         |        | 1      | 3.5    | 2       |
 | 4 | [Del Amo Caballero, Sergio](https://ratings.fide.com/profile/535004274) | 1              | 3            | -0.5      | 1      | 0      | 1      | 1       |
 | 5 | [Carballido Mateo, Ignacio](https://ratings.fide.com/profile/22237852) | 1              | 4            | -1        | 0      | 0      | 0.5    | 1       |
-| 6 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 0.5            | 2            | -0.5      | 0.5    | 0      | 0.25   | 0       |
+| 6 | [Alonso Palazón, Jesús](https://ratings.fide.com/profile/535072300) | 0.5            | 3            | -1        | 0.5    | 0      | 0.25   | 0       |
 | 7 | [Corral Ruano, Roberto](https://ratings.fide.com/profile/523004410) | 0.5            | 3            | -1        | 0.5    | 0      | 0.25   | 0       |
 | – | [Díaz Martín, Javier](https://ratings.fide.com/profile/535072288) – | –              | –            | –         | –      | –      | –      | –       |
 {: .liga-descensos}
@@ -46,7 +46,7 @@ description: "Clasificación, emparejamientos y resultados del Grupo A de la V L
 
 | **Mesa** | **Blancas** | **Resultado** | **Negras** |
 |----------|-------------|---------------|------------|
-| 2 | Alonso Palazón, Jesús | ... | Magán González, Alberto |
+| 2 | Alonso Palazón, Jesús | 0 - 1 | Magán González, Alberto |
 | 3 | Carballido Mateo, Ignacio | 0 - 1 | García Manzanares, Mariano |
 | 4 | Del Amo Caballero, Sergio | ... | Corral Ruano, Roberto |
 | 5 | Díaz Martín, Javier – | - / + | Urosa Lozano, Javier |
